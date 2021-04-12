@@ -4,4 +4,5 @@ title: "Kontakt"
 description: "Kontakt"
 # save as draft
 draft: false
+phone: "+491314234234"
 ---
