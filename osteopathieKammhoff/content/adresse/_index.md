@@ -1,7 +1,7 @@
 ---
-title: "Datenschutz"
+title: "Adresse"
 # meta description
-description: "Datenschutz"
+description: "Adresse"
 # save as draft
 draft: false
 ---
