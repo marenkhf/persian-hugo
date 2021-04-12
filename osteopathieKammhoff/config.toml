@@ -60,7 +60,7 @@ copyright = "Designed By [Themefisher](https://themefisher.com/) & Developed By 
 # Preloader
 [params.preloader]
 enable = true
-preloader = "" # use jpg, png, svg or gif format.
+preloader = "jpg" # use jpg, png, svg or gif format.
 
 # cookies
 [params.cookies]
