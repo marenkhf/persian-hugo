@@ -39,9 +39,14 @@ url = "kontakt"
 weight = 2
 
 [[menu.main]]
+name = "Adresse"
+url = "adresse"
+weight = 3
+
+[[menu.main]]
 name = "Datenschutz"
 url = "datenschutz"
-weight = 3
+weight = 4
 
 
 #################### default parameters ################################

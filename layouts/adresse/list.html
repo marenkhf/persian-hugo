@@ -1,0 +1,30 @@
+{{ define "main" }}
+
+<section class="section-sm">
+  <div class="container">
+    <div class="text-center">
+      <h1 class="text-center display-3">{{.Title | markdownify }}</h1>
+    </div>
+  </div>
+</section>
+
+<section class="section-sm">
+    <div class="container">
+        <div class="text-center">
+            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2426.2815476723517!2d13.347182015704266!3d52.546431942022586!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47a8517c2bd930ad%3A0xfcee873c648c5309!2sBr%C3%BCsseler%20Str.%2038%2C%2013353%20Berlin%2C%20Germany!5e0!3m2!1sen!2sus!4v1618236540372!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+        </div>
+    </div>
+</section>
+
+<section class="section pt-0">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-8 mx-auto">
+        <div class="content">{{.Content}}</div>
+      </div>
+    </div>
+  </div>
+</section>
+
+{{ end }}
+
