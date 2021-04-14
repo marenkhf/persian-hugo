@@ -29,24 +29,29 @@ link = "plugins/bootstrap/bootstrap.min.js"
 
 ################################ menu ##################################
 [[menu.main]]
-name = "Über Mich"
+name = "Osteopathie"
 url = "/"
-weight = 1
+weight = 1  
+
+[[menu.main]]
+name = "Über Mich"
+url = "about"
+weight = 2
 
 [[menu.main]]
 name = "Kontakt"
 url = "kontakt"
-weight = 2
+weight = 3
 
 [[menu.main]]
 name = "Adresse"
 url = "adresse"
-weight = 3
+weight = 4
 
 [[menu.main]]
 name = "Datenschutz"
 url = "datenschutz"
-weight = 4
+weight = 5
 
 
 #################### default parameters ################################
