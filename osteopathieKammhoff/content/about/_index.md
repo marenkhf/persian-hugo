@@ -1,5 +1,5 @@
 ---
-image: "images/21_03_28_Praxis_Maren_Kammhoff_Jonas_Ruhs7.jpg"
+title: "images/21_03_28_Praxis_Maren_Kammhoff_Jonas_Ruhs7.jpg"
 image: "images/profile.jpg"
 description: "This is meta description."
 draft: false
