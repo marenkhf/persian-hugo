@@ -1,38 +1,37 @@
 ---
-title: "I'm a Freelance Interactive Art Director Based In France. Focusing Accross Branding And Identity"
+title: "images/profile.jpg"
 image: "images/profile.jpg"
 description: "This is meta description."
 draft: false
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Condimentum in urna justo elit turpis risuitae viverra enim. Augue quis vitae in non nisi, posuere ultrices tempus. Feugiat consequat suspendisse laoreet vitae enim adipiscing cursus. Duis nunc vitae tincidunt sed nibh id. Egestas erat consequat, ornare etiam donec faucibus. Lorem ut enim nunc, senectus adipiscing sed. Lobortis commodo aliquet pulvinar molestie faucibus diam. Semper porttitor justo, et dictum.
+Das ganzheitliche Behandlungskonzept der Osteopathie umfasst drei Teilbereiche, die gemeinsam in eine osteopathische Behandlung einfließen. Alle Systeme ergänzen sich und stehen in Wechselwirkung zueinander.  
+
+<br>
+<br>
+<br>
+ 
+## *Die drei Säulen der Osteopathie:*
 
 <br>
 <br>
 
-## My Education
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Condimentum in urna justo elit turpis risus vitae viverra enim. Augue quis vitae in non nisi Massa cras odio ante cursus.
-
-* Et ipsum euismod et aenean duis.
-* Mate ipsum euismod nulla et diam.
-* Rio euismod nulla et aenean diam konta.  
+### Parietale Osteopathie  
+<br>
+Die funktionelle Diagnostik und Behandlung des Bewegungsapparats stehen im Vordergrund. Wesentliche Elemente sind Gelenke, Sehnen, Bänder sowie Muskeln und Faszien.
 
 <br>
 <br>
 
-## My Hobbies
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Condimentum in urna justo elit turpis risus vitae viverra enim. Augue quis vitae in non nisi Massa cras odio ante cursus.
-
-* Et ipsum euismod et aenean duis.
-* Mate ipsum euismod nulla et diam.
-* Rio euismod nulla et aenean diam konta.
+### Viszerale Ostoepathie  
+<br>
+Die Untersuchung und Behandlung fokussiert sich auf unsere inneren Organe und ihre umgebenden Strukturen, auf Nerven, sowie auf zu- und abführende Gefäße, wie etwa das Lymph- und Blutgefäßsystem.
 
 <br>
 <br>
 
-## My Experiences
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Condimentum in urna justo elit turpis risus vitae viverra enim. Augue quis vitae in non nisi Massa cras odio ante cursus.
+### Kraniale Osteopathie  
+<br>
+In der kranialen osteopathischen Behandlung steht die feine Ausrichtung und Funktion der Schädelknochen einserseits sowie des Kreuzbeins andererseits im Zentrum. Schädel und Kreuzbein stehen über Hirn- und Rückenmarkshäute sowie über den Liquor miteinander in Verbindung und werden als funktionelle Einheit betrachtet.
 
-1. Et ipsum euismod et aenean duis.
-2. Mate ipsum euismod nulla et diam.
-3. Rio euismod nulla et aenean diam konta.
+

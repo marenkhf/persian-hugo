@@ -56,4 +56,4 @@ Erkunden Sie sich bei Ihrer Krankenkasse oder wenden Sie sich bei Fragen an mich
 <br>
 ________________________________________________________________________________________________  
 <br>
-(assets/images/21_03_28_Praxis_Maren_Kammhoff_Jonas_Ruhs 7.jpg)
+(images/21_03_28_Praxis_Maren_Kammhoff_Jonas_Ruhs 7.jpg)
