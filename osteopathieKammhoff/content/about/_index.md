@@ -17,10 +17,10 @@ Osteopathie, März 2021
 Vollzeitstudium **[OSD-Berlin](https://www.osteopathie-schule.de/ "Studium an der OSD")**  
   
 **VFO-Mitglied**  
-Verband freier Osteopathen, März 2021  
+Verband freier Osteopathen, Februar 2021  
   
 **Heilpraktikerin**  
-Gesundheitsamt Lichtenberg Berlin, März 2021  
+Gesundheitsamt Lichtenberg Berlin, Januar 2021  
   
 **Internationaler und interdisziplinärer Osteopathie-Kongress**  
 Fasziale Ansätze, 2018  
