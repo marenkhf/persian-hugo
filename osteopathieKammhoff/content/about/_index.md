@@ -3,8 +3,8 @@ title: "Maren Kammhoff"
 image: "images/profile.jpg"
 description: "This is meta description."
 gallery: 
-    - images/osteo01.jpg
-    - images/osteo02.jpg
+    - images/Uebermich1-min.jpg
+    - images/Uebermich3-min.jpg
 ---
   
    
