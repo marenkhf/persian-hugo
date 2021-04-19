@@ -9,10 +9,12 @@ media:
         - osteo02.jpg
 ---
   
-## *Osteopathie als Behandlungskonzept*  
+ 
   
->> ### "Der Mensch besitzt selbstregulierende Mechanismen und die natürliche Fähigkeit zur Selbstheilung"
+>> ### "Der Mensch besitzt selbstregulierende Mechanismen und die natürliche Fähigkeit zur Selbstheilung."
 >>Grundprinzip der Osteopathie  
+<br>  
+
   
 Die Osteopathie stellt eine eigenständige Form der medizinischen Grundversorgung dar.
 
@@ -25,19 +27,26 @@ Die osteopathische Behandlung setzt an den Ursachen von Beschwerden an und bezie
 Weiterführende Informationen finden Sie z.B. beim **[VFO e.V.](https://www.vfo.de/was-ist-osteopathie "Was ist Osteopathie")**  
 
 Das ganzheitliche Behandlungskonzept der Osteopathie umfasst drei Teilbereiche, die gemeinsam in eine osteopathische Behandlung einfließen:  
+<br>
+<br>
  
-## *Die drei Säulen der Osteopathie*
+## *Die drei Säulen der Osteopathie*  
+<br>
+<br>
 
 ### Parietale Osteopathie  
   
 > Die funktionelle Diagnostik und Behandlung des Bewegungsapparats stehen im Vordergrund.  
 Wesentliche Elemente sind Gelenke, Sehnen, Bänder sowie Muskeln und Faszien.
 
-Wesentliche Elemente sind Gelenke, Sehnen, Bänder sowie Muskeln und Faszien.  
+<br>
+
 
 ### Viszerale Ostoepathie  
   
 >Die Untersuchung und Behandlung fokussiert sich auf unsere inneren Organe und ihre umgebenden Strukturen, auf Nerven, sowie auf zu- und abführende Gefäße, wie etwa das Lymph- und Blutgefäßsystem.
+
+<br>
 
 
 ### Kraniale Osteopathie  
