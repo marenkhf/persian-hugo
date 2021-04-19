@@ -7,7 +7,7 @@ draft: false
   
  
   
->> ### "Der Mensch besitzt selbstregulierende Mechanismen und die natürliche Fähigkeit zur Selbstheilung"
+>> ### "Der Mensch besitzt selbstregulierende Mechanismen und die natürliche Fähigkeit zur Selbstheilung."
 >>Grundprinzip der Osteopathie  
 <br>  
   
