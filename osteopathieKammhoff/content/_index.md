@@ -12,7 +12,7 @@ draft: false
 ## *Osteopathie als Behandlungskonzept*   
 <br>    
   
->> ### "Der Mensch besitzt selbstregulierende Mechanismen und die natürliche Fähigkeit zur Selbstheilung" Grundprinzip der Osteopathie
+>> ### "Der Mensch besitzt selbstregulierende Mechanismen und die natürliche Fähigkeit zur Selbstheilung" <br> <br> Grundprinzip der Osteopathie
                         
 <br>
 <br>
@@ -25,7 +25,7 @@ Detaillierte Kenntnisse der Anatomie und Physiologie des menschlichen Körpers w
 Die osteopathische Behandlung setzt an den Ursachen von Beschwerden an und bezieht verschiedene Faktoren, physischer und nicht-physischer Natur, mit ein. Dabei spielt der Fokus auf die individuelle Gesundheit, im Sinne der Salutogenese, eine wichtige Rolle.
 
 
-Weiterführende Informationen finden Sie z.B. beim **[VFO e.V.](https://www.vfo.de/was-ist-osteopathie "Was ist Osteopathie")**.
+Weiterführende Informationen finden Sie z.B. beim **[VFO e.V.](https://www.vfo.de/was-ist-osteopathie "Was ist Osteopathie")**
 <br>
 <br>
 
