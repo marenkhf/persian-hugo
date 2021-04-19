@@ -27,8 +27,6 @@ draft: false
 <br>
 <br>
 <br>
-<br>
-
 
 ### Kosten  
 <br>
@@ -37,20 +35,17 @@ draft: false
 <br>
 Im Vordergrund der Erstbehandlung steht das ausführliche Gespräch und eine umfangreiche Untersuchung, um eine spezifische osteopathische Diagnose stellen zu können. Daraufhin erfolgt eine individuelle Behandlung.  
 <br>
-Die Folgebehandlungen bestehen aus einer individuellen osteopathischen Untersuchung und spezifischen Behandlung.  
-<br>  
-<br>  
+Die Folgebehandlung besteht aus einer individuellen osteopathischen Untersuchung und spezifischen Behandlung.  
+<br> 
 <br>
-
 
  ### Kostenübernahme  
 <br>
 
-Die gesetzlichen Krankenkassen übernehmen einen Teil der Behandlungskosten. [Hier](https://www.krankenkassen.de/gesetzliche-krankenkassen/leistungen-gesetzliche-krankenkassen/alternative-heilmethoden/osteopathie) finden Sie eine Liste mit Krankenkassen, die osteopathische Behandlungen unterstützen.  
-<br>
+Die gesetzlichen Krankenkassen übernehmen einen Teil der Behandlungskosten. **[Hier](https://www.krankenkassen.de/gesetzliche-krankenkassen/leistungen-gesetzliche-krankenkassen/alternative-heilmethoden/osteopathie)** finden Sie eine Liste mit Krankenkassen, die osteopathische Behandlungen unterstützen.  
 <br>
 
 Private Krankenversicherungen übernehmen oft Kosten für eine osteopathische Behandlung im Rahmen einer Pauschale für Heilpraktiker.  
-
 <br>
+
 Erkunden Sie sich bei Ihrer Krankenkasse oder wenden Sie sich bei Fragen an mich.

@@ -6,7 +6,8 @@ description: "Adresse"
 draft: false
 ---
 
-Die Praxis ist in Frohnau.
+Die Praxis ist in Frohnau.  
+<br>
 
 ### Anfahrt  
 <br>
@@ -16,13 +17,11 @@ Die Praxisräume befinden sich in der Mehringer Str. 59, 13465 Berlin. Sie sind 
 Die Praxis ist sowohl mit dem Auto als auch mit den öffentlichen Verkehrsmitteln gut zu erreichen.  
 <br>
 <br>
-<br>
 
 #### Bus  
 <br>
 
-Die Busstation **Am Pilz** wird von der Linie **Bus 125** angefahren und befindet sich 5 Minuten Laufnähe zur Praxis.  
-<br>
+Die Busstation **Am Pilz** wird von der **Buslinie 125** angefahren und befindet sich in 5 Minuten Laufnähe zur Praxis.  
 <br>
 <br>
 
@@ -32,9 +31,8 @@ Die Busstation **Am Pilz** wird von der Linie **Bus 125** angefahren und befinde
 Die **S-Bahn S1** fährt nach Frohnau.  
 <br>
 <br>
-<br>
 
 #### Parken  
 <br>
 
-Das Parken ist in der Straße und gegenüber vom **Waldstück Pilz** problemlos möglich.
+Das Parken ist in **Mehringer Straße** und gegenüber vom **Waldstück Pilz** problemlos möglich.

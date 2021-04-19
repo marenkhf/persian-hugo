@@ -20,12 +20,10 @@ Osteopathie, vsl. März 2022
 Vollzeitstudium **[OSD-Berlin](https://www.osteopathie-schule.de/ "Studium an der OSD")**  
 <br>
 <br>
-<br>
 **Bachelor of Science**  
 <br> 
 Osteopathie, März 2021  
 Vollzeitstudium **[OSD-Berlin](https://www.osteopathie-schule.de/ "Studium an der OSD")**  
-<br>
 <br>
 <br>
 **VFO-Mitglied**  
@@ -33,15 +31,12 @@ Vollzeitstudium **[OSD-Berlin](https://www.osteopathie-schule.de/ "Studium an de
 Verband freier Osteopathen, März 2021  
 <br>
 <br>
-<br>
 **Heilpraktikerin**  
 <br>
 Gesundheitsamt Lichtenberg Berlin, März 2021  
 <br>
 <br>
-<br>
 **Internationaler und interdisziplinärer Osteopathie-Kongress**  
 <br>
 Fasziale Ansätze, 2018  
-<br>
 Osteopathische Philosophie und Modelle, 2017
