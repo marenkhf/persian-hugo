@@ -21,24 +21,24 @@ draft: false
 * Bauchschmerzen und Verdauungsproblemen
 * Müdigkeit/Abgeschlagenheit
 * Innerer Unruhe
-* Beschwerden in der Schwangerschaft und nach der Entbindung
-
-
-
+* Beschwerden in der Schwangerschaft und nach der Entbindung  
 
 
 ### Kosten  
 
 Behandlung: 90 Euro  
 
-Im Vordergrund der Erstbehandlung steht das ausführliche Gespräch und eine umfangreiche Untersuchung, um eine spezifische osteopathische Diagnose stellen zu können. Daraufhin erfolgt eine individuelle Behandlung.
+Im Vordergrund der Erstbehandlung steht das ausführliche Gespräch und eine umfangreiche Untersuchung, um eine spezifische osteopathische Diagnose stellen zu können. Daraufhin erfolgt eine individuelle Behandlung.   
 
-Die Folgebehandlungen bestehen aus einer individuellen osteopathischen Untersuchung und spezifischen Behandlung
+
+<p>Die Folgebehandlungen bestehen aus einer individuellen osteopathischen Untersuchung und spezifischen Behandlung.  
+</p> 
+
 
  ### Kostenübernahme  
 
-     
-Die gesetzlichen Krankenkassen übernehmen einen Teil der Behandlungskosten. Hier finden Sie eine Liste mit Krankenkassen, die osteopathische Behandlungen unterstützen.  
+
+Die gesetzlichen Krankenkassen übernehmen einen Teil der Behandlungskosten. [Hier](https://www.krankenkassen.de/gesetzliche-krankenkassen/leistungen-gesetzliche-krankenkassen/alternative-heilmethoden/osteopathie/) finden Sie eine Liste mit Krankenkassen, die osteopathische Behandlungen unterstützen.  
 
 Private Krankenversicherungen übernehmen oft Kosten für eine osteopathische Behandlung im Rahmen einer Pauschale für Heilpraktiker. 
 
