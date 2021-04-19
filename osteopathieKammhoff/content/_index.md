@@ -8,9 +8,8 @@ gallery:
 ---
   
  
-  
-> ### "Der Mensch besitzt selbstregulierende Mechanismen und die natürliche Fähigkeit zur Selbstheilung."
->Grundprinzip der Osteopathie  
+>> ### "Der Mensch besitzt selbstregulierende Mechanismen und die natürliche Fähigkeit zur Selbstheilung."
+>>Grundprinzip der Osteopathie  
 <br>  
 
   

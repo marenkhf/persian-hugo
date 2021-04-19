@@ -9,6 +9,7 @@ gallery:
 
 
 ### Behandlung von  
+<br>
 
 * chronischen Schmerzen
 * akuten Verletzungen
@@ -20,12 +21,19 @@ gallery:
 * Müdigkeit/Abgeschlagenheit
 * Innerer Unruhe
 * Beschwerden in der Schwangerschaft und nach der Entbindung  
+<br>
 
 ### Kosten  
 
 **Behandlung: 90 Euro**  
+<br>
+
+**Dauer Erstbehandlung: 60 min      Dauer Folgebehandlung: 45-60min**
+<br>
+
 Im Vordergrund der Erstbehandlung steht das ausführliche Gespräch und eine umfangreiche Untersuchung, um eine spezifische osteopathische Diagnose stellen zu können. Daraufhin erfolgt eine individuelle Behandlung.  
 Die Folgebehandlung besteht aus einer individuellen osteopathischen Untersuchung und spezifischen Behandlung.  
+<br>
 
 ### Kostenübernahme  
 Die gesetzlichen Krankenkassen übernehmen einen Teil der Behandlungskosten. **[Hier](https://www.krankenkassen.de/gesetzliche-krankenkassen/leistungen-gesetzliche-krankenkassen/alternative-heilmethoden/osteopathie)** finden Sie eine Liste mit Krankenkassen, die osteopathische Behandlungen unterstützen.  
