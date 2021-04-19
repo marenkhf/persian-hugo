@@ -20,7 +20,7 @@ Das ganzheitliche Behandlungskonzept der Osteopathie umfasst drei Teilbereiche, 
 <br>
 <br>
  
-## *Die drei Säulen der Osteopathie:*
+## *Die drei Säulen der Osteopathie*
 
 <br>
 <br>
