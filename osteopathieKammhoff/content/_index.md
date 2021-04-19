@@ -26,7 +26,9 @@ Das ganzheitliche Behandlungskonzept der Osteopathie umfasst drei Teilbereiche, 
   
 ### Parietale Osteopathie  
 <br>
-Die funktionelle Diagnostik und Behandlung des Bewegungsapparats stehen im Vordergrund. Wesentliche Elemente sind Gelenke, Sehnen, Bänder sowie Muskeln und Faszien.
+Die funktionelle Diagnostik und Behandlung des Bewegungsapparats stehen im Vordergrund.   
+
+Wesentliche Elemente sind Gelenke, Sehnen, Bänder sowie Muskeln und Faszien.
 
 <br>
 <br>
@@ -42,6 +44,8 @@ Die Untersuchung und Behandlung fokussiert sich auf unsere inneren Organe und ih
 
 ### Kraniale Osteopathie  
 <br>
-In der kranialen osteopathischen Behandlung steht die feine Ausrichtung und Funktion der Schädelknochen einserseits sowie des Kreuzbeins andererseits im Zentrum. Schädel und Kreuzbein stehen über Hirn- und Rückenmarkshäute sowie über den Liquor miteinander in Verbindung und werden als funktionelle Einheit betrachtet.
+In der kranialen osteopathischen Behandlung steht die feine Ausrichtung und Funktion der Schädelknochen einserseits sowie des Kreuzbeins andererseits im Zentrum.   
+
+Schädel und Kreuzbein stehen über Hirn- und Rückenmarkshäute sowie über den Liquor miteinander in Verbindung und werden als funktionelle Einheit betrachtet.
 
 
