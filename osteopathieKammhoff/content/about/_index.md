@@ -2,7 +2,6 @@
 title: "Maren Kammhoff"
 image: "images/profile.jpg"
 description: "This is meta description."
-draft: false
 ---
   
    

@@ -2,8 +2,6 @@
 title: "Praxis"
 # meta description
 description: "Praxis"
-# save as draft
-draft: false
 ---
 
 Die Praxis ist in Frohnau.  
