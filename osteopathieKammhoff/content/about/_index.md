@@ -13,12 +13,27 @@ ________________________________________________
 <br>
 <br>
 
-## My Education
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Condimentum in urna justo elit turpis risus vitae viverra enim. Augue quis vitae in non nisi Massa cras odio ante cursus.
-
-* Et ipsum euismod et aenean duis.
-* Mate ipsum euismod nulla et diam.
-* Rio euismod nulla et aenean diam konta.  
-
+  
+**Master of Science**  
+<br>
+Osteopathie, vsl. März 2022   
+Vollzeitstudium **[OSD-Berlin](https://www.osteopathie-schule.de/ "Studium an der OSD")**  
 <br>
 <br>
+<br>
+**Bachelor of Science**  
+<br> 
+Osteopathie, März 2021  
+Vollzeitstudium **[OSD-Berlin](https://www.osteopathie-schule.de/ "Studium an der OSD")**  
+<br>
+<br>
+<br>
+**VFO-Mitglied**  
+<br>
+Verband freier Osteopathen, März 2021  
+<br>
+<br>
+<br>
+**Heilpraktikerin**  
+<br>
+Gesundheitsamt Lichtenberg Berlin, März 2021  

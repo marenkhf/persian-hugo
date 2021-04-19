@@ -32,8 +32,8 @@ draft: false
 
 ### Kosten  
 <br>
+
 **Behandlung: 90 Euro**  
-<br>  
 <br>
 Im Vordergrund der Erstbehandlung steht das ausführliche Gespräch und eine umfangreiche Untersuchung, um eine spezifische osteopathische Diagnose stellen zu können. Daraufhin erfolgt eine individuelle Behandlung.  
 <br>
@@ -45,6 +45,7 @@ Die Folgebehandlungen bestehen aus einer individuellen osteopathischen Untersuch
 
  ### Kostenübernahme  
 <br>
+
 Die gesetzlichen Krankenkassen übernehmen einen Teil der Behandlungskosten. [Hier](https://www.krankenkassen.de/gesetzliche-krankenkassen/leistungen-gesetzliche-krankenkassen/alternative-heilmethoden/osteopathie) finden Sie eine Liste mit Krankenkassen, die osteopathische Behandlungen unterstützen.  
 <br>
 <br>
