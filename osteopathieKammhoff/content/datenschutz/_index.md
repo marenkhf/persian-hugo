@@ -1,7 +1,7 @@
 ---
-title: "Datenschutz"
+title: "Impressum/ Datenschutz"
 # meta description
-description: "Datenschutz"
+description: "Impressum/ Datenschutz"
 ---
 
 bottom line is it’s our aim to always take care of both of us, 

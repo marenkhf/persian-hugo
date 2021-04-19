@@ -54,7 +54,7 @@ url = "kontakt"
 weight = 5
 
 [[menu.main]]
-name = "Datenschutz"
+name = "Impressum/ Datenschutz"
 url = "datenschutz"
 weight = 6
 
