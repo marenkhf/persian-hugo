@@ -26,7 +26,6 @@ gallery:
 ### Kosten  
 
 **Behandlung: 90 Euro**  
-<br>
 **Dauer Erstbehandlung: 60 min -- Dauer Folgebehandlung: 45-60min**
 <br>
 
