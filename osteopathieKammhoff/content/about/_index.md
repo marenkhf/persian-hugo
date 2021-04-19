@@ -8,7 +8,7 @@ draft: false
 # *Maren Kammhoff*  
   
 <br>  
-________________________________________________
+_____________________________________________________________
 
 <br>
 <br>
@@ -21,7 +21,7 @@ Vollzeitstudium **[OSD-Berlin](https://www.osteopathie-schule.de/ "Studium an de
 <br>
 <br>
 **Bachelor of Science**  
-<br> 
+<br>
 Osteopathie, März 2021  
 Vollzeitstudium **[OSD-Berlin](https://www.osteopathie-schule.de/ "Studium an der OSD")**  
 <br>
