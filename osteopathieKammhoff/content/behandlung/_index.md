@@ -2,8 +2,9 @@
 title: "Behandlung"
 # meta description
 description: "Behandlung"
-# save as draft
-draft: false
+gallery: 
+    - images/osteo01.jpg
+    - images/osteo02.jpg
 ---  
 
 

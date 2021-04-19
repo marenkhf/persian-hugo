@@ -2,8 +2,10 @@
 
 <section class="section-sm">
   <div class="container">
-    <div class="text-center">
-      <h1 class="text-center display-3">{{.Title | markdownify }}</h1>
+    <div class="row">
+      <div class="col-lg-8 mx-auto text-center">
+          <h1 class="text-center">{{.Title | markdownify }}</h1>
+      </div>
     </div>
   </div>
 </section>
@@ -11,11 +13,27 @@
 <section class="section pt-0">
   <div class="container">
     <div class="row">
-      <div class="col-lg-8 mx-auto">
+      <div class="col-lg-6 mx-auto">
         <div class="content">{{.Content}}</div>
       </div>
     </div>
   </div>
 </section>
+
+{{ with .Params.gallery }}
+<hr>
+<section class="section">
+  <div class="container">
+    {{ range $i,$e := . }}
+    {{ if $i }}
+    <br>
+    {{ end }}
+    <div class="col-lg-8 mx-auto text-center">
+      <img src="{{ $e | absURL }}" alt="author" class="img-fluid w-100" alt="Gallery Image">
+    </div>
+    {{ end }}
+  </div>
+</section>
+{{ end }}
 
 {{ end }}

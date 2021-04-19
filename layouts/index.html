@@ -4,7 +4,7 @@
   <div class="container">
     <div class="row">
       <div class="col-lg-12 mx-auto text-center">
-        <img src="{{ .Params.image | absURL }}" alt="author" class="img-fluid w-100" alt="{{ .Title }}">
+        <img src="{{ .Params.image | absURL }}" class="img-fluid w-100" alt="{{ .Params.title }}">
       </div>
     </div>
   </div>
@@ -17,5 +17,21 @@
     </div>
   </div>
 </section>
+
+{{ with .Params.gallery }}
+<hr>
+<section class="section">
+  <div class="container">
+    {{ range $i,$e := . }}
+    {{ if $i }}
+    <br>
+    {{ end }}
+    <div class="col-lg-6 mx-auto text-center">
+      <img src="{{ $e | absURL }}" alt="author" class="img-fluid w-100" alt="Gallery Image">
+    </div>
+    {{ end }}
+  </div>
+</section>
+{{ end }}
 
 {{ end }}

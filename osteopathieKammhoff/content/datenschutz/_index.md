@@ -2,8 +2,6 @@
 title: "Datenschutz"
 # meta description
 description: "Datenschutz"
-# save as draft
-draft: false
 ---
 
 bottom line is it’s our aim to always take care of both of us, 
