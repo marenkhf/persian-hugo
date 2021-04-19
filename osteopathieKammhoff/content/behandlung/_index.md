@@ -38,7 +38,7 @@ Im Vordergrund der Erstbehandlung steht das ausführliche Gespräch und eine umf
  ### Kostenübernahme  
 
 
-Die gesetzlichen Krankenkassen übernehmen einen Teil der Behandlungskosten. [Hier](https://www.krankenkassen.de/gesetzliche-krankenkassen/leistungen-gesetzliche-krankenkassen/alternative-heilmethoden/osteopathie/) finden Sie eine Liste mit Krankenkassen, die osteopathische Behandlungen unterstützen.  
+Die gesetzlichen Krankenkassen übernehmen einen Teil der Behandlungskosten. **[Hier](https://www.krankenkassen.de/gesetzliche-krankenkassen/leistungen-gesetzliche-krankenkassen/alternative-heilmethoden/osteopathie/)** finden Sie eine Liste mit Krankenkassen, die osteopathische Behandlungen unterstützen.  
 
 Private Krankenversicherungen übernehmen oft Kosten für eine osteopathische Behandlung im Rahmen einer Pauschale für Heilpraktiker. 
 
