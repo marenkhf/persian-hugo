@@ -8,6 +8,7 @@ draft: false
 # *Maren Kammhoff*  
   
 <br>  
+
 ________________________________________________________________________________________________
 
 <br>
@@ -40,4 +41,9 @@ Gesundheitsamt Lichtenberg Berlin, März 2021
 **Internationaler und interdisziplinärer Osteopathie-Kongress**  
 <br>
 Fasziale Ansätze, 2018  
-Osteopathische Philosophie und Modelle, 2017
+Osteopathische Philosophie und Modelle, 2017  
+<br>
+<br>
+<br>
+________________________________________________________________________________________________  
+<br>
