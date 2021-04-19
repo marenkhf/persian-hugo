@@ -41,6 +41,8 @@ Die Untersuchung und Behandlung fokussiert sich auf unsere inneren Organe und ih
 <br>
 <br>
 <br>
+<br>
+
 
 ### Kraniale Osteopathie  
 <br>
