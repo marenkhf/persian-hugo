@@ -49,8 +49,8 @@ url = "kontakt"
 weight = 4
 
 [[menu.main]]
-name = "Adresse"
-url = "adresse"
+name = "Praxis"
+url = "praxis"
 weight = 5
 
 [[menu.main]]
