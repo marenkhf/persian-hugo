@@ -21,7 +21,7 @@ draft: false
 Die Osteopathie stellt eine eigenständige Form der medizinischen Grundversorgung dar.
 
 Die Diagnostik und Behandlung erfolgt primär durch die Hände, also manuell.  
-Detaillierte Kenntnisse der Anatomie und Physiologie des menschlichen Körpers werden mit klinischen Untersuchungsmethoden verbunden, um die Beweglihckiet des Bewegungsapparates und der Organe zu beurteilen. Neben dem Element der Berührung spielen das Gespräch und der zwischenmenschliche Kontakt eine wichtige Rolle.
+Detaillierte Kenntnisse der Anatomie und Physiologie des menschlichen Körpers werden mit klinischen Untersuchungsmethoden verbunden, um die Beweglichkeit des Bewegungsapparates und der Organe zu beurteilen. Neben dem Element der Berührung spielen das Gespräch und der zwischenmenschliche Kontakt eine wichtige Rolle.
 
 Die osteopathische Behandlung setzt an den Ursachen von Beschwerden an und bezieht verschiedene Faktoren, physischer und nicht-physischer Natur, mit ein. Dabei spielt der Fokus auf die individuelle Gesundheit, im Sinne der Salutogenese, eine wichtige Rolle.
 
