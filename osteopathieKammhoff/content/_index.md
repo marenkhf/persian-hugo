@@ -12,7 +12,8 @@ draft: false
 ## *Osteopathie als Behandlungskonzept*   
 <br>    
   
->> ### "Der Mensch besitzt selbstregulierende Mechanismen und die natürliche Fähigkeit zur Selbstheilung" <br> <br> Grundprinzip der Osteopathie
+>> ### "Der Mensch besitzt selbstregulierende Mechanismen und die natürliche Fähigkeit zur Selbstheilung" <br> <br> 
+>>Grundprinzip der Osteopathie
                         
 <br>
 <br>

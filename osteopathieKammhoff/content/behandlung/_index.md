@@ -48,7 +48,7 @@ Die gesetzlichen Krankenkassen übernehmen einen Teil der Behandlungskosten. **[
 Private Krankenversicherungen übernehmen oft Kosten für eine osteopathische Behandlung im Rahmen einer Pauschale für Heilpraktiker.  
 <br>
 
-Erkunden Sie sich bei Ihrer Krankenkasse oder wenden Sie sich bei Fragen an mich.  
+Erkunden Sie sich bei Ihrer Krankenkasse oder wenden Sie sich bei Fragen an **[mich](https://www.osteopathiekammhoff.de/kontakt/ "Kontakt")**.  
 <br>
 <br>
 <br>
