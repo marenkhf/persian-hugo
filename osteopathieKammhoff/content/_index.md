@@ -4,8 +4,12 @@ image: "images/profile.jpg"
 description: "This is meta description."
 draft: false
 ---
+  
+<br>
+<br>
+<br>
 
-Das ganzheitliche Behandlungskonzept der Osteopathie umfasst drei Teilbereiche, die gemeinsam in eine osteopathische Behandlung einfließen. Alle Systeme ergänzen sich und stehen in Wechselwirkung zueinander.  
+Das ganzheitliche Behandlungskonzept der Osteopathie umfasst drei Teilbereiche, die gemeinsam in eine osteopathische Behandlung einfließen. Alle Systeme im menschlichen Körper ergänzen sich und stehen in Wechselwirkung zueinander.  
 
 <br>
 <br>
@@ -15,11 +19,16 @@ Das ganzheitliche Behandlungskonzept der Osteopathie umfasst drei Teilbereiche, 
 
 <br>
 <br>
+<br>
 
+  
+    
+  
 ### Parietale Osteopathie  
 <br>
 Die funktionelle Diagnostik und Behandlung des Bewegungsapparats stehen im Vordergrund. Wesentliche Elemente sind Gelenke, Sehnen, Bänder sowie Muskeln und Faszien.
 
+<br>
 <br>
 <br>
 
@@ -27,6 +36,7 @@ Die funktionelle Diagnostik und Behandlung des Bewegungsapparats stehen im Vorde
 <br>
 Die Untersuchung und Behandlung fokussiert sich auf unsere inneren Organe und ihre umgebenden Strukturen, auf Nerven, sowie auf zu- und abführende Gefäße, wie etwa das Lymph- und Blutgefäßsystem.
 
+<br>
 <br>
 <br>
 
