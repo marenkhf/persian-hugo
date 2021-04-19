@@ -12,9 +12,24 @@ draft: false
 ## *Osteopathie als Behandlungskonzept*   
 <br>    
   
->In der Osteopathie spielt Bewegung die Hauptrolle. Bewegungen - von der Zelle bis zu großen Gelenken - sind notwendig, um einen guten Stoffwechsel und eine gute Funktion zu ermöglichen.   
-Die Osteopathie verbindet detaillierte Kenntnisse der Anatomie und Physiologie des menschlichen Körpers mit klinischen Untersuchungsmethoden, um die Beweglichkeit des Bewegungs­apparates und der Organe zu beurteilen und nach der Ursache von Problemen zu forschen.   
-Das ganzheitliche Behandlungskonzept der Osteopathie umfasst drei Teilbereiche, die gemeinsam in eine osteopathische Behandlung einfließen. Alle Systeme im menschlichen Körper ergänzen sich und stehen in Wechselwirkung zueinander.  
+>> ### "Der Mensch besitzt selbstregulierende Mechanismen und die natürliche Fähigkeit zur Selbstheilung" Grundprinzip der Osteopathie
+                        
+<br>
+<br>
+
+Die Osteopathie stellt eine eigenständige Form der medizinischen Grundversorgung dar.
+
+Die Diagnostik und Behandlung erfolgt primär durch die Hände, also manuell.  
+Detaillierte Kenntnisse der Anatomie und Physiologie des menschlichen Körpers werden mit klinischen Untersuchungsmethoden verbunden, um die Beweglihckiet des Bewegungsapparates und der Organe zu beurteilen. Neben dem Element der Berührung spielen das Gespräch und der zwischenmenschliche Kontakt eine wichtige Rolle.
+
+Die osteopathische Behandlung setzt an den Ursachen von Beschwerden an und bezieht verschiedene Faktoren, physischer und nicht-physischer Natur, mit ein. Dabei spielt der Fokus auf die individuelle Gesundheit, im Sinne der Salutogenese, eine wichtige Rolle.
+
+
+Weiterführende Informationen finden Sie z.B. beim **[VFO e.V.](https://www.vfo.de/was-ist-osteopathie "Was ist Osteopathie")**.
+<br>
+<br>
+
+Das ganzheitliche Behandlungskonzept der Osteopathie umfasst drei Teilbereiche, die gemeinsam in eine osteopathische Behandlung einfließen:
 
 <br>
 <br>
@@ -31,8 +46,8 @@ Das ganzheitliche Behandlungskonzept der Osteopathie umfasst drei Teilbereiche, 
   
 ### Parietale Osteopathie  
 <br>
-Die funktionelle Diagnostik und Behandlung des Bewegungsapparats stehen im Vordergrund.   
 
+> Die funktionelle Diagnostik und Behandlung des Bewegungsapparats stehen im Vordergrund.   
 Wesentliche Elemente sind Gelenke, Sehnen, Bänder sowie Muskeln und Faszien.
 
 <br>
@@ -41,7 +56,8 @@ Wesentliche Elemente sind Gelenke, Sehnen, Bänder sowie Muskeln und Faszien.
 
 ### Viszerale Ostoepathie  
 <br>
-Die Untersuchung und Behandlung fokussiert sich auf unsere inneren Organe und ihre umgebenden Strukturen, auf Nerven, sowie auf zu- und abführende Gefäße, wie etwa das Lymph- und Blutgefäßsystem.
+
+>Die Untersuchung und Behandlung fokussiert sich auf unsere inneren Organe und ihre umgebenden Strukturen, auf Nerven, sowie auf zu- und abführende Gefäße, wie etwa das Lymph- und Blutgefäßsystem.
 
 <br>
 <br>
@@ -51,8 +67,8 @@ Die Untersuchung und Behandlung fokussiert sich auf unsere inneren Organe und ih
 
 ### Kraniale Osteopathie  
 <br>
-In der kranialen osteopathischen Behandlung steht die feine Ausrichtung und Funktion der Schädelknochen einserseits sowie des Kreuzbeins andererseits im Zentrum.   
 
+> In der kranialen osteopathischen Behandlung steht die feine Ausrichtung und Funktion der Schädelknochen einserseits sowie des Kreuzbeins andererseits im Zentrum.   
 Schädel und Kreuzbein stehen über Hirn- und Rückenmarkshäute sowie über den Liquor miteinander in Verbindung und werden als funktionelle Einheit betrachtet.
 
 
