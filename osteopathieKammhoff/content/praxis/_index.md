@@ -4,7 +4,7 @@ title: "Praxis"
 description: "Praxis"
 gallery: 
     - images/Osteopathie3-min.jpg
-    - images/Behandlung4-min.jpg
+    - images/Behandlung 4-min.jpg
 ---
 
 Die Praxis ist in Frohnau.  
