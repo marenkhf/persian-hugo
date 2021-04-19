@@ -9,7 +9,7 @@ draft: false
 <br>
 <br>
 
-## Osteopathie als Behandlungskonzept   
+## *Osteopathie als Behandlungskonzept*   
 <br>    
   
 >In der Osteopathie spielt Bewegung die Hauptrolle. Bewegungen - von der Zelle bis zu großen Gelenken - sind notwendig, um einen guten Stoffwechsel und eine gute Funktion zu ermöglichen.   
