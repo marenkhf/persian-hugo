@@ -37,3 +37,11 @@ Verband freier Osteopathen, März 2021
 **Heilpraktikerin**  
 <br>
 Gesundheitsamt Lichtenberg Berlin, März 2021  
+<br>
+<br>
+<br>
+**Internationaler und interdisziplinärer Osteopathie-Kongress**  
+<br>
+Fasziale Ansätze, 2018  
+<br>
+Osteopathische Philosophie und Modelle, 2017
