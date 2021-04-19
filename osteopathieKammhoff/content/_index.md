@@ -3,8 +3,8 @@ title: "Osteopathie"
 image: "images/title.jpg"
 description: "This is meta description."
 gallery:
-    - osteo01.jpg
-    - osteo02.jpg
+    - images/osteo01.jpg
+    - images/osteo02.jpg
 ---
   
  

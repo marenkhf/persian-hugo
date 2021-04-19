@@ -2,6 +2,9 @@
 title: "Praxis"
 # meta description
 description: "Praxis"
+gallery: 
+    - images/osteo01.jpg
+    - images/osteo02.jpg
 ---
 
 Die Praxis ist in Frohnau.  

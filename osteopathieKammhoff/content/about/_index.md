@@ -2,6 +2,9 @@
 title: "Maren Kammhoff"
 image: "images/profile.jpg"
 description: "This is meta description."
+gallery: 
+    - images/osteo01.jpg
+    - images/osteo02.jpg
 ---
   
    
