@@ -7,12 +7,7 @@ draft: false
 ---  
 
 
-
-<br>
-<br>
-
 ### Behandlung von  
-<br>
 
 * chronischen Schmerzen
 * akuten Verletzungen
@@ -24,36 +19,16 @@ draft: false
 * Müdigkeit/Abgeschlagenheit
 * Innerer Unruhe
 * Beschwerden in der Schwangerschaft und nach der Entbindung  
-<br>
-<br>
-<br>
 
 ### Kosten  
-<br>
 
 **Behandlung: 90 Euro**  
-<br>
 Im Vordergrund der Erstbehandlung steht das ausführliche Gespräch und eine umfangreiche Untersuchung, um eine spezifische osteopathische Diagnose stellen zu können. Daraufhin erfolgt eine individuelle Behandlung.  
-<br>
 Die Folgebehandlung besteht aus einer individuellen osteopathischen Untersuchung und spezifischen Behandlung.  
-<br> 
-<br>
 
  ### Kostenübernahme  
-<br>
-
 Die gesetzlichen Krankenkassen übernehmen einen Teil der Behandlungskosten. **[Hier](https://www.krankenkassen.de/gesetzliche-krankenkassen/leistungen-gesetzliche-krankenkassen/alternative-heilmethoden/osteopathie)** finden Sie eine Liste mit Krankenkassen, die osteopathische Behandlungen unterstützen.  
-<br>
 
 Private Krankenversicherungen übernehmen oft Kosten für eine osteopathische Behandlung im Rahmen einer Pauschale für Heilpraktiker.  
-<br>
 
 Erkunden Sie sich bei Ihrer Krankenkasse oder wenden Sie sich bei Fragen an mich.  
-<br>
-<br>
-<br>
-<br>
-<br>
-________________________________________________________________________________________________  
-<br>
-(images/21_03_28_Praxis_Maren_Kammhoff_Jonas_Ruhs 7.jpg)
