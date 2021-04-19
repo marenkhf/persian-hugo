@@ -27,8 +27,7 @@ gallery:
 
 **Behandlung: 90 Euro**  
 <br>
-
-**Dauer Erstbehandlung: 60 min      Dauer Folgebehandlung: 45-60min**
+**Dauer Erstbehandlung: 60 min -- Dauer Folgebehandlung: 45-60min**
 <br>
 
 Im Vordergrund der Erstbehandlung steht das ausführliche Gespräch und eine umfangreiche Untersuchung, um eine spezifische osteopathische Diagnose stellen zu können. Daraufhin erfolgt eine individuelle Behandlung.  
