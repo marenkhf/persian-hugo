@@ -1,5 +1,5 @@
 ---
-title: "Osteopathie
+title: "Osteopathie"
 image: "images/title.jpg"
 description: "This is meta description."
 draft: false
