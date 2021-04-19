@@ -44,13 +44,13 @@ url = "about"
 weight = 3
 
 [[menu.main]]
-name = "Kontakt"
-url = "kontakt"
+name = "Praxis"
+url = "praxis"
 weight = 4
 
 [[menu.main]]
-name = "Praxis"
-url = "praxis"
+name = "Kontakt"
+url = "kontakt"
 weight = 5
 
 [[menu.main]]
