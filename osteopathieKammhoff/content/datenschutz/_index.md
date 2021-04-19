@@ -6,9 +6,9 @@ description: "Impressum/ Datenschutz"
 
 Angaben gemäß § 5 TMG Abs. 1:
 
-Osteopathie Maren kammhoff
+Osteopathie Maren Kammhoff
 
-Heynstraße 6, 13187 Berlin & Böcklinstraße 6, 10245 Berlin
+Mehringer Str. 59, 13465 Berlin
 
 Telefon: +49 15771978965
 
