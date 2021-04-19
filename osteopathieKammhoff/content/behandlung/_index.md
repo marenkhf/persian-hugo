@@ -3,8 +3,8 @@ title: "Behandlung"
 # meta description
 description: "Behandlung"
 gallery: 
-    - images/osteo01.jpg
-    - images/osteo02.jpg
+    - images/Behandlung3-min.jpg
+    - images/Behandlung2-min.jpg
 ---  
 
 

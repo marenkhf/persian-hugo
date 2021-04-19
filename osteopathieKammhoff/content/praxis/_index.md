@@ -3,8 +3,8 @@ title: "Praxis"
 # meta description
 description: "Praxis"
 gallery: 
-    - images/osteo01.jpg
-    - images/osteo02.jpg
+    - images/Behandlung 4-min.jpg
+    - images/Osteopathie3-min.jpg
 ---
 
 Die Praxis ist in Frohnau.  
