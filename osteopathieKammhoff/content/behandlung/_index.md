@@ -22,9 +22,9 @@ gallery:
 * Innerer Unruhe
 * Beschwerden in der Schwangerschaft und nach der Entbindung  
 <br>
+<br>
 
 ### Kosten  
-<br>
 
 
 *Behandlung: 90 Euro*  
