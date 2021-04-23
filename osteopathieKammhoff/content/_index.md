@@ -8,7 +8,7 @@ gallery:
 ---
   
  
->> ### "Der Mensch besitzt selbstregulierende Mechanismen und die natürliche Fähigkeit zur Selbstheilung."
+> ### "Der Mensch besitzt selbstregulierende Mechanismen und die natürliche Fähigkeit zur Selbstheilung."
 >>Grundprinzip der Osteopathie  
 <br>  
 
@@ -33,8 +33,7 @@ Das ganzheitliche Behandlungskonzept der Osteopathie umfasst drei Teilbereiche, 
 
 ### Parietale Osteopathie  
   
-> Die funktionelle Diagnostik und Behandlung des Bewegungsapparats stehen im Vordergrund.  
-Wesentliche Elemente sind Gelenke, Sehnen, Bänder sowie Muskeln und Faszien.
+> Die funktionelle Diagnostik und Behandlung des Bewegungsapparats stehen im Vordergrund. Wesentliche Elemente sind Gelenke, Sehnen, Bänder sowie Muskeln und Faszien.
 
 <br>
 
