@@ -22,7 +22,8 @@ gallery:
 * Innerer Unruhe
 * Beschwerden in der Schwangerschaft und nach der Entbindung  
 <br>
-<br>
+<br>  
+
 
 ### Kosten  
 
