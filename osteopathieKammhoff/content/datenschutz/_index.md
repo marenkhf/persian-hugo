@@ -204,7 +204,6 @@ c. Dauer der Speicherung, Widerspruchs- und Beseitigungsmöglichkeit
 
 Cookies werden auf dem Computer des Nutzes der Webseite gespeichert und Daten von dort an unser System übermittelt. Der Nutzer hat die Kontrolle über die Verwendung von Cookies. In den Einstellungen des Internetbrowsers kann die Übertragung von Cookies deaktiviert oder eingeschränkt werden. Gespeicherte Cookies können gelöscht werden. Werden Cookies gelöscht, können ggf. Teile der Webseite nicht mehr uneingeschränkt genutzt werden
 <br>
-<br>
 
 **5. Rechte des Betroffenen**  
 
@@ -231,12 +230,10 @@ d. Recht auf Datenübertragbarkeit
 
 Sie haben das Recht, Daten, die wir auf Grundlage Ihrer Einwilligung oder in Erfüllung eines Vertrags automatisiert verarbeiten, an sich oder an einen Dritten in einem gängigen, maschinenlesbaren Format aushändigen zu lassen. Sofern Sie die direkte Übertragung der Daten an einen anderen Verantwortlichen verlangen, erfolgt dies nur, soweit es technisch machbar ist.
 <br>
-<br>
 
 **6. Automatisierte Entscheidungsfindung**  
 
 Ein Verfahren zur automatisierten Entscheidungsfindung kommt nicht zum Einsatz.
-<br>
 <br>
 
 **7. SSL- bzw. TLS-Verschlüsseleung**  
@@ -244,36 +241,30 @@ Ein Verfahren zur automatisierten Entscheidungsfindung kommt nicht zum Einsatz.
 
 Diese Seite nutzt aus Sicherheitsgründen und zum Schutz der Übertragung vertraulicher Inhalte, wie zum Beispiel Bestellungen oder Anfragen, die Sie an uns als Seitenbetreiber senden, eine SSL-bzw. TLS-Verschlüsselung. Eine verschlüsselte Verbindung erkennen Sie daran, dass die Adresszeile des Browsers von “http://” auf “https://” wechselt und an dem Schloss-Symbol in Ihrer Browserzeile. Wenn die SSL- bzw. TLS-Verschlüsselung aktiviert ist, können die Daten, die Sie an uns übermitteln, nicht von Dritten mitgelesen werden.
 <br>
-<br>
 
 **8. Google Maps**  
 
 Diese Seite nutzt über eine API den Kartendienst Google Maps. Anbieter ist die Google Inc., 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA. Zur Nutzung der Funktionen von Google Maps ist es notwendig, Ihre IP Adresse zu speichern. Diese Informationen werden in der Regel an einen Server von Google in den USA übertragen und dort gespeichert. Der Anbieter dieser Seite hat keinen Einfluss auf diese Datenübertragung. Das angemessene Datenschutzniveau ist durch die Zertifizierung von Google LLC unter dem Privacy Shield abkommen gewährleistet (https://www.privacyshield.gov/participant?id=a2zt000000001L5AAI). Die Nutzung von Google Maps erfolgt im Interesse einer ansprechenden Darstellung unserer Online-Angebote und an einer leichten Auffindbarkeit der von uns auf der Website angegebenen Orte. Die Rechtsgrundlage der Datenverarbeitung ist Art. 6 Abs. 1 lit. f. DSGVO. Der vorgenannte Zweck stellt das berechtigte Interesse im Sinne von Art. 6 Abs. 1 lit. f DSGVO dar. Mehr Informationen zum Umgang mit Nutzerdaten finden Sie in der Datenschutzerklärung von Google: https://www.google.de/intl/de/policies/privacy/.
-<br>
 <br>
 
 **9. Widerspruch gegen Werbe-Mail**  
 
 Der Nutzung von im Rahmen der Impressumspflicht veröffentlichten Kontaktdaten zur Übersendung von nicht ausdrücklich angeforderter Werbung und Informationsmaterialien wird hiermit widersprochen. Die Betreiber der Seiten behalten sich ausdrücklich rechtliche Schritte im Falle der unverlangten Zusendung von Werbeinformationen, etwa durch Spam-E-Mails, vor.
 <br>
-<br>
 
 **10. Kontakt per Telefon oder E-Mail**
  
 Im Rahmen der Kontaktaufnahme mit uns (z.B. per Telefon oder E-Mail) werden personenbezogene Daten wie beispielsweise Name, E-Mail-Adresse und Text Ihrer Anfrage sowie optional die Telefonnummer erhoben. Diese Daten werden zum Zweck der Beantwortung des Anliegens bzw. für die Kontaktaufnahme und die damit verbundene technische Administration gespeichert bzw. verwendet. Rechtsgrundlage für die Verarbeitung der Daten ist unser berechtigtes Interesse an der Beantwortung Ihres Anliegens gemäß Art. 6 Abs. 1 Abs. 1 lit. f DSGVO. Zielt Ihre Anfrage auf den Abschluss eines Vertrages ab oder sind Sie bereits Mitglied in unserem Verband, so ist Rechtsgrundlage für die Datenverarbeitung Art. 6 Abs. 1 lit. b DSGVO. Ihre Daten werden nach abschließender Bearbeitung Ihrer Anfrage gelöscht, wenn sich aus den Umständen entnehmen lässt, dass der betroffene Sachverhalt abschließend geklärt ist und sofern keine gesetzlichen Bestimmungen oder Aufbewahrungspflichten dem entgegenstehen.
-<br>
 <br>
 
 **11. Datenschutzbeauftrager**  
 
 Zur Benennung eines Datenschutzbeauftragten sind wir nicht verpflichtet.  
 <br>
-<br>
 
 **12. Widerrufsrecht**  
 
 Gemäß Art. 7 Abs. 3 DSGVO steht Ihnen das Recht zu, Ihre erteilte Einwilligung in die Verarbeitung Ihrer Daten jederzeit uns gegenüber zu widerrufen. Der von Ihnen erklärte Widerruf ändert nichts an der Rechtmäßigkeit der bis zum Widerruf erfolgten Verarbeitung Ihrer personenbezogenen Daten.  
-<br>
 <br>
 
 **13. Widerspruchsrecht**  
