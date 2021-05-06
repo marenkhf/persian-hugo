@@ -112,10 +112,10 @@
         const run = () => {
           localStorage.setItem(storageItem, true)
           consent = localStorage.getItem(storageItem)
-          const scriptElement = createScriptElement()
-          appendScriptElement(scriptElement)
           // hide the button
           trigger.style.visibility = 'hidden'
+          const scriptElement = createScriptElement()
+          appendScriptElement(scriptElement)
         }
 
         // Add eventListener to trigger element and check if consent is already given
