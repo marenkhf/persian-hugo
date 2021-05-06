@@ -76,3 +76,6 @@ copyright = "Designed By [Themefisher](https://themefisher.com/) & Developed By 
 [params.preloader]
 enable = true
 preloader = "" # use jpg, png, svg or gif format.
+
+# Search engines
+enableRobotsTXT = true
