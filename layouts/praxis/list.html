@@ -20,6 +20,45 @@
   </div>
 </section>
 
+<section class="section pt-0">
+  <div class="container">
+    <div id="map" class="row"></div>
+    <script>
+		let map;
+		function initMap() {
+			map = new google.maps.Map( document.getElementById( 'map' ), {
+				center: {
+					lat: 52.5200,
+					lng: 13.4050
+				},
+				zoom: 14,
+        mapTypeId: 'hybrid',
+        scaleControl: true,
+        fullscreenControlOptions: {
+		      position: google.maps.ControlPosition.RIGHT_BOTTOM
+	      },
+			})
+      let marker = new google.maps.Marker({
+	      position: {
+	      	lat: 52.642773420929444,
+	      	lng: 13.29856871535622
+	      },
+	      map: map,
+	      title: 'Mehringer Str. 59'
+      });
+      let infoWindow = new google.maps.InfoWindow({
+      	content: '<h2>Johanna Hußmann Osteopathie</h2>'
+      });
+
+      marker.addListener( 'click', function() {
+      	infoWindow.open( map, marker );
+      });
+      ;
+		}
+	</script>
+	<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBZFjaqm9QWMYSBNDjkaEA55f-fUJo8HjI&callback=initMap" async defer></script>
+</section>
+
 {{ with .Params.gallery }}
 <hr>
 <section class="section">
