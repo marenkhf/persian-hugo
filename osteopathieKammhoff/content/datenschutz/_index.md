@@ -8,7 +8,7 @@ description: "Impressum/ Datenschutz"
 
 #### **Impressum**
 
-**Angaben gemäß § 5 TMG (Tele-Medien-Gesetz):**
+*Angaben gemäß § 5 TMG (Tele-Medien-Gesetz):*
 
 Osteopathie Maren Kammhoff
 
@@ -18,38 +18,44 @@ Telefon: +49 15771978965
 
 E-Mail-Adresse: maren@osteopathiekammhoff.de 
 <br>
+<br>
 
+
+*Fotos*
+
+@ **[Jonas Ruhs](https://jonasruhs.com/ "Website von Jonas Ruhs")**  
+<br>
 
 ​
 
-**Verantwortlich für den Inhalt (gem. § 55 Abs. 2 RStV (Rundfunkstaatsvertrag)):**
+*Verantwortlich für den Inhalt (gem. § 55 Abs. 2 RStV (Rundfunkstaatsvertrag)):*
 
 Maren Kammhoff
 
-**Aufsichtsbehörde:**
+*Aufsichtsbehörde:*
 Landesamt für Gesundheit und Soziales (LAGeSo)
 
 Turmstr. 21, 10559 Berlin
  
 
-**Berufskammer:**
+*Berufskammer:*
 
 VFO – Verband Freier Osteopathen e.V:
 
  
 
-**Berufsbezeichung:**
+*Berufsbezeichung:*
 Heilpraktiker (Gesundheitsamt Lichtenberg)
 
 ​
 
-**Berufsrechtliche Regelung:**
+*Berufsrechtliche Regelung:*
 
 Berufsordnung für Heilpraktiker (BOH), Gesetz über die berufsmäßige Ausübung der Heilkunde ohne Bestallung vom 17.02.1939 (HPG)
 
 ​
 
-**Angaben zu Berufshaftpflichtversicherung:**
+*Angaben zu Berufshaftpflichtversicherung:*
 
 Versicherungsträger: Continentale
 
@@ -58,7 +64,7 @@ Forstenrieder Allee 70, 81476 München
 <br>
 
 
-**Haftungsausschluss:**
+*Haftungsausschluss:*
 
 ​
 Haftung für Inhalte
@@ -67,16 +73,18 @@ Die Inhalte unserer Seiten wurden mit größter Sorgfalt erstellt. Für die Rich
  
 <br>
 
-**Haftung für Links:**  
+*Haftung für Links:*
 
 Unser Angebot enthält Links zu externen Webseiten Dritter, auf deren Inhalte wir keinen Einfluss haben. Deshalb können wir für diese fremden Inhalte auch keine Gewähr übernehmen. Für die Inhalte der verlinkten Seiten ist stets der jeweilige Anbieter oder Betreiber der Seiten verantwortlich. Die verlinkten Seiten wurden zum Zeitpunkt der Verlinkung auf mögliche Rechtsverstöße überprüft. Rechtswidrige Inhalte waren zum Zeitpunkt der Verlinkung nicht erkennbar. Eine permanente inhaltliche Kontrolle der verlinkten Seiten ist jedoch ohne konkrete Anhaltspunkte einer Rechtsverletzung nicht zumutbar. Bei Bekanntwerden von Rechtsverletzungen werden wir derartige Links umgehend entfernen.
 
  <br>
 
 
-**Urheberrecht:**  
+*Urheberrecht:*
 
-Die durch die Seitenbetreiber erstellten Inhalte und Werke auf diesen Seiten unterliegen dem deutschen Urheberrecht. Die Vervielfältigung, Bearbeitung, Verbreitung und jede Art der Verwertung außerhalb der Grenzen des Urheberrechtes bedürfen der schriftlichen Zustimmung des jeweiligen Autors bzw. Erstellers. Downloads und Kopien dieser Seite sind nur für den privaten, nicht kommerziellen Gebrauch gestattet. Soweit die Inhalte auf dieser Seite nicht vom Betreiber erstellt wurden, werden die Urheberrechte Dritter beachtet. Insbesondere werden Inhalte Dritter als solche gekennzeichnet. Sollten Sie trotzdem auf eine Urheberrechtsverletzung aufmerksam werden, bitten wir um einen entsprechenden Hinweis. Bei Bekanntwerden von Rechtsverletzungen werden wir derartige Inhalte umgehend entfernen.
+Die durch die Seitenbetreiber erstellten Inhalte und Werke auf diesen Seiten unterliegen dem deutschen Urheberrecht. Die Vervielfältigung, Bearbeitung, Verbreitung und jede Art der Verwertung außerhalb der Grenzen des Urheberrechtes bedürfen der schriftlichen Zustimmung des jeweiligen Autors bzw. Erstellers. Downloads und Kopien dieser Seite sind nur für den privaten, nicht kommerziellen Gebrauch gestattet. Soweit die Inhalte auf dieser Seite nicht vom Betreiber erstellt wurden, werden die Urheberrechte Dritter beachtet. Insbesondere werden Inhalte Dritter als solche gekennzeichnet. Sollten Sie trotzdem auf eine Urheberrechtsverletzung aufmerksam werden, bitten wir um einen entsprechenden Hinweis. Bei Bekanntwerden von Rechtsverletzungen werden wir derartige Inhalte umgehend entfernen.  
+
+<br>
 
 ​
 
@@ -92,11 +100,11 @@ Die durch die Seitenbetreiber erstellten Inhalte und Werke auf diesen Seiten unt
 <br>
 
 ​
-**1. Allgemeines**  
+*1. Allgemeines* 
 Die folgenden Hinweise geben einen Überblick darüber, was mit Ihren personenbezogenen Daten passiert, wenn Sie unsere Website besuchen. Wenn Sie diese Website benutzen, werden verschiedene personenbezogene Daten erhoben. Personenbezogene Daten sind Daten, mit denen Sie persönlich identifiziert werden können.  
 <br>
 
-**2. Hinweis zur verantwortlichen Stelle**   
+*2. Hinweis zur verantwortlichen Stelle*   
 
 Die verantwortliche Stelle für die Datenverarbeitung auf dieser Website ist:
 
@@ -120,7 +128,7 @@ Verantwortliche Stelle ist die natürliche oder juristische Person, die allein o
 
 <br>
 
-**3. Datenverarbeitung auf unserer Website**
+*3. Datenverarbeitung auf unserer Website*
 
 a. Verarbeitete Daten  
 
@@ -175,7 +183,7 @@ Die Datenverarbeitung ist zwar nicht gesetzlich oder vertraglich vorgeschrieben,
 <br>
 
  
-**4. Cookies** 
+*4. Cookies*
 
 a. Was sind Cookies
 Die Internetseiten verwenden teilweise sogenannte Cookies. Cookies dienen dazu, unser Angebot nutzerfreundlicher, effektiver und sicherer zu machen. Cookies sind kleine Textdateien, die auf dem Rechner des Nutzers abgelegt werden und die der Browser des Nutzers speichert. Wir nutzen Cookies, um unsere Webseite nutzerfreundlicher zu gestalten. Einige Elemente unserer Webseite machen es erforderlich, dass der aufrufende Browser auch nach einem Seitenwechsel identifiziert werden kann. In den Cookies werden dabei folgende Daten gespeichert und übermittelt: Es folgt eine Auflistung der gespeicherten Daten: Dies könnten sein:
@@ -205,7 +213,7 @@ c. Dauer der Speicherung, Widerspruchs- und Beseitigungsmöglichkeit
 Cookies werden auf dem Computer des Nutzes der Webseite gespeichert und Daten von dort an unser System übermittelt. Der Nutzer hat die Kontrolle über die Verwendung von Cookies. In den Einstellungen des Internetbrowsers kann die Übertragung von Cookies deaktiviert oder eingeschränkt werden. Gespeicherte Cookies können gelöscht werden. Werden Cookies gelöscht, können ggf. Teile der Webseite nicht mehr uneingeschränkt genutzt werden
 <br>
 
-**5. Rechte des Betroffenen**  
+*5. Rechte des Betroffenen* 
 
 a. Widerruf der Einwilligung zur Datenverarbeitung  
 
@@ -231,41 +239,41 @@ d. Recht auf Datenübertragbarkeit
 Sie haben das Recht, Daten, die wir auf Grundlage Ihrer Einwilligung oder in Erfüllung eines Vertrags automatisiert verarbeiten, an sich oder an einen Dritten in einem gängigen, maschinenlesbaren Format aushändigen zu lassen. Sofern Sie die direkte Übertragung der Daten an einen anderen Verantwortlichen verlangen, erfolgt dies nur, soweit es technisch machbar ist.
 <br>
 
-**6. Automatisierte Entscheidungsfindung**  
+*6. Automatisierte Entscheidungsfindung*
 
 Ein Verfahren zur automatisierten Entscheidungsfindung kommt nicht zum Einsatz.
 <br>
 
-**7. SSL- bzw. TLS-Verschlüsseleung**  
+*7. SSL- bzw. TLS-Verschlüsseleung*  
 
 
 Diese Seite nutzt aus Sicherheitsgründen und zum Schutz der Übertragung vertraulicher Inhalte, wie zum Beispiel Bestellungen oder Anfragen, die Sie an uns als Seitenbetreiber senden, eine SSL-bzw. TLS-Verschlüsselung. Eine verschlüsselte Verbindung erkennen Sie daran, dass die Adresszeile des Browsers von “http://” auf “https://” wechselt und an dem Schloss-Symbol in Ihrer Browserzeile. Wenn die SSL- bzw. TLS-Verschlüsselung aktiviert ist, können die Daten, die Sie an uns übermitteln, nicht von Dritten mitgelesen werden.
 <br>
 
-**8. Google Maps**  
+*8. Google Maps*  
 
 Diese Seite nutzt über eine API den Kartendienst Google Maps. Anbieter ist die Google Inc., 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA. Zur Nutzung der Funktionen von Google Maps ist es notwendig, Ihre IP Adresse zu speichern. Diese Informationen werden in der Regel an einen Server von Google in den USA übertragen und dort gespeichert. Der Anbieter dieser Seite hat keinen Einfluss auf diese Datenübertragung. Das angemessene Datenschutzniveau ist durch die Zertifizierung von Google LLC unter dem Privacy Shield abkommen gewährleistet (https://www.privacyshield.gov/participant?id=a2zt000000001L5AAI). Die Nutzung von Google Maps erfolgt im Interesse einer ansprechenden Darstellung unserer Online-Angebote und an einer leichten Auffindbarkeit der von uns auf der Website angegebenen Orte. Die Rechtsgrundlage der Datenverarbeitung ist Art. 6 Abs. 1 lit. f. DSGVO. Der vorgenannte Zweck stellt das berechtigte Interesse im Sinne von Art. 6 Abs. 1 lit. f DSGVO dar. Mehr Informationen zum Umgang mit Nutzerdaten finden Sie in der Datenschutzerklärung von Google: https://www.google.de/intl/de/policies/privacy/.
 <br>
 
-**9. Widerspruch gegen Werbe-Mail**  
+*9. Widerspruch gegen Werbe-Mail*
 
 Der Nutzung von im Rahmen der Impressumspflicht veröffentlichten Kontaktdaten zur Übersendung von nicht ausdrücklich angeforderter Werbung und Informationsmaterialien wird hiermit widersprochen. Die Betreiber der Seiten behalten sich ausdrücklich rechtliche Schritte im Falle der unverlangten Zusendung von Werbeinformationen, etwa durch Spam-E-Mails, vor.
 
-**10. Kontakt per Telefon oder E-Mail**
+*10. Kontakt per Telefon oder E-Mail*
  
 Im Rahmen der Kontaktaufnahme mit uns (z.B. per Telefon oder E-Mail) werden personenbezogene Daten wie beispielsweise Name, E-Mail-Adresse und Text Ihrer Anfrage sowie optional die Telefonnummer erhoben. Diese Daten werden zum Zweck der Beantwortung des Anliegens bzw. für die Kontaktaufnahme und die damit verbundene technische Administration gespeichert bzw. verwendet. Rechtsgrundlage für die Verarbeitung der Daten ist unser berechtigtes Interesse an der Beantwortung Ihres Anliegens gemäß Art. 6 Abs. 1 Abs. 1 lit. f DSGVO. Zielt Ihre Anfrage auf den Abschluss eines Vertrages ab oder sind Sie bereits Mitglied in unserem Verband, so ist Rechtsgrundlage für die Datenverarbeitung Art. 6 Abs. 1 lit. b DSGVO. Ihre Daten werden nach abschließender Bearbeitung Ihrer Anfrage gelöscht, wenn sich aus den Umständen entnehmen lässt, dass der betroffene Sachverhalt abschließend geklärt ist und sofern keine gesetzlichen Bestimmungen oder Aufbewahrungspflichten dem entgegenstehen.
 
 
-**11. Datenschutzbeauftrager**  
+*11. Datenschutzbeauftrager*  
 
 Zur Benennung eines Datenschutzbeauftragten sind wir nicht verpflichtet.  
 
 
-**12. Widerrufsrecht**  
+*12. Widerrufsrecht*
 
 Gemäß Art. 7 Abs. 3 DSGVO steht Ihnen das Recht zu, Ihre erteilte Einwilligung in die Verarbeitung Ihrer Daten jederzeit uns gegenüber zu widerrufen. Der von Ihnen erklärte Widerruf ändert nichts an der Rechtmäßigkeit der bis zum Widerruf erfolgten Verarbeitung Ihrer personenbezogenen Daten.  
 
 
-**13. Widerspruchsrecht**  
+*13. Widerspruchsrecht* 
 
 Sie haben das Recht, aus Gründen, die sich aus Ihrer besonderen Situation ergeben, jederzeit gegen die Verarbeitung der Sie betreffenden personenbezogenen Daten, die aufgrund einer Interessenabwägung (Art. 6 Abs. 1 lit. f DSGVO) erfolgt, Widerspruch einzulegen. Dies ist insbesondere dann der Fall, wenn die Datenverarbeitung nicht zur Erfüllung eines Vertrages erforderlich ist. Sofern Sie von Ihrem Widerspruchsrecht Gebrauch machen, bitten wir Sie um die Darlegung der Gründe. Wir werden Ihre personenbezogenen Daten dann nicht mehr verarbeiten, es sei denn, wir können Ihnen gegenüber nachweisen, dass zwingende schutzwürdige Gründe an der Datenverarbeitung Ihre Interessen und Rechte überwiegen.
