@@ -32,13 +32,13 @@ Das Parken ist in der *Mehringer Straße* und gegenüber vom *Waldstück Pilz* (
 
 ### Standort Schöneberg
 <br>
-Die Praxisräume befinden sich in der Hauptstraße 15, 1.OG, 10827 Berlin Schöneberg. Der Praxisraum ist Teil der Osteopathie-Praxis von
+Die Praxisräume befinden sich in der Hauptstraße 15, 1.OG, 10827 Berlin Schöneberg. 
 
-**[Cora Roloff](https://coraroloff-osteopathie.de "Cora Roloff Osteopathie")**.
+Der Praxisraum ist Teil der Osteopathie-Praxis von **[Cora Roloff](https://coraroloff-osteopathie.de "Cora Roloff Osteopathie")**.
 
 ### Anfahrt
 Zugang auch über die Belzigerstr. 7. 
-Die Praxis liegt im Herzen Schönebergs und ist mit öffentlichen Verkehrsmittel aus verschiedenen Ecken Berlins aus gut zu erreichen.
+Die Praxis liegt im Herzen Schönebergs und ist mit öffentlichen Verkehrsmittel von verschiedenen Ecken Berlins  gut zu erreichen.
 
 #### Bus
 Die Praxis liegt direkt gegenüber der Busstation *Kaiser-Wilhelm-Platz (Bus 104, 106, 187, 204, M48 und M85*).
@@ -57,9 +57,15 @@ Bitte sprechen Sie mich an wegen eines Parktickets!
 
 ### Öffnungszeiten
 <br>
-Dienstag Praxis Frohnau: 10-19 Uhr<br>
-Donnerstag Praxis Schöneberg: 10-17 Uhr <br>
-Freitag Praxis Schöneberg: 10 - 17 Uhr <br>
+Dienstag Praxis Frohnau: 10-19 Uhr
+<br>
+<br>
+Donnerstag Praxis Schöneberg: 10-17 Uhr 
+<br>
+<br>
+Freitag Praxis Schöneberg: 10 - 17 Uhr 
+<br>
+<br>
 Samstag (1x pro Monat) Praxis Frohnau: 10-17 Uhr
 
 
