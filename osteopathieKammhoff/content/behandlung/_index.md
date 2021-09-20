@@ -1,7 +1,7 @@
 ---
-title: "Behandlung"
+title: "Behandlung und Kosten"
 # meta description
-description: "Behandlung"
+description: "Behandlung und Kosten"
 gallery: 
     - images/Behandlung3-min.jpg
     - images/Behandlung2-min.jpg
@@ -28,12 +28,12 @@ gallery:
 ### Kosten  
 
 
-*Behandlung: 90 Euro*  
-*Dauer Erstbehandlung: 60 min -- Dauer Folgebehandlung: 45-60min*
+*Behandlung: 90 Euro in Frohnau, 80 Euro in Schöneberg*  
+*Dauer Erstbehandlung: 60 min -- Dauer Folgebehandlung: 45-55min*
 <br>
 
 Im Vordergrund der Erstbehandlung steht das ausführliche Gespräch und eine umfangreiche Untersuchung, um eine spezifische osteopathische Diagnose stellen zu können. Daraufhin erfolgt eine individuelle Behandlung.  
-Die Folgebehandlung besteht aus einer individuellen osteopathischen Untersuchung und spezifischen Behandlung.  
+Die Folgebehandlung besteht aus einer osteopathischen Untersuchung und Behandlung.  
 <br>
 
 ### Kostenübernahme  
