@@ -38,7 +38,7 @@ Der Praxisraum ist Teil der Osteopathie-Praxis von **[Cora Roloff](https://corar
 
 ### Anfahrt
 Zugang auch über die Belzigerstr. 7. 
-Die Praxis liegt im Herzen Schönebergs und ist mit öffentlichen Verkehrsmitteln von verschiedenen Ecken aus Berlins  gut zu erreichen.
+Die Praxis liegt im Herzen Schönebergs und ist mit öffentlichen Verkehrsmitteln von verschiedenen Ecken Berlins aus gut zu erreichen.
 
 #### Bus
 Die Praxis liegt direkt gegenüber der Busstation *Kaiser-Wilhelm-Platz (Bus 104, 106, 187, 204, M48 und M85*).
