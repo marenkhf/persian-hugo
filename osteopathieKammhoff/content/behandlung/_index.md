@@ -36,7 +36,8 @@ Im Vordergrund der Erstbehandlung steht das ausführliche Gespräch und eine umf
 Die Folgebehandlung besteht aus einer osteopathischen Untersuchung und Behandlung.  
 
 <br>
-Es wird per Rechnung gezahlt. Die Behandlungskosten müssen bis zu 14 Tage nach Erhalt der Rechnung, die postalisch verschickt wird, überwiesen werden.
+Es wird per Rechnung gezahlt.<br>
+ Die Behandlungskosten müssen bis zu 14 Tage nach Erhalt der Rechnung, die postalisch verschickt wird, überwiesen werden.
 <br>
 <br>
 
