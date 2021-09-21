@@ -34,8 +34,7 @@ gallery:
 
 Im Vordergrund der Erstbehandlung steht das ausführliche Gespräch und eine umfangreiche Untersuchung, um eine spezifische osteopathische Diagnose stellen zu können. Daraufhin erfolgt eine individuelle Behandlung.  
 Die Folgebehandlung besteht aus einer osteopathischen Untersuchung und Behandlung.  
-<br>
-<br>
+
 <br>
 Es wird per Rechnung gezahlt. Die Behandlungskosten müssen bis zu 14 Tage nach Erhalt der Rechnung, die postalisch verschickt wird, überwiesen werden.
 <br>
