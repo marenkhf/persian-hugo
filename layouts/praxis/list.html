@@ -23,7 +23,9 @@
 <section class="section pt-0">
   <div class="container">
     <div class="row">
-      <div id="map" class="col-lg-10 mx-auto text-center" style="height:300px">
+      <div id="mapWrapper" class="col-lg-10 mx-auto text-center">
+        <div id="map1"></div>
+        <div id="map2"></div>
         <span id="load" class="btn btn-sm btn-primary ml-2">Stimme Nutzung von Google Maps Service zu.</span>
       </div>
     </div>
@@ -36,7 +38,7 @@
 
       // Basic google maps init function
       window.initMap = () => {
-        let map = new google.maps.Map( document.getElementById( 'map' ), {
+        let map1 = new google.maps.Map( document.getElementById( 'map' ), {
 		  		center: {
 		  			lat: 52.631486756636995,
 		  			lng: 13.314758529664854
@@ -49,22 +51,51 @@
 		        position: google.maps.ControlPosition.RIGHT_BOTTOM
 	        },
 		  	});
-        let marker = new google.maps.Marker({
+        let map2 = new google.maps.Map( document.getElementById( 'map' ), {
+		  		center: {
+		  			lat: 52.49157687903312,
+		  			lng: 13.36379137221043
+		  		},
+		  		zoom: 12,
+          mapTypeId: 'roadmap',
+          mapTypeControl: false,
+          scaleControl: true,
+          fullscreenControlOptions: {
+		        position: google.maps.ControlPosition.RIGHT_BOTTOM
+	        },
+		  	});
+        let marker1 = new google.maps.Marker({
 	        position: {
 	        	lat: 52.642773420929444,
 	        	lng: 13.29856871535622
 	        },
-	        map: map,
+	        map: map1,
 	        title: 'Mehringer Str. 59'
         });
-        let infoWindow = new google.maps.InfoWindow({
+        let marker2 = new google.maps.Marker({
+	        position: {
+	        	lat: 52.490368148161025,
+	        	lng: 13.358012845294168
+	        },
+	        map: map2,
+	        title: 'Hauptstraße 15'
+        });
+        let infoWindow1 = new google.maps.InfoWindow({
         	content: '<div><strong> Mehringer Str. 59, 13456 Berlin</strong></div>' +
           '<div style="border-top: 1px solid rgb(204, 204, 204); margin-top: 9px; padding: 6px; font-size: 13px; text-overflow: ellipsis; overflow: hidden; white-space: nowrap; font-family: Roboto, Arial;">'+
-          '<a href="https://www.google.com/maps/place/Mehringer+Str.+59,+13465+Berlin,+Germany/@52.642682,13.298451,15z/data=!4m5!3m4!1s0x47a9ab32c9124bd5:0x4de8a9fa2a076c01!8m2!3d52.6426823!4d13.2984507?hl=en" target="_blank" rel="noopener" style="cursor: pointer; color: rgb(66, 127, 237); text-decoration: none;">Google Maps</a></div>'
+          '<a href="https://www.google.com/maps/place/Mehringer+Str.+59,+13465+Berlin,+Germany/@52.642682,13.298451,15z/data=!4m5!3m4!1s0x47a9ab32c9124bd5:0x4de8a9fa2a076c01!8m2!3d52.6426823!4d13.2984507?hl=de" target="_blank" rel="noopener" style="cursor: pointer; color: rgb(66, 127, 237); text-decoration: none;">Google Maps</a></div>'
+        });
+        let infoWindow2 = new google.maps.InfoWindow({
+        	content: '<div><strong> Hauptstraße 15, 10827 Berlin</strong></div>' +
+          '<div style="border-top: 1px solid rgb(204, 204, 204); margin-top: 9px; padding: 6px; font-size: 13px; text-overflow: ellipsis; overflow: hidden; white-space: nowrap; font-family: Roboto, Arial;">'+
+          '<a href="https://www.google.com/maps/place/Hauptstraße+15,+10827+Berlin,+Germany/@52.4876504,13.3551375,17z/data=!3m1!4b1!4m5!3m4!1s0x47a85040c89b41f3:0x6050c7c3dbf5bb23!8m2!3d52.4876472!4d13.3573262?hl=de" target="_blank" rel="noopener" style="cursor: pointer; color: rgb(66, 127, 237); text-decoration: none;">Google Maps</a></div>'
         });
 
-        marker.addListener( 'click', function() {
-        	infoWindow.open( map, marker );
+        marker1.addListener( 'click', function() {
+        	infoWindow1.open( map1, marker1 );
+        });
+        marker2.addListener( 'click', function() {
+        	infoWindow2.open( map2, marker2 );
         });
       }
 
