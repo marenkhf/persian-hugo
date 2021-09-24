@@ -23,10 +23,8 @@
 <section class="section pt-0">
   <div class="container">
     <div class="row">
-      <div id="mapWrapper" class="col-lg-10 mx-auto text-center">
+      <div id="map" class="col-lg-10 mx-auto text-center"  style="height:300px">
         <span id="load" class="btn btn-sm btn-primary ml-2">Stimme Nutzung von Google Maps Service zu.</span>
-        <div id="map1" class="col-lg-10 mx-auto text-center"></div>
-        <div id="map2" class="col-lg-10 mx-auto text-center"></div>
       </div>
     </div>
     <script>
@@ -38,25 +36,12 @@
 
       // Basic google maps init function
       window.initMap = () => {
-        let map1 = new google.maps.Map( document.getElementById( 'map1' ), {
+        let map = new google.maps.Map( document.getElementById( 'map' ), {
 		  		center: {
-		  			lat: 52.631486756636995,
-		  			lng: 13.314758529664854
+		  			lat: 52.55691974019438, 
+		  			lng: 13.366730970708886
 		  		},
-		  		zoom: 12,
-          mapTypeId: 'roadmap',
-          mapTypeControl: false,
-          scaleControl: true,
-          fullscreenControlOptions: {
-		        position: google.maps.ControlPosition.RIGHT_BOTTOM
-	        },
-		  	});
-        let map2 = new google.maps.Map( document.getElementById( 'map2' ), {
-		  		center: {
-		  			lat: 52.49157687903312,
-		  			lng: 13.36379137221043
-		  		},
-		  		zoom: 12,
+		  		zoom: 1,
           mapTypeId: 'roadmap',
           mapTypeControl: false,
           scaleControl: true,
@@ -69,7 +54,7 @@
 	        	lat: 52.642773420929444,
 	        	lng: 13.29856871535622
 	        },
-	        map: map1,
+	        map: map,
 	        title: 'Mehringer Str. 59'
         });
         let marker2 = new google.maps.Marker({
@@ -77,7 +62,7 @@
 	        	lat: 52.490368148161025,
 	        	lng: 13.358012845294168
 	        },
-	        map: map2,
+	        map: map,
 	        title: 'Hauptstraße 15'
         });
         let infoWindow1 = new google.maps.InfoWindow({
@@ -92,10 +77,10 @@
         });
 
         marker1.addListener( 'click', function() {
-        	infoWindow1.open( map1, marker1 );
+        	infoWindow1.open( map, marker1 );
         });
         marker2.addListener( 'click', function() {
-        	infoWindow2.open( map2, marker2 );
+        	infoWindow2.open( map, marker2 );
         });
       }
 
