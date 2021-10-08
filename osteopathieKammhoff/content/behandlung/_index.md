@@ -37,7 +37,6 @@ Die Folgebehandlung besteht aus einer osteopathischen Untersuchung und Behandlun
 
 <br>
 Es wird per Rechnung gezahlt.<br>
- Die Behandlungskosten müssen bis zu 14 Tage nach Erhalt der Rechnung, die postalisch verschickt wird, überwiesen werden.
 <br>
 <br>
 
