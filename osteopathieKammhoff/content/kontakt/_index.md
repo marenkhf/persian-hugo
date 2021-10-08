@@ -7,9 +7,7 @@ email: "maren@osteopathiekammhoff.de"
 ---
 
 <br>
-**[Hier](https://www.doctolib.de/osteopath/berlin/maren-kammhoff)** geht es zur datenschutzsicheren Onlinebuchung mittels Doctolib.
+Gerne können sie einen Termin über die datenschutzsichere Onlinebuchung mittels Doctolib vereinbaren.
 <br>
 <br>
-<br>
-
-Rufen Sie mich an, schreiben Sie mir eine Mail oder kontaktieren Sie mich über nachfolgendes Kontaktformular.
+Oder rufen Sie mich an, schreiben Sie mir eine Mail oder kontaktieren Sie mich über nachfolgendes Kontaktformular.
