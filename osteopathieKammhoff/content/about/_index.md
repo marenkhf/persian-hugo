@@ -13,6 +13,7 @@ Osteopathie, vsl. März 2022
 Vollzeitstudium **[OSD-Berlin](https://www.osteopathie-schule.de/ "Studium an der OSD")**  
   
 **Bachelor of Science**   
+Osteopathie <br>
 Vollzeitstudium **[OSD-Berlin](https://www.osteopathie-schule.de/ "Studium an der OSD")**  
   
 **VFO-Mitglied**  
