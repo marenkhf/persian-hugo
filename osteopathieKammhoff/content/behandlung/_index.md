@@ -38,6 +38,11 @@ Die Folgebehandlung besteht aus einer osteopathischen Untersuchung und Behandlun
 <br>
 Es wird per Rechnung gezahlt.<br>
 <br>
+Behandlungstermine müssen 24 h vor dem Termin abgesagt werden, ansonsten wird das volle Honorar in Rechnung gestellt.
+<br>
+<br>
+Ausnahme sind infektiöse Erkrankungen. Bei Symptomen der oberen Atemwege sowie Fieber oder Gliederschmerzen wird in Rücksicht auf die Pandemie gebeten, den Behandlungstermin nicht wahrzunehmen.
+<br>
 <br>
 
 ### Kostenübernahme  
