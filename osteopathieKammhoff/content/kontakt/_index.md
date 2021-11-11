@@ -3,7 +3,7 @@ title: "Kontakt"
 # meta description
 description: "Kontakt"
 phone: "+491782063955"
-email: "maren@osteopathiekammhoff.de"
+email: "maren.kammhoff@gmail.com"
 ---
 
 <br>
