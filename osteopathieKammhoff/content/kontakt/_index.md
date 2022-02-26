@@ -10,6 +10,5 @@ email: "maren@osteopathiekammhoff.de"
 
 Gerne können sie einen Termin über die datenschutzsichere Onlinebuchung mittels Doctolib vereinbaren.
 <br>
-<br>
 
 Oder rufen Sie mich an, schreiben Sie mir eine Mail oder kontaktieren Sie mich über nachfolgendes Kontaktformular.
