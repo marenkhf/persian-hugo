@@ -32,9 +32,7 @@ Das Parken ist in der *Mehringer Straße* und gegenüber vom *Waldstück Pilz* (
 
 ### Standort Schöneberg
 <br>
-Die Praxisräume befinden sich in der Hauptstraße 15, 1.OG, 10827 Berlin Schöneberg. 
-
-Der Praxisraum ist Teil der Osteopathie-Praxis von **[Cora Roloff](https://coraroloff-osteopathie.de "Cora Roloff Osteopathie")**.
+Die Praxisräume befinden sich in der Hauptstraße 15, 1.OG, 10827 Berlin Schöneberg. Der Praxisraum ist Teil der Osteopathie-Praxis von **[Cora Roloff](https://coraroloff-osteopathie.de "Cora Roloff Osteopathie")**.
 
 ### Anfahrt
 Zugang auch über die Belzigerstr. 7. 
