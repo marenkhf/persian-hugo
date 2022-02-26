@@ -55,7 +55,7 @@ Schädel und Kreuzbein stehen über Hirn- und Rückenmarkshäute sowie über den
 
 ## *Kinderosteopathie* 
 
-> Die Kinderosteopathie ist eine Spezialisierung innerhalb der Osteopathie. Hierbei spielt das Wissen um die normale sensorische, emotionale und neurologische Entwicklung des Kindes eine wichtige Rolle. Häufige Indikationen für eine osteopathische Behandlung sind:
+Die Kinderosteopathie ist eine Spezialisierung innerhalb der Osteopathie. Hierbei spielt das Wissen um die normale sensorische, emotionale und neurologische Entwicklung des Kindes eine wichtige Rolle. Häufige Indikationen für eine osteopathische Behandlung sind:
 
 * Schwangerschafts- und Geburtskomplikationen
 * Wachstumsstörungen und Entwicklungsverzögerungen
