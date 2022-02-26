@@ -25,17 +25,19 @@ gallery:
 <br>  
 
 
-### Kosten  <br>
+### Kosten 
+
+<br>
 
 *Erwachsene*
-
 
 *Behandlung: 90 Euro in Frohnau, 80 Euro in Schöneberg*  
 *Dauer Erstbehandlung: 60 min -- Dauer Folgebehandlung: 45-55min*
 <br>
 <br>
 *Kinder*<br>
-*Behandlung: 70 Euro in  Frohnau, 65 Euro in Schöneberg*<b>
+
+*Behandlung: 70 Euro in  Frohnau, 65 Euro in Schöneberg*
 *Dauer Erstbehandlung: 60 min -- Dauer Folgebehandlung: 45-55 min* <br>
 <br>
 <br>
@@ -43,11 +45,11 @@ Im Vordergrund der Erstbehandlung steht das ausführliche Gespräch und eine umf
 Die Folgebehandlung besteht aus einer osteopathischen Untersuchung und Behandlung.  
 
 <br>
-Es wird per Rechnung gezahlt.<br>
-<br>
+
+Es wird per Rechnung gezahlt.
 Behandlungstermine müssen 24 h vor dem Termin abgesagt werden, ansonsten wird das volle Honorar in Rechnung gestellt.
 <br>
-<br>
+
 Ausnahme sind infektiöse Erkrankungen. Bei Symptomen der oberen Atemwege sowie Fieber oder Gliederschmerzen wird in Rücksicht auf die Pandemie gebeten, den Behandlungstermin nicht wahrzunehmen.
 <br>
 <br>
