@@ -23,7 +23,7 @@ Verband freier Osteopathen
 Gesundheitsamt Lichtenberg  
   
 **Internationaler und interdisziplinärer Osteopathie-Kongress**  
-Psychologische Aspekte der Osteopathie, 2021
+Psychologische Aspekte der Osteopathie, 2021<br>
 Fasziale Ansätze, 2018  
 Osteopathische Philosophie und Modelle, 2017  
 
