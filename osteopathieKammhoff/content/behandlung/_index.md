@@ -31,14 +31,16 @@ gallery:
 
 *Erwachsene*
 
-*Behandlung: 90 Euro in Frohnau, 80 Euro in Schöneberg*  
+*Behandlung: 90 Euro in Frohnau, 80 Euro in Schöneberg*  <br>
+
 *Dauer Erstbehandlung: 60 min -- Dauer Folgebehandlung: 45-55min*
 <br>
 <br>
 *Kinder*<br>
 
-*Behandlung: 70 Euro in  Frohnau, 65 Euro in Schöneberg*
-*Dauer Erstbehandlung: 60 min -- Dauer Folgebehandlung: 45-55 min* <br>
+*Behandlung: 70 Euro in  Frohnau, 65 Euro in Schöneberg*<br>
+
+*Dauer Erstbehandlung: 60 min -- Dauer Folgebehandlung: 45 min* <br>
 <br>
 <br>
 Im Vordergrund der Erstbehandlung steht das ausführliche Gespräch und eine umfangreiche Untersuchung, um eine spezifische osteopathische Diagnose stellen zu können. Daraufhin erfolgt eine individuelle Behandlung.  
