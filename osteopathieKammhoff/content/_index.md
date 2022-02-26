@@ -48,4 +48,19 @@ Das ganzheitliche Behandlungskonzept der Osteopathie umfasst drei Teilbereiche, 
 ### Kraniale Osteopathie  
   
 > In der kranialen osteopathischen Behandlung steht die feine Ausrichtung und Funktion der Schädelknochen einserseits sowie des Kreuzbeins andererseits im Zentrum.  
-Schädel und Kreuzbein stehen über Hirn- und Rückenmarkshäute sowie über den Liquor miteinander in Verbindung und werden als funktionelle Einheit betrachtet.
+Schädel und Kreuzbein stehen über Hirn- und Rückenmarkshäute sowie über den Liquor miteinander in Verbindung und werden als funktionelle Einheit betrachtet. <br>
+<br>
+<br>
+<br>
+
+## *Kinderosteopathie* 
+
+> Die Kinderosteopathie ist eine Spezialisierung innerhalb der Osteopathie. Hierbei spielt das Wissen um die normale sensorische, emotionale und neurologische Entwicklung des Kindes eine wichtige Rolle. Häufige Indikationen für eine osteopathische Behandlung sind:
+
+* Schwangerschafts- und Geburtskomplikationen
+* Wachstumsstörungen und Entwicklungsverzögerungen
+* Verdauungsbeschwerden (Koliken) und Urogenitalbeschwerden (Inkontinenz) 
+* Schädelasymmetrien und Kieferfehlstellungen
+* Schlafstörungen und Saugstörungen
+
+
