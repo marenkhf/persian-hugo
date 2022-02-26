@@ -23,5 +23,13 @@ Verband freier Osteopathen
 Gesundheitsamt Lichtenberg  
   
 **Internationaler und interdisziplinärer Osteopathie-Kongress**  
+Psychologische Aspekte der Osteopathie, 2021
 Fasziale Ansätze, 2018  
 Osteopathische Philosophie und Modelle, 2017  
+
+**Kinderosteopathie** <br>
+Zur Zeit in Ausbildung am **[IfAO](https://www.ifaop.com/postgraduatkurse/kursuebersicht/ "kinderosteopathische Ausbildung")** <br>
+vsl. September 2023
+
+**DAS Diploma of Advanced Studies** <br>
+Caring and Healing, vsl. Oktober 2023
