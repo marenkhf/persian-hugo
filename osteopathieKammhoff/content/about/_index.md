@@ -28,7 +28,7 @@ Fasziale Ansätze, 2018
 Osteopathische Philosophie und Modelle, 2017  
 
 **Kinderosteopathie** <br>
-Zur Zeit in Ausbildung am **[IfAO](https://www.ifaop.com/postgraduatkurse/kursuebersicht/ "kinderosteopathische Ausbildung")** <br>
+Zurzeit in Ausbildung am **[IfAO](https://www.ifaop.com/postgraduatkurse/kursuebersicht/ "kinderosteopathische Ausbildung")** <br>
 vsl. September 2023
 
 **DAS Diploma of Advanced Studies** <br>
