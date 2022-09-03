@@ -31,14 +31,14 @@ gallery:
 
 *Erwachsene*
 
-*Behandlung: 90 Euro in Frohnau, 80 Euro in Schöneberg*  <br>
+*Behandlung: 90 Euro*  <br>
 
 *Dauer Erstbehandlung: 60 min -- Dauer Folgebehandlung: 45-55min*
 <br>
 <br>
 *Kinder*<br>
 
-*Behandlung: 70 Euro in  Frohnau, 65 Euro in Schöneberg*<br>
+*Behandlung: 70 Euro*<br>
 
 *Dauer Erstbehandlung: 60 min -- Dauer Folgebehandlung: 45 min* <br>
 <br>
