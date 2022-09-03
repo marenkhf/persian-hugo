@@ -58,14 +58,6 @@
 	        map: map,
 	        title: 'Mehringer Str. 59'
         });
-        let marker2 = new google.maps.Marker({
-	        position: {
-	        	lat: 52.490368148161025,
-	        	lng: 13.358012845294168
-	        },
-	        map: map,
-	        title: 'Hauptstraße 15'
-        });
         let infoWindow1 = new google.maps.InfoWindow({
         	content: '<div><strong> Mehringer Str. 59, 13456 Berlin</strong></div>' +
           '<div style="border-top: 1px solid rgb(204, 204, 204); margin-top: 9px; padding: 6px; font-size: 13px; text-overflow: ellipsis; overflow: hidden; white-space: nowrap; font-family: Roboto, Arial;">'+
@@ -79,9 +71,6 @@
 
         marker1.addListener( 'click', function() {
         	infoWindow1.open( map, marker1 );
-        });
-        marker2.addListener( 'click', function() {
-        	infoWindow2.open( map, marker2 );
         });
       }
 
