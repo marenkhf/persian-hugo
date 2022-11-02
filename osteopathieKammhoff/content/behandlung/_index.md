@@ -36,6 +36,7 @@ gallery:
 *Dauer Erstbehandlung: 60 min -- Dauer Folgebehandlung: 45-55min*
 <br>
 <br>
+
 *Kinder*<br>
 
 *Behandlung: 70 Euro*<br>
