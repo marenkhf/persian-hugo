@@ -25,7 +25,7 @@ gallery:
 <br>  
 
 
-### Kosten 
+### Kosten Frohnau
 
 <br>
 
@@ -40,8 +40,29 @@ gallery:
 
 *Behandlung: 70 Euro*<br>
 
-*Dauer Erstbehandlung: 60 min -- Dauer Folgebehandlung: 45 min* <br>
+*Dauer Erst- und Folgebehandlung: 45 min* 
 <br>
+<br>
+<br>
+
+### Kosten Hemmingen
+
+<br>
+
+*Erwachsene*
+
+*Erstbehandlung: 115 Euro -- Folgebehandlung: 85 Euro*  <br>
+
+*Dauer Erstbehandlung: 55 min -- Dauer Folgebehandlung: 45-55min*
+<br>
+<br>
+
+*Kinder*<br>
+
+*Erstbehandlung: 85 Euro --  Folgebehandlung: 80 Euro*
+<br>
+
+*Dauer Erst- und Folgebehandlung: 45 min* 
 <br>
 Im Vordergrund der Erstbehandlung steht das ausführliche Gespräch und eine umfangreiche Untersuchung, um eine spezifische osteopathische Diagnose stellen zu können. Daraufhin erfolgt eine individuelle Behandlung.  
 Die Folgebehandlung besteht aus einer osteopathischen Untersuchung und Behandlung.  
@@ -49,7 +70,7 @@ Die Folgebehandlung besteht aus einer osteopathischen Untersuchung und Behandlun
 <br>
 
 Es wird per Rechnung gezahlt.
-Behandlungstermine müssen 24 h vor dem Termin abgesagt werden, ansonsten wird das volle Honorar in Rechnung gestellt.
+Behandlungstermine müssen 24 h vor dem Termin abgesagt werden, ansonsten wird eine Ausfallrechnung (70 Euro) in Rechnung gestellt.
 <br>
 
 Ausnahme sind infektiöse Erkrankungen. Bei Symptomen der oberen Atemwege sowie Fieber oder Gliederschmerzen wird in Rücksicht auf die Pandemie gebeten, den Behandlungstermin nicht wahrzunehmen.
