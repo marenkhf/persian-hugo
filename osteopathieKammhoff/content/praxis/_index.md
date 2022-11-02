@@ -30,10 +30,22 @@ Das Parken ist in der *Mehringer Straße* und gegenüber vom *Waldstück Pilz* (
 
 ### Öffnungszeiten
 <br>
+
 Dienstag Praxis Frohnau: 10-19 Uhr
 <br>
 <br>
+
 Samstag (1x pro Monat) Praxis Frohnau: 10-17 Uhr
+<br>
+<br>
+Praxis Hemmingen: Bitte erkundigen Sie sich über die **[Praxis](https://www.osteopathie-gauss.de/ "Osteopathie Gauß")** nach den Öffnungszeiten.
+
+<br>
+<br>
+<br>
+<br>
+<br>
+
 
 
 
@@ -46,12 +58,4 @@ Die Praxisräume befinden sich in der Seestraße 2, 71282 Hemmingen. Sie sind ei
 ### Anfahrt
 Die Praxis ist mit dem Auto gut zu erreichen.
 
-<br>
-<br>
-<br>
-
-### Öffnungszeiten
-
-<br>
-
-Bitte erkundigen Sie sich über die **[Praxis](https://www.osteopathie-gauss.de/ "Osteopathie Gauß")** nach den Öffnungszeiten. 
+ 
