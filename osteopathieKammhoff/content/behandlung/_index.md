@@ -64,6 +64,9 @@ gallery:
 
 *Dauer Erst- und Folgebehandlung: 45 min* 
 <br>
+<br>
+<br>
+
 Im Vordergrund der Erstbehandlung steht das ausführliche Gespräch und eine umfangreiche Untersuchung, um eine spezifische osteopathische Diagnose stellen zu können. Daraufhin erfolgt eine individuelle Behandlung.  
 Die Folgebehandlung besteht aus einer osteopathischen Untersuchung und Behandlung.  
 
