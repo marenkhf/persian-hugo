@@ -39,7 +39,8 @@ gallery:
 
 *Kinder*<br>
 
-*Behandlung: 70 Euro*<br>
+*Behandlung: 70 Euro*
+<br>
 
 *Dauer Erst- und Folgebehandlung: 45 min* 
 <br>

@@ -47,11 +47,10 @@ Die Praxis ist mit dem Auto gut zu erreichen.
 
 Dienstag Praxis Frohnau: 10-19 Uhr
 <br>
-<br>
 
 Samstag (1x pro Monat) Praxis Frohnau: 10-17 Uhr
 <br>
-<br>
+
 Praxis Hemmingen: Bitte erkundigen Sie sich über die **[Praxis](https://www.osteopathie-gauss.de/ "Osteopathie Gauß")** nach den Öffnungszeiten.
 
 
