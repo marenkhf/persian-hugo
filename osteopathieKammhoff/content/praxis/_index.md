@@ -47,3 +47,4 @@ Die Praxis ist mit dem Auto gut zu erreichen.
 
 Bitte erkundigen Sie sich über die **[Praxis](https://www.johanna-hussmann.de/ "Osteopathie Hußmann")** und über die **[Praxis](https://www.osteopathie-gauss.de/ "Osteopathie Gauß")** nach den Öffnungszeiten.
 
+<br>
