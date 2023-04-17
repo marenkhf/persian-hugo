@@ -45,6 +45,6 @@ Die Praxis ist mit dem Auto gut zu erreichen.
 ### Öffnungszeiten
 <br>
 
-Bitte erkundigen Sie sich über die **[Praxis](https://www.johanna-hussmann.de/ "Osteopathie Hußmann")** und über die **[Praxis](https://www.osteopathie-gauss.de/ "Osteopathie Gauß")** nach den Öffnungszeiten.
+Bitte erkundigen Sie sich über die **[Praxis Osteopathie Johanna Hußmann](https://www.johanna-hussmann.de/ "Osteopathie Hußmann")** und über die **[Praxis Osteopathie Denis Gauß](https://www.osteopathie-gauss.de/ "Osteopathie Gauß")** nach den Öffnungszeiten.
 
 <br>
