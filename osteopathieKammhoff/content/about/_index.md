@@ -9,7 +9,7 @@ gallery:
   
    
 **Master of Science**   
-Osteopathie, vsl. März 2023   
+Osteopathie <br> 
 Vollzeitstudium **[OSD-Berlin](https://www.osteopathie-schule.de/ "Studium an der OSD")**  
   
 **Bachelor of Science**   
@@ -32,4 +32,4 @@ Zurzeit in Ausbildung am **[IfAO](https://www.ifaop.com/postgraduatkurse/kursueb
 vsl. September 2023
 
 **DAS Diploma of Advanced Studies** <br>
-Caring and Healing, vsl. März 2023
+Caring and Healing
