@@ -24,19 +24,7 @@
 
       <div class="collapse navbar-collapse text-center" id="navigation">
         <ul class="navbar-nav ml-auto">
-          {{ if .Site.IsMultiLingual }} {{ if eq . $.Site.Language }}
-          <li class="nav-item dropdown">
-            <a href="#" class="active language nav-link">{{ .LanguageName }}</a>
-          </li>
-          {{ else }} {{ range $.Translations }}
-          <li class="nav-item dropdown">
-            <a href="{{ .Permalink }}" class="nav-link"
-              >{{ .Language.LanguageName }}</a
-            >
-          </li>
-          {{ end }} {{ end }} {{ end }} 
-          {{ range .Site.Menus.main }}
-              {{ if .HasChildren }}
+          {{ range .Site.Menus.main }} {{ if .HasChildren }}
           <li class="nav-item dropdown">
             <a
               class="nav-link"
@@ -59,6 +47,19 @@
           {{ else }}
           <li class="nav-item">
             <a class="nav-link" href="{{ .URL | absLangURL }}">{{ .Name }}</a>
+          </li>
+          {{ end }} {{ end }} {{ if .Site.IsMultiLingual }} {{ if eq .
+          $.Site.Language }}
+          <li class="nav-item dropdown">
+            <a href="#" class="active language nav-link">{{ .LanguageName }}</a>
+          </li>
+          {{ else }}
+          <li class="nav-item dropdown">
+            {{ range $.Translations }}
+            <a href="{{ .Permalink }}" class="nav-link language"
+              >{{ .Language.LanguageName }}</a
+            >
+            {{ end }}
           </li>
           {{ end }} {{ end }}
         </ul>

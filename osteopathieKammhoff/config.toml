@@ -34,7 +34,7 @@ link = "plugins/bootstrap/bootstrap.min.js"
 [languages.de]
     languageCode = 'de-DE'
     languageDirection = 'ltr'
-    languageName = 'Deutsch'
+    languageName = '🇩🇪'
     weight = 1
 
 ################################ menu de ##################################
@@ -75,7 +75,7 @@ weight = 6
 [languages.en]
     languageCode = 'en-EN'
     languageDirection = 'ltr'
-    languageName = 'English'
+    languageName = '🇬🇧'
     weight = 0
 
 ################################ menu en ##################################
@@ -111,7 +111,7 @@ weight = 6
 [languages.fr]
     languageCode = 'fr-FR'
     languageDirection = 'ltr'
-    languageName = 'French'
+    languageName = '🇫🇷'
     weight = 0
 
 ################################ menu fr ##################################
