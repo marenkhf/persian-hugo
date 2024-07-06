@@ -36,6 +36,8 @@ link = "plugins/bootstrap/bootstrap.min.js"
     languageDirection = 'ltr'
     languageName = 'Deutsch'
     weight = 1
+
+################################ menu ##################################
 [languages.de.menus]
 
 [[languages.de.menus.main]]
@@ -44,7 +46,7 @@ url = "/"
 weight = 1  
 
 [[languages.de.menus.main]]
-name = "Behandlung / Kosten"
+name = "Behandlung/Kosten"
 url = "behandlung"
 weight = 2
 
@@ -64,7 +66,7 @@ url = "kontakt"
 weight = 5
 
 [[languages.de.menus.main]]
-name = "Impressum/ Datenschutz"
+name = "Impressum"
 url = "datenschutz"
 weight = 6
 
@@ -73,14 +75,12 @@ weight = 6
     languageDirection = 'ltr'
     languageName = 'English'
     weight = 0
-[languages.en.menus]
-[[languages.en.menus.main]]
-name = "Osteopathy"
-url = "/"
-weight = 1  
+
+################################ menu ##################################
+[languages.en.menus] 
 
 [[languages.en.menus.main]]
-name = "Treatment / Costs"
+name = "Treatment/Costs"
 url = "behandlung"
 weight = 2
 
@@ -100,38 +100,7 @@ url = "kontakt"
 weight = 5
 
 [[languages.en.menus.main]]
-name = "Impressum/ Datenschutz"
-url = "datenschutz"
-weight = 6
-
-################################ menu ##################################
-[[menu.main]]
-name = "Osteopathie"
-url = "/"
-weight = 1  
-
-[[menu.main]]
-name = "Behandlung / Kosten"
-url = "behandlung"
-weight = 2
-
-[[menu.main]]
-name = "Über Mich/About"
-url = "about"
-weight = 3
-
-[[menu.main]]
-name = "Praxis"
-url = "praxis"
-weight = 4
-
-[[menu.main]]
-name = "Kontakt"
-url = "kontakt"
-weight = 5
-
-[[menu.main]]
-name = "Impressum/ Datenschutz"
+name = "Impressum"
 url = "datenschutz"
 weight = 6
 
