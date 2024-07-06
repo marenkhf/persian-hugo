@@ -34,8 +34,9 @@
               >{{ .Language.LanguageName }}</a
             >
           </li>
-          {{ end }} {{ end }} {{ end }} {{ range .Site.Menus.main }} {{ if
-          .HasChildren }}
+          {{ end }} {{ end }} {{ end }} 
+          {{ range .Site.Menus.main }}
+              {{ if .HasChildren }}
           <li class="nav-item dropdown">
             <a
               class="nav-link"
