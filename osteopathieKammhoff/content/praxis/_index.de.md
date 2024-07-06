@@ -7,12 +7,26 @@ gallery:
     - images/Osteopathie3-min.jpg
 ---
 
+### Standort Berlin - Mitte
+<br>
+
+Die Praxisräume befinden sich in der Bergstraße Str. 27, 10115 Berlin. Sie sind eingegliedert in die Osteopathie-Praxis von **[The Family Osteopath](https://the-family-osteopath.de "The Family Osteopath")**. 
+
+
+#### Bus & Bahn
+Die Praxis ist mit öffentlichen Verkehrsmitteln gut zu erreichen.   
+
+#### Parken  
+Das Parken ist im Kiez gegen stündliche Parkgebühr möglich.
+
+<br>
+<br>
+<br>
+
 ### Standort Frohnau
 <br>
 
 Die Praxisräume befinden sich in der Mehringer Str. 59, 13465 Berlin. Sie sind eingegliedert in die Osteopathie-Praxis von Frau **[Johanna Hußmann](https://johanna-hussmann.de "Osteopathie Johanna Hußmann")**. 
-
-### Anfahrt  
 Die Praxis ist sowohl mit dem Auto als auch mit den öffentlichen Verkehrsmitteln gut zu erreichen.  
 
 #### Bus  
@@ -28,23 +42,10 @@ Das Parken ist in der *Mehringer Straße* und gegenüber vom *Waldstück Pilz* (
 <br>
 <br>
 
-### Standort Hemmingen 
-<br>
-
-Die Praxisräume befinden sich in der Seestraße 2, 71282 Hemmingen. Sie sind eingegliedert in die Osteopathie-Praxis von Herr **[Denis Gauß](https://www.osteopathie-gauss.de/ "Osteopathie Gauß")**.
-<br>
-
-### Anfahrt
-Die Praxis ist mit dem Auto gut zu erreichen.
-
- <br>
- <br>
- <br>
-
 
 ### Öffnungszeiten
 <br>
 
-Bitte erkundigen Sie sich über die **[Praxis Osteopathie Johanna Hußmann](https://www.johanna-hussmann.de/ "Osteopathie Hußmann")** und über die **[Praxis Osteopathie Denis Gauß](https://www.osteopathie-gauss.de/ "Osteopathie Gauß")** nach den Öffnungszeiten.
+Bitte erkundigen Sie sich über **[The Family Osteopath](https://the-family-osteopath.de "The Family Osteopath")** und über die **[Praxis Osteopathie Johanna Hußmann](https://www.johanna-hussmann.de/ "Osteopathie Hußmann")** nach den Öffnungszeiten.
 
 <br>

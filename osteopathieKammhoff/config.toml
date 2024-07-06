@@ -2,8 +2,10 @@
 baseURL = "https://www.osteopathiekammhoff.de"
 title = "Osteopathie Kammhoff"
 theme = "persian"
-languageName = "De"
+languageName = "de"
 languageCode = "de-DE"
+defaultLanguage = 'de'
+defaultContentLanguage = 'de'
 
 ############################# output ##############################
 [outputs]
@@ -27,6 +29,81 @@ link = "plugins/jQuery/jquery.min.js"
 link = "plugins/bootstrap/bootstrap.min.js"
 
 
+################################ languages #############################
+[languages]
+[languages.de]
+    languageCode = 'de-DE'
+    languageDirection = 'ltr'
+    languageName = 'Deutsch'
+    weight = 1
+[languages.de.menus]
+
+[[languages.de.menus.main]]
+name = "Osteopathie"
+url = "/"
+weight = 1  
+
+[[languages.de.menus.main]]
+name = "Behandlung / Kosten"
+url = "behandlung"
+weight = 2
+
+[[languages.de.menus.main]]
+name = "Über Mich"
+url = "about"
+weight = 3
+
+[[languages.de.menus.main]]
+name = "Praxis"
+url = "praxis"
+weight = 4
+
+[[languages.de.menus.main]]
+name = "Kontakt"
+url = "kontakt"
+weight = 5
+
+[[languages.de.menus.main]]
+name = "Impressum/ Datenschutz"
+url = "datenschutz"
+weight = 6
+
+[languages.en]
+    languageCode = 'en-EN'
+    languageDirection = 'ltr'
+    languageName = 'English'
+    weight = 0
+[languages.en.menus]
+[[languages.en.menus.main]]
+name = "Osteopathy"
+url = "/"
+weight = 1  
+
+[[languages.en.menus.main]]
+name = "Treatment / Costs"
+url = "behandlung"
+weight = 2
+
+[[languages.en.menus.main]]
+name = "About"
+url = "about"
+weight = 3
+
+[[languages.en.menus.main]]
+name = "Praxis"
+url = "praxis"
+weight = 4
+
+[[languages.en.menus.main]]
+name = "Contact"
+url = "kontakt"
+weight = 5
+
+[[languages.en.menus.main]]
+name = "Impressum/ Datenschutz"
+url = "datenschutz"
+weight = 6
+
 ################################ menu ##################################
 [[menu.main]]
 name = "Osteopathie"
@@ -34,12 +111,12 @@ url = "/"
 weight = 1  
 
 [[menu.main]]
-name = "Behandlung/ Kosten "
+name = "Behandlung / Kosten"
 url = "behandlung"
 weight = 2
 
 [[menu.main]]
-name = "Über Mich"
+name = "Über Mich/About"
 url = "about"
 weight = 3
 
@@ -63,14 +140,14 @@ weight = 6
 [params]
 # logo = "images/logo.png"
 # Meta data
-description = "This is meta description"
-author = "Themefisher"
+description = "Discover holistic osteopathic care at our Berlin practice. Specializing in chronic pain, acute injuries, and overall wellness, we offer personalized treatments in a welcoming environment. Visit us for expert osteopathy services tailored to your needs. Entdecken Sie ganzheitliche osteopathische Betreuung in unserer Berliner Praxis. Wir sind spezialisiert auf chronische Schmerzen, akute Verletzungen und allgemeines Wohlbefinden. Besuchen Sie uns für individuell angepasste Behandlungen in einer einladenden Umgebung."
+author = "Maren Kammhoff"
 # search  
 search = true
 # contact form action
 contact_form_action = "https://formspree.io/f/mzbybqzl" # contact form works with https://formspree.io
 # copyright
-copyright = "Designed By [Themefisher](https://themefisher.com/) & Developed By [Gethugothemes](https://gethugothemes.com/)"
+copyright = "Copyright © 2024 Maren Kammhoff Osteopathie. All rights reserved."
 
 # Preloader
 [params.preloader]

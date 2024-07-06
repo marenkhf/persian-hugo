@@ -1,7 +1,7 @@
 ---
 title: "Osteopathie"
 image: "images/title.jpg"
-description: "This is meta description."
+description: "Discover holistic osteopathic care at our Berlin practice. Specializing in chronic pain, acute injuries, and overall wellness, we offer personalized treatments in a welcoming environment. Visit us for expert osteopathy services tailored to your needs. Entdecken Sie ganzheitliche osteopathische Betreuung in unserer Berliner Praxis. Wir sind spezialisiert auf chronische Schmerzen, akute Verletzungen und allgemeines Wohlbefinden. Besuchen Sie uns für individuell angepasste Behandlungen in einer einladenden Umgebung."
 gallery:
     - images/Osteopathie1-min.jpg
     - images/Osteopathie2-min.jpg
