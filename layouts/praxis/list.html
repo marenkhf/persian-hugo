@@ -1,5 +1,4 @@
 {{ define "main" }}
-
 <section class="section-sm">
   <div class="container">
     <div class="row">
@@ -9,7 +8,6 @@
     </div>
   </div>
 </section>
-
 <section class="section pt-0">
   <div class="container">
     <div class="row">
@@ -19,7 +17,6 @@
     </div>
   </div>
 </section>
-
 <section class="section pt-0">
   <div class="container">
     <div class="row">
@@ -33,7 +30,6 @@
       const storageItem = 'mapsConsent' // key of the item to check if consent is given
       const script = 'https://maps.googleapis.com/maps/api/js?key=AIzaSyBZFjaqm9QWMYSBNDjkaEA55f-fUJo8HjI&callback=initMap' // script to load
       const attributes = {} // could contain something like { 'defer': true }
-
       // Basic google maps init function
       window.initMap = () => {
         let map = new google.maps.Map( document.getElementById( 'map' ), {
@@ -148,7 +144,6 @@
       loady(triggerButton, storageItem, script, attributes)
     </script>
 </section>
-
 {{ with .Params.gallery }}
 <hr>
 <section class="section">
@@ -164,6 +159,5 @@
   </div>
 </section>
 {{ end }}
-
 {{ end }}
 
