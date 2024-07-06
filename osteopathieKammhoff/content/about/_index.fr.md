@@ -7,34 +7,35 @@ gallery:
     - images/Uebermich1-min.jpg
     - images/Uebermich3-min.jpg
 ---
-
+  
+   
 #### Master of Science
-Osteopathy <br> 
-Full-time study **[OSD-Berlin](https://www.osteopathie-schule.de/ "Studium an der OSD")**  
+Ostéopathie <br> 
+Études à temps plein **[OSD-Berlin](https://www.osteopathie-schule.de/ "Studium an der OSD")**  
   
 #### Bachelor of Science  
-Osteopathy <br>
-Full-time study **[OSD-Berlin](https://www.osteopathie-schule.de/ "Studium an der OSD")**  
+Ostéopathie <br>
+Études à temps plein **[OSD-Berlin](https://www.osteopathie-schule.de/ "Studium an der OSD")**  
   
-#### VFO Member
-Association of Independent Osteopaths
+#### Membre VFO
+Association des ostéopathes indépendants
   
 #### Heilpraktikerin
-Health Department Lichtenberg  
+Service de santé de Lichtenberg  
   
-#### International and Interdisciplinary Osteopathy Congress 
-Psychological Aspects of Osteopathy, 2021<br>
-Fascial Approaches, 2018  
-Osteopathic Philosophy and Models, 2017  
+#### Congrès international et interdisciplinaire d'ostéopathie 
+Aspects psychologiques de l'ostéopathie, 2021<br>
+Approches fasciales, 2018  
+Philosophie et modèles ostéopathiques, 2017  
 
-#### Pediatric Osteopathy <br>
-Pediatric Osteopath, training at the **[IfAO](https://www.ifaop.com/postgraduatkurse/kursuebersicht/ "kinderosteopathische Ausbildung")** <br>
+#### Ostéopathie pédiatrique <br>
+Ostéopathe pédiatrique, formation à l'**[IfAO](https://www.ifaop.com/postgraduatkurse/kursuebersicht/ "kinderosteopathische Ausbildung")** <br>
 
 #### DAS Diploma of Advanced Studies <br>
 Caring and Healing
 
-#### Practical Experience <br>
-2 years of practical experience in osteopathic teaching clinic and over 3 years in private osteopathic practice
+#### Expérience pratique <br>
+2 ans d'expérience pratique en clinique d'enseignement ostéopathique et plus de 3 ans en cabinet d'ostéopathie privé
 
-#### Languages <br>
-German, English, Spanish, and French  
+#### Langues parlées <br>
+Allemand, anglais, espagnol et français

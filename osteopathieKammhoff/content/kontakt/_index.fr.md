@@ -8,10 +8,4 @@ email: "maren@osteopathiekammhoff.de"
 
 <br>
 
-Call me, write me an email, or contact me using the contact form below.
-
-
-
-
-
-
+Appelez-moi, écrivez-moi un e-mail ou contactez-moi via le formulaire de contact ci-dessous.

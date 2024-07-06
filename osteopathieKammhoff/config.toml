@@ -29,7 +29,7 @@ link = "plugins/jQuery/jquery.min.js"
 link = "plugins/bootstrap/bootstrap.min.js"
 
 
-################################ languages #############################
+################################ languages de #############################
 [languages]
 [languages.de]
     languageCode = 'de-DE'
@@ -37,7 +37,7 @@ link = "plugins/bootstrap/bootstrap.min.js"
     languageName = 'Deutsch'
     weight = 1
 
-################################ menu ##################################
+################################ menu de ##################################
 [languages.de.menus]
 
 [[languages.de.menus.main]]
@@ -70,13 +70,15 @@ name = "Impressum"
 url = "datenschutz"
 weight = 6
 
+################################ languages en #############################
+
 [languages.en]
     languageCode = 'en-EN'
     languageDirection = 'ltr'
     languageName = 'English'
     weight = 0
 
-################################ menu ##################################
+################################ menu en ##################################
 [languages.en.menus] 
 
 [[languages.en.menus.main]]
@@ -100,6 +102,42 @@ url = "kontakt"
 weight = 5
 
 [[languages.en.menus.main]]
+name = "Impressum"
+url = "datenschutz"
+weight = 6
+
+################################ languages fr #############################
+
+[languages.fr]
+    languageCode = 'fr-FR'
+    languageDirection = 'ltr'
+    languageName = 'French'
+    weight = 0
+
+################################ menu fr ##################################
+[languages.fr.menus] 
+
+[[languages.fr.menus.main]]
+name = "Traitement/Coûts"
+url = "behandlung"
+weight = 2
+
+[[languages.fr.menus.main]]
+name = "À propos"
+url = "about"
+weight = 3
+
+[[languages.fr.menus.main]]
+name = "Cabinet"
+url = "praxis"
+weight = 4
+
+[[languages.fr.menus.main]]
+name = "Contact"
+url = "kontakt"
+weight = 5
+
+[[languages.fr.menus.main]]
 name = "Impressum"
 url = "datenschutz"
 weight = 6

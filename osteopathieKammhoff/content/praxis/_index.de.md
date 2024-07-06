@@ -1,7 +1,7 @@
 ---
-title: "Praxis"
+title: "Practice"
 # meta description
-description: "Praxis"
+description: "Practice"
 gallery: 
     - images/Behandlung 4-min.jpg
     - images/Osteopathie3-min.jpg
