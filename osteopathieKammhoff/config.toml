@@ -39,7 +39,6 @@ link = "plugins/bootstrap/bootstrap.min.js"
 
 ################################ menu de ##################################
 [languages.de.menus]
-
 [[languages.de.menus.main]]
 name = "Osteopathie"
 url = "/"
@@ -82,6 +81,11 @@ weight = 6
 [languages.en.menus] 
 
 [[languages.en.menus.main]]
+name = "Osteopathy"
+url = ""
+weight = 1  
+
+[[languages.en.menus.main]]
 name = "Treatment/Costs"
 url = "behandlung"
 weight = 2
@@ -116,6 +120,11 @@ weight = 6
 
 ################################ menu fr ##################################
 [languages.fr.menus] 
+
+[[languages.fr.menus.main]]
+name = "Ostéopathie"
+url = ""
+weight = 1  
 
 [[languages.fr.menus.main]]
 name = "Traitement/Coûts"
