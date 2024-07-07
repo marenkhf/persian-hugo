@@ -12,7 +12,7 @@ description: "Impressum/Datenschutz"
 
 Osteopathie Maren Kammhoff
 
-Mehringer Str. 59, 13465 Berlin
+Bergstr. 27, 10115 Berlin
 
 Telefon: +49 15771978965
 
