@@ -1,7 +1,7 @@
 ---
 title: "Impressum/ Datenschutz"
 # meta description
-description: "Impressum/ Datenschutz"
+description: "Impressum/Datenschutz"
 ---  
 <br>
 <br>

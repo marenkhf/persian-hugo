@@ -151,6 +151,47 @@ name = "Impressum"
 url = "datenschutz"
 weight = 6
 
+################################ languages es #############################
+
+[languages.es]
+    languageCode = 'es-ES'
+    languageDirection = 'ltr'
+    languageName = '🇪🇸'
+    weight = 0
+
+################################ menu es ##################################
+[languages.es.menus] 
+
+[[languages.es.menus.main]]
+name = "Osteopatía"
+url = ""
+weight = 1  
+
+[[languages.es.menus.main]]
+name = "Tratamiento/Costos"
+url = "behandlung"
+weight = 2
+
+[[languages.es.menus.main]]
+name = "Acerca de"
+url = "about"
+weight = 3
+
+[[languages.es.menus.main]]
+name = "Consulta"
+url = "praxis"
+weight = 4
+
+[[languages.es.menus.main]]
+name = "Contacto"
+url = "kontakt"
+weight = 5
+
+[[languages.es.menus.main]]
+name = "Impressum"
+url = "datenschutz"
+weight = 6
+
 
 #################### default parameters ################################
 [params]

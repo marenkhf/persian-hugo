@@ -1,8 +1,7 @@
 ---
 title: "Osteopathy"
 image: "images/title.jpg"
-description: "Discover holistic osteopathic care at our Berlin practice. Specializing in chronic pain, acute injuries, and overall wellness, we offer personalized treatments in a welcoming environment. Visit us for expert osteopathy services tailored to your needs. Entdecken Sie ganzheitliche osteopathische Betreuung in unserer Berliner Praxis. Wir sind spezialisiert auf chronische Schmerzen, akute Verletzungen und allgemeines Wohlbefinden. Besuchen Sie uns für individuell angepasste Behandlungen in einer einladenden Umgebung.
-Découvrez des soins ostéopathiques holistiques dans notre cabinet à Berlin. Spécialisés dans les douleurs chroniques, les blessures aiguës et le bien-être général, nous offrons des traitements personnalisés dans un environnement accueillant. Visitez-nous pour des services d'ostéopathie experts adaptés à vos besoins."
+description: "Discover holistic osteopathic care at our Berlin practice. Specializing in chronic pain, acute injuries, and overall wellness, we offer personalized treatments in a welcoming environment. Visit us for expert osteopathy services tailored to your needs."
 gallery:
     - images/Osteopathie1-min.jpg
     - images/Osteopathie2-min.jpg
