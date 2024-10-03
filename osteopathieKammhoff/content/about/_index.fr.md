@@ -7,7 +7,9 @@ gallery:
     - images/Uebermich3-min.jpg
 ---
   
-   
+#### Ostéopathe
+5 ans d'études avec environ 5000 unités de formation
+
 #### Master of Science
 Ostéopathie <br> 
 Études à temps plein **[OSD-Berlin](https://www.osteopathie-schule.de/ "Studium an der OSD")**  

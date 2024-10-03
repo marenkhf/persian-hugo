@@ -7,7 +7,9 @@ gallery:
     - images/Uebermich1-min.jpg
     - images/Uebermich3-min.jpg
 ---
-  
+
+#### Osteópata
+Carrera de 5 años con unas 5.000 unidades de formación 
    
 #### Máster en Ciencias
 Osteopatía <br> 

@@ -7,7 +7,9 @@ gallery:
     - images/Uebermich3-min.jpg
 ---
   
-   
+#### Osteopathin
+5-jähriges Studium mit ca. 5000 Ausbildungseinheiten
+
 #### Master of Science
 Osteopathie <br> 
 Vollzeitstudium **[OSD-Berlin](https://www.osteopathie-schule.de/ "Studium an der OSD")**  

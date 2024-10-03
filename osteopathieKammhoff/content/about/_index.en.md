@@ -7,6 +7,9 @@ gallery:
     - images/Uebermich3-min.jpg
 ---
 
+#### Osteopath
+5-year degree programme with approx. 5000 training units
+
 #### Master of Science
 Osteopathy <br> 
 Full-time study **[OSD-Berlin](https://www.osteopathie-schule.de/ "Studium an der OSD")**  
