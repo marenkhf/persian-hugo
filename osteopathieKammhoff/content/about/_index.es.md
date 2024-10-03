@@ -35,7 +35,7 @@ Osteópata infantil, formación en el **[IfAO](https://www.ifaop.com/postgraduat
 Cuidado y Sanación
 
 #### Experiencia práctica <br>
-2 años de experiencia práctica en una clínica de enseñanza osteopática y más de 3 años en su propia práctica osteopática
+2 años de experiencia práctica en una clínica de enseñanza osteopática y más de 4 años en su propia práctica osteopática
 
 #### Idiomas hablados <br>
 Alemán, inglés, español y francés
