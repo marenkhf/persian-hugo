@@ -23,29 +23,9 @@ El estacionamiento en el barrio está disponible por una tarifa por hora.
 <br>
 <br>
 
-### Ubicación Frohnau
-<br>
-
-Las salas de consulta están ubicadas en Mehringer Str. 59, 13465 Berlín. Están integradas en la consulta de osteopatía de la Sra. **[Johanna Hußmann](https://johanna-hussmann.de "Osteopatía Johanna Hußmann")**. 
-La consulta es fácilmente accesible tanto en coche como en transporte público.  
-
-#### Autobús  
-La estación de autobuses *Am Pilz* es servida por la *línea de autobús 125* y se encuentra a 5 minutos a pie de la consulta.  
-
-#### Tren  
-El *S-Bahn S1* va a Frohnau.  
-
-#### Estacionamiento  
-El estacionamiento es fácilmente disponible en la *Mehringer Straße* y frente al *Waldstück Pilz* (directamente en la consulta).
-
-<br>
-<br>
-<br>
-
-
 ### Horarios de apertura
 <br>
 
-Consulte los horarios de apertura en **[The Family Osteopath](https://the-family-osteopath.de "The Family Osteopath")** y en la **[Consulta de Osteopatía Johanna Hußmann](https://www.johanna-hussmann.de/ "Osteopatía Hußmann")**.
+Consulte los horarios de apertura en **[The Family Osteopath](https://the-family-osteopath.de "The Family Osteopath")**.
 
 <br>

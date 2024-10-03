@@ -34,7 +34,7 @@ Ostéopathe pédiatrique, formation à l'**[IfAO](https://www.ifaop.com/postgrad
 Caring and Healing
 
 #### Expérience pratique <br>
-2 ans d'expérience pratique en clinique d'enseignement ostéopathique et plus de 4 ans en cabinet d'ostéopathie privé
+2019 - 2021 expérience pratique en clinique d'enseignement ostéopathique et depuis de 2021 cabinet d'ostéopathie privé
 
 #### Langues parlées <br>
 Allemand, anglais, espagnol et français

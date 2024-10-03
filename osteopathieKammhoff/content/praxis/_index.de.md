@@ -23,29 +23,10 @@ Das Parken ist im Kiez gegen stündliche Parkgebühr möglich.
 <br>
 <br>
 
-### Standort Frohnau
-<br>
-
-Die Praxisräume befinden sich in der Mehringer Str. 59, 13465 Berlin. Sie sind eingegliedert in die Osteopathie-Praxis von Frau **[Johanna Hußmann](https://johanna-hussmann.de "Osteopathie Johanna Hußmann")**. 
-Die Praxis ist sowohl mit dem Auto als auch mit den öffentlichen Verkehrsmitteln gut zu erreichen.  
-
-#### Bus  
-Die Busstation *Am Pilz* wird von der *Buslinie 125* angefahren und befindet sich in 5 Minuten Laufnähe zur Praxis.  
-
-#### Bahn  
-Die *S-Bahn S1* fährt nach Frohnau.  
-
-#### Parken  
-Das Parken ist in der *Mehringer Straße* und gegenüber vom *Waldstück Pilz* (direkt bei der Praxis) problemlos möglich.
-
-<br>
-<br>
-<br>
-
 
 ### Öffnungszeiten
 <br>
 
-Bitte erkundigen Sie sich über **[The Family Osteopath](https://the-family-osteopath.de "The Family Osteopath")** und über die **[Praxis Osteopathie Johanna Hußmann](https://www.johanna-hussmann.de/ "Osteopathie Hußmann")** nach den Öffnungszeiten.
+Bitte erkundigen Sie sich über **[The Family Osteopath](https://the-family-osteopath.de "The Family Osteopath")** nach den Öffnungszeiten.
 
 <br>

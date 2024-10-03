@@ -33,7 +33,7 @@ Pediatric Osteopath, training at the **[IfAO](https://www.ifaop.com/postgraduatk
 Caring and Healing
 
 #### Practical Experience <br>
-2 years of practical experience in osteopathic teaching clinic and over 4 years in private osteopathic practice
+2019 - 2021 practical experience in osteopathic teaching clinic and since 2021 working in private osteopathic practice
 
 #### Languages <br>
 German, English, Spanish, and French  

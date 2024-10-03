@@ -34,7 +34,7 @@ Kinderosteopathin, Ausbildung an der **[IfAO](https://www.ifaop.com/postgraduatk
 Caring and Healing
 
 #### Praktische Erfahrung <br>
-2 Jahre praktische Erfahrung in osteopathischer Lehrklinik und seit über 4 Jahren in eigener osteopathischen Praxis tätig
+2019 - 2021 praktische Erfahrung in osteopathischer Lehrklinik und seit 2021 in eigener osteopathischer Praxis tätig
 
 #### Gesprochene Sprachen <br>
 Deutsch, Englisch, Spanisch und Französisch 
