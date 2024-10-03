@@ -1,6 +1,6 @@
 ######################## default configuration ####################
 baseURL = "https://www.osteopathiekammhoff.de"
-title = "Osteopathie Kammhoff"
+title = "Osteopathie Maren Kammhoff"
 theme = "persian"
 languageName = "de"
 languageCode = "de-DE"
