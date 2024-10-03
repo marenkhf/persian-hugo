@@ -25,3 +25,11 @@ AUTHOR WEBSITE: https://themefisher.com
 @import 'templates/navigation.scss';
 
 @import 'templates/main.scss';
+
+@media only screen and (max-width: 600px) {
+    .navbar-brand {
+        font-size: smaller;
+        white-space: nowrap;
+    }
+  }
+
