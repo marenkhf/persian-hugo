@@ -21,11 +21,11 @@ Vollzeitstudium **[OSD-Berlin](https://www.osteopathie-schule.de/ "Studium an de
 2021
   
 #### VFO-Mitglied
-Verband freier Osteopathen
+Verband freier Osteopathen <br>
 2021
   
 #### Heilpraktikerin
-Gesundheitsamt Lichtenberg, Berlin
+Gesundheitsamt Lichtenberg, Berlin <br>
 2021
 
 #### Kinderosteopathie <br>
@@ -33,7 +33,7 @@ Kinderosteopathin, Ausbildung an der **[IfAO](https://www.ifaop.com/postgraduatk
 2021
 
 #### DAS Diploma of Advanced Studies <br>
-Caring and Healing
+Caring and Healing <br>
 2023
 
 #### Praktische Erfahrung <br>
