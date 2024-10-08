@@ -123,7 +123,8 @@ Die Datenverarbeitung ist zwar nicht gesetzlich oder vertraglich vorgeschrieben,
 
 *4. Cookies*
 
-a. Was sind Cookies <br>
+a. Was sind Cookies
+
 Die Internetseiten verwenden teilweise sogenannte Cookies. Cookies dienen dazu, unser Angebot nutzerfreundlicher, effektiver und sicherer zu machen. Cookies sind kleine Textdateien, die auf dem Rechner des Nutzers abgelegt werden und die der Browser des Nutzers speichert. Wir nutzen Cookies, um unsere Webseite nutzerfreundlicher zu gestalten. Einige Elemente unserer Webseite machen es erforderlich, dass der aufrufende Browser auch nach einem Seitenwechsel identifiziert werden kann. In den Cookies werden dabei folgende Daten gespeichert und übermittelt:
 
 * Spracheinstellungen
