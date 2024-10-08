@@ -15,13 +15,11 @@ Osteopathie Maren Kammhoff
 Telefon: +49 15771978965
 
 E-Mail-Adresse: maren@osteopathiekammhoff.de 
-<br>
-<br>
+
 *Fotos*
 
 @ **[Jonas Ruhs](https://jonasruhs.com/ "Website von Jonas Ruhs")**  
 <br>
-
 
 *Verantwortlich für den Inhalt (gem. § 55 Abs. 2 RStV (Rundfunkstaatsvertrag)):*
 
