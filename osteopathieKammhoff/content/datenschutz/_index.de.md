@@ -27,7 +27,7 @@ E-Mail-Adresse: maren@osteopathiekammhoff.de
 
 Maren Kammhoff
 
-*Aufsichtsbehörde:*
+*Aufsichtsbehörde:* <br>
 Landesamt für Gesundheit und Soziales (LAGeSo)
 
 Turmstr. 21, 10559 Berlin
@@ -36,7 +36,7 @@ Turmstr. 21, 10559 Berlin
 
 VFO – Verband Freier Osteopathen e.V:
 
-*Berufsbezeichung:*
+*Berufsbezeichung:* <br>
 Heilpraktiker (Gesundheitsamt Lichtenberg)
 
 *Berufsrechtliche Regelung:*
@@ -55,29 +55,26 @@ Forstenrieder Allee 70, 81476 München
 
 Haftung für Inhalte
 Die Inhalte unserer Seiten wurden mit größter Sorgfalt erstellt. Für die Richtigkeit, Vollständigkeit und Aktualität der Inhalte können wir jedoch keine Gewähr übernehmen. Als Diensteanbieter sind wir gemäß § 7 Abs.1 TMG für eigene Inhalte auf diesen Seiten nach den allgemeinen Gesetzen verantwortlich. Nach §§ 8 bis 10 TMG sind wir als Diensteanbieter jedoch nicht verpflichtet, übermittelte oder gespeicherte fremde Informationen zu überwachen oder nach Umständen zu forschen, die auf eine rechtswidrige Tätigkeit hinweisen. Verpflichtungen zur Entfernung oder Sperrung der Nutzung von Informationen nach den allgemeinen Gesetzen bleiben hiervon unberührt. Eine diesbezügliche Haftung ist jedoch erst ab dem Zeitpunkt der Kenntnis einer konkreten Rechtsverletzung möglich. Bei Bekanntwerden von entsprechenden Rechtsverletzungen werden wir diese Inhalte umgehend entfernen.
-
 <br>
 
 *Haftung für Links:*
 
 Unser Angebot enthält Links zu externen Webseiten Dritter, auf deren Inhalte wir keinen Einfluss haben. Deshalb können wir für diese fremden Inhalte auch keine Gewähr übernehmen. Für die Inhalte der verlinkten Seiten ist stets der jeweilige Anbieter oder Betreiber der Seiten verantwortlich. Die verlinkten Seiten wurden zum Zeitpunkt der Verlinkung auf mögliche Rechtsverstöße überprüft. Rechtswidrige Inhalte waren zum Zeitpunkt der Verlinkung nicht erkennbar. Eine permanente inhaltliche Kontrolle der verlinkten Seiten ist jedoch ohne konkrete Anhaltspunkte einer Rechtsverletzung nicht zumutbar. Bei Bekanntwerden von Rechtsverletzungen werden wir derartige Links umgehend entfernen.
-
  <br>
 
 *Urheberrecht:*
 
 Die durch die Seitenbetreiber erstellten Inhalte und Werke auf diesen Seiten unterliegen dem deutschen Urheberrecht. Die Vervielfältigung, Bearbeitung, Verbreitung und jede Art der Verwertung außerhalb der Grenzen des Urheberrechtes bedürfen der schriftlichen Zustimmung des jeweiligen Autors bzw. Erstellers. Downloads und Kopien dieser Seite sind nur für den privaten, nicht kommerziellen Gebrauch gestattet. Soweit die Inhalte auf dieser Seite nicht vom Betreiber erstellt wurden, werden die Urheberrechte Dritter beachtet. Insbesondere werden Inhalte Dritter als solche gekennzeichnet. Sollten Sie trotzdem auf eine Urheberrechtsverletzung aufmerksam werden, bitten wir um einen entsprechenden Hinweis. Bei Bekanntwerden von Rechtsverletzungen werden wir derartige Inhalte umgehend entfernen.  
-
 <br>
 
 **All rights reserved**
 
 #### **Datenschutzerklärung**  
-<br>
+
 *1. Allgemeines* 
 
 Die folgenden Hinweise geben einen Überblick darüber, was mit Ihren personenbezogenen Daten passiert, wenn Sie unsere Website besuchen. Wenn Sie diese Website benutzen, werden verschiedene personenbezogene Daten erhoben. Personenbezogene Daten sind Daten, mit denen Sie persönlich identifiziert werden können.  
-<br>
+
 *2. Hinweis zur verantwortlichen Stelle*   
 
 Die verantwortliche Stelle für die Datenverarbeitung auf dieser Website ist:
@@ -89,9 +86,9 @@ Telefon: +4915771978965
 E-Mail: maren@osteopathiekammhoff.de  
 
 Website: www.osteopathiekammhoff.de
-<br>
+
 Verantwortliche Stelle ist die natürliche oder juristische Person, die allein oder gemeinsam mit anderen über die Zwecke und Mittel der Verarbeitung von personenbezogenen Daten (z.B. Namen, E-Mail-Adressen o. ä.) entscheidet.
-<br>
+
 *3. Datenverarbeitung auf unserer Website*
 
 a. Verarbeitete Daten  
@@ -132,7 +129,6 @@ Die personenbezogenen Daten werden gelöscht, sobald der Zweck der Speicherung e
 f. Keine gesetzliche oder vertragliche Pflicht zur Datenverarbeitung  
 
 Die Datenverarbeitung ist zwar nicht gesetzlich oder vertraglich vorgeschrieben, sie ist aber erforderlich, um Ihnen entsprechend dem oben genannten Zweck diese Webseite zur Verfügung zu stellen.
-<br>
 
 *4. Cookies*
 
@@ -158,7 +154,6 @@ Die erhobenen Nutzerdaten werden nicht zur Erstellung von Nutzerprofilen verwend
 c. Dauer der Speicherung, Widerspruchs- und Beseitigungsmöglichkeit  
 
 Cookies werden auf dem Computer des Nutzes der Webseite gespeichert und Daten von dort an unser System übermittelt. Der Nutzer hat die Kontrolle über die Verwendung von Cookies. In den Einstellungen des Internetbrowsers kann die Übertragung von Cookies deaktiviert oder eingeschränkt werden. Gespeicherte Cookies können gelöscht werden. Werden Cookies gelöscht, können ggf. Teile der Webseite nicht mehr uneingeschränkt genutzt werden
-<br>
 
 *5. Rechte des Betroffenen* 
 
@@ -178,22 +173,18 @@ Sie haben im Rahmen der geltenden gesetzlichen Bestimmungen jederzeit das Recht 
 d. Recht auf Datenübertragbarkeit  
 
 Sie haben das Recht, Daten, die wir auf Grundlage Ihrer Einwilligung oder in Erfüllung eines Vertrags automatisiert verarbeiten, an sich oder an einen Dritten in einem gängigen, maschinenlesbaren Format aushändigen zu lassen. Sofern Sie die direkte Übertragung der Daten an einen anderen Verantwortlichen verlangen, erfolgt dies nur, soweit es technisch machbar ist.
-<br>
 
 *6. Automatisierte Entscheidungsfindung*
 
 Ein Verfahren zur automatisierten Entscheidungsfindung kommt nicht zum Einsatz.
-<br>
 
 *7. SSL- bzw. TLS-Verschlüsseleung*  
 
-Diese Seite nutzt aus Sicherheitsgründen und zum Schutz der Übertragung vertraulicher Inhalte, wie zum Beispiel Bestellungen oder Anfragen, die Sie an uns als Seitenbetreiber senden, eine SSL-bzw. TLS-Verschlüsselung. Eine verschlüsselte Verbindung erkennen Sie daran, dass die Adresszeile des Browsers von “http://” auf “https://” wechselt und an dem Schloss-Symbol in Ihrer Browserzeile. Wenn die SSL- bzw. TLS-Verschlüsselung aktiviert ist, können die Daten, die Sie an uns übermitteln, nicht von Dritten mitgelesen werden.
-<br>
+Diese Seite nutzt aus Sicherheitsgründen und zum Schutz der Übertragung vertraulicher Inhalte, wie zum Beispiel Bestellungen oder Anfragen, die Sie an uns als Seitenbetreiber senden, eine SSL-bzw. TLS-Verschlüsselung.
 
 *8. Google Maps*  
 
 Diese Seite nutzt über eine API den Kartendienst Google Maps. Anbieter ist die Google Inc., 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA. Zur Nutzung der Funktionen von Google Maps ist es notwendig, Ihre IP Adresse zu speichern. Diese Informationen werden in der Regel an einen Server von Google in den USA übertragen und dort gespeichert. Der Anbieter dieser Seite hat keinen Einfluss auf diese Datenübertragung. Das angemessene Datenschutzniveau ist durch die Zertifizierung von Google LLC unter dem Privacy Shield abkommen gewährleistet (https://www.privacyshield.gov/participant?id=a2zt000000001L5AAI). Die Nutzung von Google Maps erfolgt im Interesse einer ansprechenden Darstellung unserer Online-Angebote und an einer leichten Auffindbarkeit der von uns auf der Website angegebenen Orte. Die Rechtsgrundlage der Datenverarbeitung ist Art. 6 Abs. 1 lit. f. DSGVO. Der vorgenannte Zweck stellt das berechtigte Interesse im Sinne von Art. 6 Abs. 1 lit. f DSGVO dar. Mehr Informationen zum Umgang mit Nutzerdaten finden Sie in der Datenschutzerklärung von Google: https://www.google.de/intl/de/policies/privacy/.
-<br>
 
 *9. Widerspruch gegen Werbe-Mail*
 
