@@ -47,9 +47,11 @@ Forstenrieder Allee 70, 81476 Munich
 
 *Liability for Contents:*
 
-The contents of this website were created with the greatest care. However, no guarantee is made as to the accuracy, completeness, or timeliness of the content. As a service provider, I am responsible under § 7 para.1 TMG for my own content on these pages according to general laws. However, under §§ 8 to 10 TMG, I am not obliged as a service provider to monitor third-party information transmitted or stored, or to investigate circumstances that indicate illegal activity. Obligations to remove or block the use of information under general laws remain unaffected. However, any liability in this respect is only possible from the time of knowledge of a specific legal infringement.<br><br>
+The contents of this website were created with the greatest care. However, no guarantee is made as to the accuracy, completeness, or timeliness of the content. As a service provider, I am responsible under § 7 para.1 TMG for my own content on these pages according to general laws. However, under §§ 8 to 10 TMG, I am not obliged as a service provider to monitor third-party information transmitted or stored, or to investigate circumstances that indicate illegal activity. Obligations to remove or block the use of information under general laws remain unaffected. However, any liability in this respect is only possible from the time of knowledge of a specific legal infringement.
 
-Liability for Links:<br> My site contains links to external websites of third parties, over whose content I have no control. Therefore, I cannot assume any liability for these external contents. The respective provider or operator of the sites is always responsible for the contents of the linked sites. The linked sites were checked for possible legal violations at the time of linking. Illegal content was not identifiable at the time of linking. Permanent monitoring of the linked sites' content is, however, unreasonable without concrete indications of a legal violation. Upon notification of violations, I will remove such links immediately.
+*Liability for Links:*
+
+My site contains links to external websites of third parties, over whose content I have no control. Therefore, I cannot assume any liability for these external contents. The respective provider or operator of the sites is always responsible for the contents of the linked sites. The linked sites were checked for possible legal violations at the time of linking. Illegal content was not identifiable at the time of linking. Permanent monitoring of the linked sites' content is, however, unreasonable without concrete indications of a legal violation. Upon notification of violations, I will remove such links immediately.
 
 *Copyright:*
 
