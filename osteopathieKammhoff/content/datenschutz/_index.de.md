@@ -60,7 +60,7 @@ Die durch die Seitenbetreiber erstellten Inhalte und Werke auf diesen Seiten unt
 
 **All rights reserved**
 
-**___________________________________________________________mare________________________________**
+**___________________________________________________________________________________________**
 
 #### **Datenschutzerklärung**  
  <br>
