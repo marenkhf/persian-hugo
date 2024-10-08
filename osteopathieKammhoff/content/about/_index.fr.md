@@ -41,7 +41,7 @@ Service de santé de Lichtenberg, Berlin <br>
   
 #### Congrès internationeaux et interdisciplinaires d'ostéopathie 
 Aspects psychologiques de l'ostéopathie <br>
-Approches fasciales <br>  
+Approches fasciales <br>
 Philosophie et modèles ostéopathiques <br>
 
 #### Langues parlées <br>
