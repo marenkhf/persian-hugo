@@ -74,11 +74,8 @@ Die folgenden Hinweise geben einen Überblick darüber, was mit Ihren personenbe
 Die verantwortliche Stelle für die Datenverarbeitung auf dieser Website ist:
 
 Maren Kammhoff
-
 Telefon: +491779244251
-
 E-Mail: maren@osteopathiekammhoff.de  
-
 Website: www.osteopathiekammhoff.de
 
 Verantwortliche Stelle ist die natürliche oder juristische Person, die allein oder gemeinsam mit anderen über die Zwecke und Mittel der Verarbeitung von personenbezogenen Daten (z.B. Namen, E-Mail-Adressen o. ä.) entscheidet.
