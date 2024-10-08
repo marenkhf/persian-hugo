@@ -155,7 +155,7 @@ Viele Datenverarbeitungsvorgänge sind nur mit Ihrer ausdrücklichen Einwilligun
 
 b. Beschwerderecht bei der zuständigen Aufsichtsbehörde  
 
-Im Falle datenschutzrechtlicher Verstöße steht dem Betroffenen ein Beschwerderecht bei der zuständigen Aufsichtsbehörde zu. Zuständige Aufsichtsbehörde in datenschutzrechtlichen Fragen ist grundsätzlich der Landesdatenschutzbeauftragte des Bundeslandes, in dem unser Unternehmen seinen Sitz hat.   
+Im Falle datenschutzrechtlicher Verstöße steht dem Betroffenen ein Beschwerderecht bei der zuständigen Aufsichtsbehörde zu. Zuständige Aufsichtsbehörde in datenschutzrechtlichen Fragen ist grundsätzlich der Landesdatenschutzbeauftragte des Bundeslandes, in dem das Unternehmen seinen Sitz hat.   
 Eine Liste der Datenschutzbeauftragten sowie deren Kontaktdaten können folgendem Link entnommen werden: https://www.bfdi.bund.de/DE/Infothek/Anschriften_Links/anschriften_links-node.html.
 
 c. Auskunft, Sperrung, Löschung, Berichtigung, Einschränkung der Datenverarbeitung, Widerspruchsrecht  
