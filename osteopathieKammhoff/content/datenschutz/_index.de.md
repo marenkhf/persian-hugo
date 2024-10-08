@@ -16,9 +16,7 @@ Telefon: +49 15771978965
 
 E-Mail-Adresse: maren@osteopathiekammhoff.de 
 
-*Fotos*
-
-@ **[Jonas Ruhs](https://jonasruhs.com/ "Website von Jonas Ruhs")**  
+*Fotos:* @ **[Jonas Ruhs](https://jonasruhs.com/ "Website von Jonas Ruhs")**  
 <br>
 
 *Verantwortlich für den Inhalt (gem. § 55 Abs. 2 RStV (Rundfunkstaatsvertrag)):*
@@ -26,8 +24,8 @@ E-Mail-Adresse: maren@osteopathiekammhoff.de
 Maren Kammhoff
 
 *Aufsichtsbehörde:* <br>
-Landesamt für Gesundheit und Soziales (LAGeSo)
 
+Landesamt für Gesundheit und Soziales (LAGeSo)
 Turmstr. 21, 10559 Berlin
  
 *Berufskammer:*
@@ -35,6 +33,7 @@ Turmstr. 21, 10559 Berlin
 VFO – Verband Freier Osteopathen e.V:
 
 *Berufsbezeichung:* <br>
+
 Heilpraktiker (Gesundheitsamt Lichtenberg)
 
 *Berufsrechtliche Regelung:*
@@ -46,28 +45,24 @@ Berufsordnung für Heilpraktiker (BOH), Gesetz über die berufsmäßige Ausübun
 Versicherungsträger: Continentale
 
 Forstenrieder Allee 70, 81476 München
-<br>
-<br>
 
 *Haftungsausschluss:*
 
 Haftung für Inhalte
 Die Inhalte unserer Seiten wurden mit größter Sorgfalt erstellt. Für die Richtigkeit, Vollständigkeit und Aktualität der Inhalte können wir jedoch keine Gewähr übernehmen. Als Diensteanbieter sind wir gemäß § 7 Abs.1 TMG für eigene Inhalte auf diesen Seiten nach den allgemeinen Gesetzen verantwortlich. Nach §§ 8 bis 10 TMG sind wir als Diensteanbieter jedoch nicht verpflichtet, übermittelte oder gespeicherte fremde Informationen zu überwachen oder nach Umständen zu forschen, die auf eine rechtswidrige Tätigkeit hinweisen. Verpflichtungen zur Entfernung oder Sperrung der Nutzung von Informationen nach den allgemeinen Gesetzen bleiben hiervon unberührt. Eine diesbezügliche Haftung ist jedoch erst ab dem Zeitpunkt der Kenntnis einer konkreten Rechtsverletzung möglich. Bei Bekanntwerden von entsprechenden Rechtsverletzungen werden wir diese Inhalte umgehend entfernen.
-<br>
 
 *Haftung für Links:*
 
 Unser Angebot enthält Links zu externen Webseiten Dritter, auf deren Inhalte wir keinen Einfluss haben. Deshalb können wir für diese fremden Inhalte auch keine Gewähr übernehmen. Für die Inhalte der verlinkten Seiten ist stets der jeweilige Anbieter oder Betreiber der Seiten verantwortlich. Die verlinkten Seiten wurden zum Zeitpunkt der Verlinkung auf mögliche Rechtsverstöße überprüft. Rechtswidrige Inhalte waren zum Zeitpunkt der Verlinkung nicht erkennbar. Eine permanente inhaltliche Kontrolle der verlinkten Seiten ist jedoch ohne konkrete Anhaltspunkte einer Rechtsverletzung nicht zumutbar. Bei Bekanntwerden von Rechtsverletzungen werden wir derartige Links umgehend entfernen.
- <br>
 
 *Urheberrecht:*
 
 Die durch die Seitenbetreiber erstellten Inhalte und Werke auf diesen Seiten unterliegen dem deutschen Urheberrecht. Die Vervielfältigung, Bearbeitung, Verbreitung und jede Art der Verwertung außerhalb der Grenzen des Urheberrechtes bedürfen der schriftlichen Zustimmung des jeweiligen Autors bzw. Erstellers. Downloads und Kopien dieser Seite sind nur für den privaten, nicht kommerziellen Gebrauch gestattet. Soweit die Inhalte auf dieser Seite nicht vom Betreiber erstellt wurden, werden die Urheberrechte Dritter beachtet. Insbesondere werden Inhalte Dritter als solche gekennzeichnet. Sollten Sie trotzdem auf eine Urheberrechtsverletzung aufmerksam werden, bitten wir um einen entsprechenden Hinweis. Bei Bekanntwerden von Rechtsverletzungen werden wir derartige Inhalte umgehend entfernen.  
-<br>
 
 **All rights reserved**
 
 #### **Datenschutzerklärung**  
+
 
 *1. Allgemeines* 
 
@@ -130,13 +125,13 @@ Die Datenverarbeitung ist zwar nicht gesetzlich oder vertraglich vorgeschrieben,
 
 *4. Cookies*
 
-a. Was sind Cookies
-Die Internetseiten verwenden teilweise sogenannte Cookies. Cookies dienen dazu, unser Angebot nutzerfreundlicher, effektiver und sicherer zu machen. Cookies sind kleine Textdateien, die auf dem Rechner des Nutzers abgelegt werden und die der Browser des Nutzers speichert. Wir nutzen Cookies, um unsere Webseite nutzerfreundlicher zu gestalten. Einige Elemente unserer Webseite machen es erforderlich, dass der aufrufende Browser auch nach einem Seitenwechsel identifiziert werden kann. In den Cookies werden dabei folgende Daten gespeichert und übermittelt: Es folgt eine Auflistung der gespeicherten Daten: Dies könnten sein:
+a. Was sind Cookies <br>
+Die Internetseiten verwenden teilweise sogenannte Cookies. Cookies dienen dazu, unser Angebot nutzerfreundlicher, effektiver und sicherer zu machen. Cookies sind kleine Textdateien, die auf dem Rechner des Nutzers abgelegt werden und die der Browser des Nutzers speichert. Wir nutzen Cookies, um unsere Webseite nutzerfreundlicher zu gestalten. Einige Elemente unserer Webseite machen es erforderlich, dass der aufrufende Browser auch nach einem Seitenwechsel identifiziert werden kann. In den Cookies werden dabei folgende Daten gespeichert und übermittelt:
 
 * Spracheinstellungen
 * log-in-Informationen
 
-Wir ermöglichen darüber hinaus Cookies, die eine Analyse des Surfverhaltens der Nutzer ermöglichen. Auf diese Weise können folgende Daten übermittelt werden (Es folgt eine Auflistung der tatsächlich übermittelten Daten):
+Wir ermöglichen darüber hinaus Cookies, die eine Analyse des Surfverhaltens der Nutzer ermöglichen. Auf diese Weise können folgende Daten übermittelt werden:
 
 * eingehende Suchbegriffe
 * Häufigkeit von Seitenaufrufen
@@ -190,7 +185,7 @@ Der Nutzung von im Rahmen der Impressumspflicht veröffentlichten Kontaktdaten z
 
 *10. Kontakt per Telefon oder E-Mail*
  
-Im Rahmen der Kontaktaufnahme mit uns (z.B. per Telefon oder E-Mail) werden personenbezogene Daten wie beispielsweise Name, E-Mail-Adresse und Text Ihrer Anfrage sowie optional die Telefonnummer erhoben. Diese Daten werden zum Zweck der Beantwortung des Anliegens bzw. für die Kontaktaufnahme und die damit verbundene technische Administration gespeichert bzw. verwendet. Rechtsgrundlage für die Verarbeitung der Daten ist unser berechtigtes Interesse an der Beantwortung Ihres Anliegens gemäß Art. 6 Abs. 1 Abs. 1 lit. f DSGVO. Zielt Ihre Anfrage auf den Abschluss eines Vertrages ab oder sind Sie bereits Mitglied in unserem Verband, so ist Rechtsgrundlage für die Datenverarbeitung Art. 6 Abs. 1 lit. b DSGVO. Ihre Daten werden nach abschließender Bearbeitung Ihrer Anfrage gelöscht, wenn sich aus den Umständen entnehmen lässt, dass der betroffene Sachverhalt abschließend geklärt ist und sofern keine gesetzlichen Bestimmungen oder Aufbewahrungspflichten dem entgegenstehen.
+Im Rahmen der Kontaktaufnahme mit mir (z.B. per Telefon oder E-Mail) werden personenbezogene Daten wie beispielsweise Name, E-Mail-Adresse und Text Ihrer Anfrage sowie optional die Telefonnummer erhoben. Diese Daten werden zum Zweck der Beantwortung des Anliegens bzw. für die Kontaktaufnahme und die damit verbundene technische Administration gespeichert bzw. verwendet. Rechtsgrundlage für die Verarbeitung der Daten ist unser berechtigtes Interesse an der Beantwortung Ihres Anliegens gemäß Art. 6 Abs. 1 Abs. 1 lit. f DSGVO. Zielt Ihre Anfrage auf den Abschluss eines Vertrages ab oder sind Sie bereits Mitglied in unserem Verband, so ist Rechtsgrundlage für die Datenverarbeitung Art. 6 Abs. 1 lit. b DSGVO. Ihre Daten werden nach abschließender Bearbeitung Ihrer Anfrage gelöscht, wenn sich aus den Umständen entnehmen lässt, dass der betroffene Sachverhalt abschließend geklärt ist und sofern keine gesetzlichen Bestimmungen oder Aufbewahrungspflichten dem entgegenstehen.
 
 *11. Datenschutzbeauftrager*  
 
@@ -202,4 +197,4 @@ Gemäß Art. 7 Abs. 3 DSGVO steht Ihnen das Recht zu, Ihre erteilte Einwilligun
 
 *13. Widerspruchsrecht* 
 
-Sie haben das Recht, aus Gründen, die sich aus Ihrer besonderen Situation ergeben, jederzeit gegen die Verarbeitung der Sie betreffenden personenbezogenen Daten, die aufgrund einer Interessenabwägung (Art. 6 Abs. 1 lit. f DSGVO) erfolgt, Widerspruch einzulegen. Dies ist insbesondere dann der Fall, wenn die Datenverarbeitung nicht zur Erfüllung eines Vertrages erforderlich ist. Sofern Sie von Ihrem Widerspruchsrecht Gebrauch machen, bitten wir Sie um die Darlegung der Gründe. Wir werden Ihre personenbezogenen Daten dann nicht mehr verarbeiten, es sei denn, wir können Ihnen gegenüber nachweisen, dass zwingende schutzwürdige Gründe an der Datenverarbeitung Ihre Interessen und Rechte überwiegen.
+Sie haben das Recht, aus Gründen, die sich aus Ihrer besonderen Situation ergeben, jederzeit gegen die Verarbeitung der Sie betreffenden personenbezogenen Daten, die aufgrund einer Interessenabwägung (Art. 6 Abs. 1 lit. f DSGVO) erfolgt, Widerspruch einzulegen. Dies ist insbesondere dann der Fall, wenn die Datenverarbeitung nicht zur Erfüllung eines Vertrages erforderlich ist.
