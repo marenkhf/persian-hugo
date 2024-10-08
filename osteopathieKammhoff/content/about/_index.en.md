@@ -12,31 +12,37 @@ gallery:
 
 #### Master of Science
 Osteopathy <br> 
-Full-time study **[OSD-Berlin](https://www.osteopathie-schule.de/ "Studium an der OSD")**  
+Full-time study **[OSD-Berlin](https://www.osteopathie-schule.de/ "Studium an der OSD")** <br>
+2023 
   
 #### Bachelor of Science  
 Osteopathy <br>
-Full-time study **[OSD-Berlin](https://www.osteopathie-schule.de/ "Studium an der OSD")**  
+Full-time study **[OSD-Berlin](https://www.osteopathie-schule.de/ "Studium an der OSD")**  <br>
+2021
   
 #### VFO Member
-Association of Independent Osteopaths
+Association of Independent Osteopaths <br>
+2021
   
 #### Heilpraktikerin
-Health Department Lichtenberg  
-  
-#### International and Interdisciplinary Osteopathy Congress 
-Psychological Aspects of Osteopathy, 2021<br>
-Fascial Approaches, 2018  
-Osteopathic Philosophy and Models, 2017  
+Health Department Lichtenberg, Berlin <br>
+2021  
 
 #### Pediatric Osteopathy <br>
-Pediatric Osteopath, training at the **[IfAO](https://www.ifaop.com/postgraduatkurse/kursuebersicht/ "kinderosteopathische Ausbildung")** <br>
+Pediatric Osteopath, 2-years training at the **[IfAO](https://www.ifaop.com/postgraduatkurse/kursuebersicht/ "kinderosteopathische Ausbildung")** <br>
+2024
 
 #### DAS Diploma of Advanced Studies <br>
-Caring and Healing
+Caring and Healing <br>
+2023
 
 #### Practical Experience <br>
 2019 - 2021 practical experience in osteopathic teaching clinic and since 2021 working in private osteopathic practice
+  
+#### International and Interdisciplinary Osteopathy Congresses 
+Psychological Aspects of Osteopathy<br>
+Fascial Approaches <br> 
+Osteopathic Philosophy and Models <br>
 
 #### Languages <br>
 German, English, Spanish, and French  
