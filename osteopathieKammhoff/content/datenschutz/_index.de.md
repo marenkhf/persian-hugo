@@ -67,7 +67,7 @@ Die durch die Seitenbetreiber erstellten Inhalte und Werke auf diesen Seiten unt
 
 *1. Allgemeines* 
 
-Die folgenden Hinweise geben einen Überblick darüber, was mit Ihren personenbezogenen Daten passiert, wenn Sie unsere Website besuchen. Wenn Sie diese Website benutzen, werden verschiedene personenbezogene Daten erhoben. Personenbezogene Daten sind Daten, mit denen Sie persönlich identifiziert werden können.  
+Die folgenden Hinweise geben einen Überblick darüber, was mit Ihren personenbezogenen Daten passiert, wenn Sie meine Website besuchen. Wenn Sie diese Website benutzen, werden verschiedene personenbezogene Daten erhoben. Personenbezogene Daten sind Daten, mit denen Sie persönlich identifiziert werden können.  
 
 *2. Hinweis zur verantwortlichen Stelle*   
 
@@ -97,7 +97,7 @@ Bei jedem Aufruf unserer Internetseite erfasst das System automatisiert Daten un
 * Uhrzeit der Serveranfrage
 * IP-Adresse in anonymisierter Form (wird nur zur Feststellung des Orts des Zugriffs verwendet)
 
-Die vorgenannten Daten werden in den sogenannten Logfiles unseres Systems gespeichert. Eine Verarbeitung dieser Daten zusammen mit anderen personenbezogenen Daten des Nutzers findet nicht statt. Hiervon ausgenommen sind die sogenannten IP Adressen oder andere Daten des Nutzers, die die Zuordnung der Daten zu dem Nutzer ermöglichen. Eine Speicherung der Daten zusammen mit anderen personenbezogenen Daten erfolgt nicht.
+Die vorgenannten Daten werden in den sogenannten Logfiles meines Systems gespeichert. Eine Verarbeitung dieser Daten zusammen mit anderen personenbezogenen Daten des Nutzers findet nicht statt. Hiervon ausgenommen sind die sogenannten IP Adressen oder andere Daten des Nutzers, die die Zuordnung der Daten zu dem Nutzer ermöglichen. Eine Speicherung der Daten zusammen mit anderen personenbezogenen Daten erfolgt nicht.
 
 b. Zwecke der Verarbeitung von Daten  
 
@@ -128,18 +128,18 @@ Die Datenverarbeitung ist zwar nicht gesetzlich oder vertraglich vorgeschrieben,
 
 a. Was sind Cookies
 
-Die Internetseiten verwenden teilweise sogenannte Cookies. Cookies dienen dazu, unser Angebot nutzerfreundlicher, effektiver und sicherer zu machen. Cookies sind kleine Textdateien, die auf dem Rechner des Nutzers abgelegt werden und die der Browser des Nutzers speichert. Wir nutzen Cookies, um unsere Webseite nutzerfreundlicher zu gestalten. Einige Elemente unserer Webseite machen es erforderlich, dass der aufrufende Browser auch nach einem Seitenwechsel identifiziert werden kann. In den Cookies werden dabei folgende Daten gespeichert und übermittelt:
+Die Internetseiten verwenden teilweise sogenannte Cookies. Cookies dienen dazu, unser Angebot nutzerfreundlicher, effektiver und sicherer zu machen. Cookies sind kleine Textdateien, die auf dem Rechner des Nutzers abgelegt werden und die der Browser des Nutzers speichert. Ich nutze Cookies, um die Webseite nutzerfreundlicher zu gestalten. Einige Elemente meiner Webseite machen es erforderlich, dass der aufrufende Browser auch nach einem Seitenwechsel identifiziert werden kann. In den Cookies werden dabei folgende Daten gespeichert und übermittelt:
 
 * Spracheinstellungen
 * log-in-Informationen
 
-Wir ermöglichen darüber hinaus Cookies, die eine Analyse des Surfverhaltens der Nutzer ermöglichen. Auf diese Weise können folgende Daten übermittelt werden:
+Ich verwende darüber hinaus Cookies, die eine Analyse des Surfverhaltens der Nutzer ermöglichen. Auf diese Weise können folgende Daten übermittelt werden:
 
 * eingehende Suchbegriffe
 * Häufigkeit von Seitenaufrufen
 * Inanspruchnahme von Webseitenfunktionen
 
-Die auf diese Weise erhobenen Daten der Nutzer werden durch technische Vorkehrungen pseudonymisiert. Dies bedeutet, dass eine Zuordnung der Daten zum jeweiligen Nutzer nicht mehr möglich ist. Die Daten werden nicht mit sonstigen personenbezogenen Daten gespeichert. Beim Aufruf unserer Webseite werden die Nutzer durch einen Infobanner über die Verwendung von Cookies zu Analysezwecken informiert und auf diese Datenschutzerklärung verwiesen. Es erfolgt in diesem Zusammenhang auch ein Hinweis darauf, wie die Speicherung von Cookies in den Browsereinstellungen unterbunden werden kann. Die Rechtsgrundlage für die Verwendung von Cookies ist Art. 6 Abs. 1 lit. f DSGVO.
+Die auf diese Weise erhobenen Daten der Nutzer werden durch technische Vorkehrungen pseudonymisiert. Dies bedeutet, dass eine Zuordnung der Daten zum jeweiligen Nutzer nicht mehr möglich ist. Die Daten werden nicht mit sonstigen personenbezogenen Daten gespeichert. Beim Aufruf meiner Webseite werden die Nutzer durch einen Infobanner über die Verwendung von Cookies zu Analysezwecken informiert und auf diese Datenschutzerklärung verwiesen. Es erfolgt in diesem Zusammenhang auch ein Hinweis darauf, wie die Speicherung von Cookies in den Browsereinstellungen unterbunden werden kann. Die Rechtsgrundlage für die Verwendung von Cookies ist Art. 6 Abs. 1 lit. f DSGVO.
 
 b. Zweck der Datenverarbeitung  
 
@@ -167,7 +167,7 @@ Sie haben im Rahmen der geltenden gesetzlichen Bestimmungen jederzeit das Recht 
 
 d. Recht auf Datenübertragbarkeit  
 
-Sie haben das Recht, Daten, die wir auf Grundlage Ihrer Einwilligung oder in Erfüllung eines Vertrags automatisiert verarbeiten, an sich oder an einen Dritten in einem gängigen, maschinenlesbaren Format aushändigen zu lassen. Sofern Sie die direkte Übertragung der Daten an einen anderen Verantwortlichen verlangen, erfolgt dies nur, soweit es technisch machbar ist.
+Sie haben das Recht, Daten, die ich auf Grundlage Ihrer Einwilligung oder in Erfüllung eines Vertrags automatisiert verarbeiten, an sich oder an einen Dritten in einem gängigen, maschinenlesbaren Format aushändigen zu lassen. Sofern Sie die direkte Übertragung der Daten an einen anderen Verantwortlichen verlangen, erfolgt dies nur, soweit es technisch machbar ist.
 
 *6. Automatisierte Entscheidungsfindung*
 
