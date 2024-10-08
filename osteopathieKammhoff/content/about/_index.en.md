@@ -10,6 +10,14 @@ gallery:
 #### Osteopath
 5-year degree programme with approx. 5000 training units
 
+#### Pediatric Osteopathy <br>
+Pediatric Osteopath, 2-year training at the **[IfAO](https://www.ifaop.com/postgraduatkurse/kursuebersicht/ "kinderosteopathische Ausbildung")** <br>
+2024
+
+#### DAS Diploma of Advanced Studies <br>
+Caring and Healing <br>
+2023
+
 #### Master of Science
 Osteopathy <br> 
 Full-time study **[OSD-Berlin](https://www.osteopathie-schule.de/ "Studium an der OSD")** <br>
@@ -27,14 +35,6 @@ Association of Independent Osteopaths <br>
 #### Heilpraktikerin
 Health Department Lichtenberg, Berlin <br>
 2021  
-
-#### Pediatric Osteopathy <br>
-Pediatric Osteopath, 2-year training at the **[IfAO](https://www.ifaop.com/postgraduatkurse/kursuebersicht/ "kinderosteopathische Ausbildung")** <br>
-2024
-
-#### DAS Diploma of Advanced Studies <br>
-Caring and Healing <br>
-2023
 
 #### Practical Experience <br>
 2019 - 2021 practical experience in osteopathic teaching clinic and since 2021 working in private osteopathic practice

@@ -10,6 +10,14 @@ gallery:
 #### Osteopathin
 5-jähriges Studium mit ca. 5000 Ausbildungseinheiten
 
+#### Kinderosteopathie <br>
+Kinderosteopathin, 2- jährige Ausbildung an der **[IfAO](https://www.ifaop.com/postgraduatkurse/kursuebersicht/ "kinderosteopathische Ausbildung")** <br>
+2024
+
+#### DAS Diploma of Advanced Studies <br>
+Caring and Healing <br>
+2023
+
 #### Master of Science
 Osteopathie<br> 
 Vollzeitstudium **[OSD-Berlin](https://www.osteopathie-schule.de/ "Studium an der OSD")**  
@@ -27,14 +35,6 @@ Verband freier Osteopathen <br>
 #### Heilpraktikerin
 Gesundheitsamt Lichtenberg, Berlin <br>
 2021
-
-#### Kinderosteopathie <br>
-Kinderosteopathin, 2- jährige Ausbildung an der **[IfAO](https://www.ifaop.com/postgraduatkurse/kursuebersicht/ "kinderosteopathische Ausbildung")** <br>
-2024
-
-#### DAS Diploma of Advanced Studies <br>
-Caring and Healing <br>
-2023
 
 #### Praktische Erfahrung <br>
 2019 - 2021 praktische Erfahrung in osteopathischer Lehrklinik und seit 2021 in eigener osteopathischer Praxis tätig
