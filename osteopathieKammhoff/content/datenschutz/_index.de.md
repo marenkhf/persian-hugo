@@ -12,7 +12,7 @@ description: "Impressum/Datenschutz"
 *Angaben gemäß § 5 TMG (Tele-Medien-Gesetz):*
 
 Osteopathie Maren Kammhoff <br>
-Telefon: +49 15771978965<br>
+Telefon: +491779244251<br>
 E-Mail-Adresse: maren@osteopathiekammhoff.de <br>
 
 *Fotos:* @ **[Jonas Ruhs](https://jonasruhs.com/ "Website von Jonas Ruhs")**  
@@ -75,7 +75,7 @@ Die verantwortliche Stelle für die Datenverarbeitung auf dieser Website ist:
 
 Maren Kammhoff
 
-Telefon: +4915771978965  
+Telefon: +491779244251
 
 E-Mail: maren@osteopathiekammhoff.de  
 
