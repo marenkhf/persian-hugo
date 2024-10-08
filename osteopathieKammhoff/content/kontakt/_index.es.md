@@ -1,7 +1,6 @@
 ---
 title: "Contacto"
 # meta description
-<br>
 description: "Contacto"
 phone: "+491779244251"
 email: "maren@osteopathiekammhoff.de"
