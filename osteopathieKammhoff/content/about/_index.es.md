@@ -19,12 +19,12 @@ Osteópata infantil, 2 años de formación en el **[IfAO](https://www.ifaop.com/
 Cuidado y Sanación <br>
 2023
    
-#### Máster en Ciencias
+#### Master of Science
 Osteopatía <br> 
 Estudios a tiempo completo en **[OSD-Berlin](https://www.osteopathie-schule.de/ "Studium an der OSD")**  <br>
 2023
   
-#### Licenciatura en Ciencias  
+#### Bachelor of Science
 Osteopatía <br>
 Estudios a tiempo completo en **[OSD-Berlin](https://www.osteopathie-schule.de/ "Studium an der OSD")**  <br>
 2021
@@ -34,7 +34,7 @@ Asociación de Osteópatas Independientes <br>
 2021
   
 #### Heilpraktikerin
-Departamento de Salud de Lichtenberg  <br>
+Departamento de Salud de Lichtenberg, Berlin  <br>
 2021
 
 #### Experiencia práctica <br>
