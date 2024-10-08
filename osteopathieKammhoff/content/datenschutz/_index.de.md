@@ -84,7 +84,7 @@ Verantwortliche Stelle ist die natürliche oder juristische Person, die allein o
 
 a. Verarbeitete Daten  
 
-Bei jedem Aufruf unserer Internetseite erfasst das System automatisiert Daten und Informationen von Computersystem des aufrufenden Rechners. Folgende Daten werden hierbei erhoben:
+Bei jedem Aufruf meiner Internetseite erfasst das System automatisiert Daten und Informationen von Computersystem des aufrufenden Rechners. Folgende Daten werden hierbei erhoben:
 
 * Browsertyp und Browserversion
 * verwendetes Betriebssystem
