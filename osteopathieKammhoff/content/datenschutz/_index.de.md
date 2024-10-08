@@ -172,7 +172,7 @@ Ein Verfahren zur automatisierten Entscheidungsfindung kommt nicht zum Einsatz.
 
 *7. SSL- bzw. TLS-Verschlüsseleung*  
 
-Diese Seite nutzt aus Sicherheitsgründen und zum Schutz der Übertragung vertraulicher Inhalte, wie zum Beispiel Bestellungen oder Anfragen, die Sie an uns als Seitenbetreiber senden, eine SSL-bzw. TLS-Verschlüsselung.
+Diese Seite nutzt aus Sicherheitsgründen und zum Schutz der Übertragung vertraulicher Inhalte, wie zum Beispiel Bestellungen oder Anfragen, die Sie an mich als Seitenbetreiber senden, eine SSL-bzw. TLS-Verschlüsselung.
 
 *8. Google Maps*  
 
