@@ -41,7 +41,7 @@ Caring and Healing <br>
   
 #### Internationale und interdisziplinäre Osteopathie-Kongresse
 Psychologische Aspekte der Osteopathie<br>
-Fasziale Ansätze
+Fasziale Ansätze <br>
 Osteopathische Philosophie und Modelle 
 
 #### Gesprochene Sprachen <br>
