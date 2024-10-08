@@ -12,21 +12,16 @@ description: "Impressum/Datenschutz"
 
 Osteopathie Maren Kammhoff
 
-Bergstr. 27, 10115 Berlin
-
 Telefon: +49 15771978965
 
 E-Mail-Adresse: maren@osteopathiekammhoff.de 
 <br>
 <br>
-
-
 *Fotos*
 
 @ **[Jonas Ruhs](https://jonasruhs.com/ "Website von Jonas Ruhs")**  
 <br>
 
-​
 
 *Verantwortlich für den Inhalt (gem. § 55 Abs. 2 RStV (Rundfunkstaatsvertrag)):*
 
@@ -37,23 +32,16 @@ Landesamt für Gesundheit und Soziales (LAGeSo)
 
 Turmstr. 21, 10559 Berlin
  
-
 *Berufskammer:*
 
 VFO – Verband Freier Osteopathen e.V:
 
- 
-
 *Berufsbezeichung:*
 Heilpraktiker (Gesundheitsamt Lichtenberg)
-
-​
 
 *Berufsrechtliche Regelung:*
 
 Berufsordnung für Heilpraktiker (BOH), Gesetz über die berufsmäßige Ausübung der Heilkunde ohne Bestallung vom 17.02.1939 (HPG)
-
-​
 
 *Angaben zu Berufshaftpflichtversicherung:*
 
@@ -63,17 +51,12 @@ Forstenrieder Allee 70, 81476 München
 <br>
 <br>
 
-
-
 *Haftungsausschluss:*
 
-​
 Haftung für Inhalte
 Die Inhalte unserer Seiten wurden mit größter Sorgfalt erstellt. Für die Richtigkeit, Vollständigkeit und Aktualität der Inhalte können wir jedoch keine Gewähr übernehmen. Als Diensteanbieter sind wir gemäß § 7 Abs.1 TMG für eigene Inhalte auf diesen Seiten nach den allgemeinen Gesetzen verantwortlich. Nach §§ 8 bis 10 TMG sind wir als Diensteanbieter jedoch nicht verpflichtet, übermittelte oder gespeicherte fremde Informationen zu überwachen oder nach Umständen zu forschen, die auf eine rechtswidrige Tätigkeit hinweisen. Verpflichtungen zur Entfernung oder Sperrung der Nutzung von Informationen nach den allgemeinen Gesetzen bleiben hiervon unberührt. Eine diesbezügliche Haftung ist jedoch erst ab dem Zeitpunkt der Kenntnis einer konkreten Rechtsverletzung möglich. Bei Bekanntwerden von entsprechenden Rechtsverletzungen werden wir diese Inhalte umgehend entfernen.
 
- 
 <br>
-
 
 *Haftung für Links:*
 
@@ -81,44 +64,25 @@ Unser Angebot enthält Links zu externen Webseiten Dritter, auf deren Inhalte wi
 
  <br>
 
-
-
 *Urheberrecht:*
 
 Die durch die Seitenbetreiber erstellten Inhalte und Werke auf diesen Seiten unterliegen dem deutschen Urheberrecht. Die Vervielfältigung, Bearbeitung, Verbreitung und jede Art der Verwertung außerhalb der Grenzen des Urheberrechtes bedürfen der schriftlichen Zustimmung des jeweiligen Autors bzw. Erstellers. Downloads und Kopien dieser Seite sind nur für den privaten, nicht kommerziellen Gebrauch gestattet. Soweit die Inhalte auf dieser Seite nicht vom Betreiber erstellt wurden, werden die Urheberrechte Dritter beachtet. Insbesondere werden Inhalte Dritter als solche gekennzeichnet. Sollten Sie trotzdem auf eine Urheberrechtsverletzung aufmerksam werden, bitten wir um einen entsprechenden Hinweis. Bei Bekanntwerden von Rechtsverletzungen werden wir derartige Inhalte umgehend entfernen.  
 
 <br>
 
-
-​
-
 **All rights reserved**
-
-​
-
-​
-
-​
 
 #### **Datenschutzerklärung**  
 <br>
-
-
-​
 *1. Allgemeines* 
+
 Die folgenden Hinweise geben einen Überblick darüber, was mit Ihren personenbezogenen Daten passiert, wenn Sie unsere Website besuchen. Wenn Sie diese Website benutzen, werden verschiedene personenbezogene Daten erhoben. Personenbezogene Daten sind Daten, mit denen Sie persönlich identifiziert werden können.  
 <br>
-
 *2. Hinweis zur verantwortlichen Stelle*   
 
 Die verantwortliche Stelle für die Datenverarbeitung auf dieser Website ist:
 
-
-
 Maren Kammhoff
-
-Mehringer Str. 59, 13465 Berlin
-
 
 Telefon: +4915771978965  
 
@@ -126,13 +90,8 @@ E-Mail: maren@osteopathiekammhoff.de
 
 Website: www.osteopathiekammhoff.de
 <br>
-
- 
-
 Verantwortliche Stelle ist die natürliche oder juristische Person, die allein oder gemeinsam mit anderen über die Zwecke und Mittel der Verarbeitung von personenbezogenen Daten (z.B. Namen, E-Mail-Adressen o. ä.) entscheidet.
-
 <br>
-
 *3. Datenverarbeitung auf unserer Website*
 
 a. Verarbeitete Daten  
@@ -147,11 +106,7 @@ Bei jedem Aufruf unserer Internetseite erfasst das System automatisiert Daten un
 * Uhrzeit der Serveranfrage
 * IP-Adresse in anonymisierter Form (wird nur zur Feststellung des Orts des Zugriffs verwendet)
 
- 
-
 Die vorgenannten Daten werden in den sogenannten Logfiles unseres Systems gespeichert. Eine Verarbeitung dieser Daten zusammen mit anderen personenbezogenen Daten des Nutzers findet nicht statt. Hiervon ausgenommen sind die sogenannten IP Adressen oder andere Daten des Nutzers, die die Zuordnung der Daten zu dem Nutzer ermöglichen. Eine Speicherung der Daten zusammen mit anderen personenbezogenen Daten erfolgt nicht.
-
- 
 
 b. Zwecke der Verarbeitung von Daten  
 
@@ -162,32 +117,23 @@ Die vorübergehende Speicherung der Daten ist notwendig, um Ihnen die Inanspruch
 * Sicherheitsmaßnahmen
 * Reichweitenmessung/Marketing
 
- 
-
 c. Rechtsgrundlage  
 
 Rechtsgrundlage für die Datenverarbeitung ist Art. 6 Abs. 1 lit. f DSGVO. Die oben genannten Zwecke stellen auch unsere berechtigten Interessen im Sinne des Art. 6 Abs. 1 lit. f DSGVO an der Datenverarbeitung dar.
-
- 
 
 d. Weitergabe an Dritte  
 
 Die personenbezogenen Daten, die auf dieser Webseite verarbeitet werden, werden nicht an Dritte weitergegeben. Ein Transfer in Drittstaaten findet nicht statt.
 
- 
-
 e. Datenlöschung und Speicherdauer  
 
 Die personenbezogenen Daten werden gelöscht, sobald der Zweck der Speicherung entfällt, dh. mit Beendigung des Besuchs der Webseite. Die Speicherung der Daten in Logfiles erfolgt für maximal 7 Tage. Eine darüber hinausgehende Speicherung ist möglich. In diesem Fall werden die IP-Adressen der Nutzer gelöscht oder verfremdet, sodass eine Zuordnung des aufrufenden Clients nicht mehr möglich ist.
-
- 
 
 f. Keine gesetzliche oder vertragliche Pflicht zur Datenverarbeitung  
 
 Die Datenverarbeitung ist zwar nicht gesetzlich oder vertraglich vorgeschrieben, sie ist aber erforderlich, um Ihnen entsprechend dem oben genannten Zweck diese Webseite zur Verfügung zu stellen.
 <br>
 
- 
 *4. Cookies*
 
 a. Was sind Cookies
@@ -204,14 +150,10 @@ Wir ermöglichen darüber hinaus Cookies, die eine Analyse des Surfverhaltens de
 
 Die auf diese Weise erhobenen Daten der Nutzer werden durch technische Vorkehrungen pseudonymisiert. Dies bedeutet, dass eine Zuordnung der Daten zum jeweiligen Nutzer nicht mehr möglich ist. Die Daten werden nicht mit sonstigen personenbezogenen Daten gespeichert. Beim Aufruf unserer Webseite werden die Nutzer durch einen Infobanner über die Verwendung von Cookies zu Analysezwecken informiert und auf diese Datenschutzerklärung verwiesen. Es erfolgt in diesem Zusammenhang auch ein Hinweis darauf, wie die Speicherung von Cookies in den Browsereinstellungen unterbunden werden kann. Die Rechtsgrundlage für die Verwendung von Cookies ist Art. 6 Abs. 1 lit. f DSGVO.
 
- 
-
 b. Zweck der Datenverarbeitung  
 
 Zweck der Verwendung der Cookies ist die Vereinfachung der Webseitennutzung. Für folgende Funktionen der Webseite ist eine Wiedererkennung der Besucher durch den Einsatz von Cookies erforderlich.
 Die erhobenen Nutzerdaten werden nicht zur Erstellung von Nutzerprofilen verwendet. Daten werden an die Vereinigten Staaten gesendet.
-
- 
 
 c. Dauer der Speicherung, Widerspruchs- und Beseitigungsmöglichkeit  
 
@@ -224,20 +166,14 @@ a. Widerruf der Einwilligung zur Datenverarbeitung
 
 Viele Datenverarbeitungsvorgänge sind nur mit Ihrer ausdrücklichen Einwilligung möglich. Sie können eine bereits erteilte Einwilligung jederzeit widerrufen. Dazu reicht eine formlose Mitteilung per E-Mail an uns. Die Rechtmäßigkeit der bis zum Widerruf erfolgten Datenverarbeitung bleibt vom Widerruf unberührt.
 
- 
-
 b. Beschwerderecht bei der zuständigen Aufsichtsbehörde  
 
 Im Falle datenschutzrechtlicher Verstöße steht dem Betroffenen ein Beschwerderecht bei der zuständigen Aufsichtsbehörde zu. Zuständige Aufsichtsbehörde in datenschutzrechtlichen Fragen ist grundsätzlich der Landesdatenschutzbeauftragte des Bundeslandes, in dem unser Unternehmen seinen Sitz hat.   
 Eine Liste der Datenschutzbeauftragten sowie deren Kontaktdaten können folgendem Link entnommen werden: https://www.bfdi.bund.de/DE/Infothek/Anschriften_Links/anschriften_links-node.html.
 
- 
-
 c. Auskunft, Sperrung, Löschung, Berichtigung, Einschränkung der Datenverarbeitung, Widerspruchsrecht  
 
 Sie haben im Rahmen der geltenden gesetzlichen Bestimmungen jederzeit das Recht auf unentgeltliche Auskunft über Ihre gespeicherten personenbezogenen Daten, deren Herkunft und Empfänger und den Zweck der Datenverarbeitung und ein Recht auf Berichtigung, Sperrung oder Löschung dieser Daten sowie der Einschränkung der Verarbeitung sowie ein Recht auf Widerspruch gegen die Datenverarbeitung. Hierzu sowie zu weiteren Fragen zum Thema personenbezogene Daten können Sie sich jederzeit unter der im Impressum angegebenen Adresse an uns wenden.
-
- 
 
 d. Recht auf Datenübertragbarkeit  
 
@@ -250,7 +186,6 @@ Ein Verfahren zur automatisierten Entscheidungsfindung kommt nicht zum Einsatz.
 <br>
 
 *7. SSL- bzw. TLS-Verschlüsseleung*  
-
 
 Diese Seite nutzt aus Sicherheitsgründen und zum Schutz der Übertragung vertraulicher Inhalte, wie zum Beispiel Bestellungen oder Anfragen, die Sie an uns als Seitenbetreiber senden, eine SSL-bzw. TLS-Verschlüsselung. Eine verschlüsselte Verbindung erkennen Sie daran, dass die Adresszeile des Browsers von “http://” auf “https://” wechselt und an dem Schloss-Symbol in Ihrer Browserzeile. Wenn die SSL- bzw. TLS-Verschlüsselung aktiviert ist, können die Daten, die Sie an uns übermitteln, nicht von Dritten mitgelesen werden.
 <br>
@@ -268,16 +203,13 @@ Der Nutzung von im Rahmen der Impressumspflicht veröffentlichten Kontaktdaten z
  
 Im Rahmen der Kontaktaufnahme mit uns (z.B. per Telefon oder E-Mail) werden personenbezogene Daten wie beispielsweise Name, E-Mail-Adresse und Text Ihrer Anfrage sowie optional die Telefonnummer erhoben. Diese Daten werden zum Zweck der Beantwortung des Anliegens bzw. für die Kontaktaufnahme und die damit verbundene technische Administration gespeichert bzw. verwendet. Rechtsgrundlage für die Verarbeitung der Daten ist unser berechtigtes Interesse an der Beantwortung Ihres Anliegens gemäß Art. 6 Abs. 1 Abs. 1 lit. f DSGVO. Zielt Ihre Anfrage auf den Abschluss eines Vertrages ab oder sind Sie bereits Mitglied in unserem Verband, so ist Rechtsgrundlage für die Datenverarbeitung Art. 6 Abs. 1 lit. b DSGVO. Ihre Daten werden nach abschließender Bearbeitung Ihrer Anfrage gelöscht, wenn sich aus den Umständen entnehmen lässt, dass der betroffene Sachverhalt abschließend geklärt ist und sofern keine gesetzlichen Bestimmungen oder Aufbewahrungspflichten dem entgegenstehen.
 
-
 *11. Datenschutzbeauftrager*  
 
 Zur Benennung eines Datenschutzbeauftragten sind wir nicht verpflichtet.  
 
-
 *12. Widerrufsrecht*
 
 Gemäß Art. 7 Abs. 3 DSGVO steht Ihnen das Recht zu, Ihre erteilte Einwilligung in die Verarbeitung Ihrer Daten jederzeit uns gegenüber zu widerrufen. Der von Ihnen erklärte Widerruf ändert nichts an der Rechtmäßigkeit der bis zum Widerruf erfolgten Verarbeitung Ihrer personenbezogenen Daten.  
-
 
 *13. Widerspruchsrecht* 
 
