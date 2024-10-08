@@ -29,7 +29,7 @@ Health Department Lichtenberg, Berlin <br>
 2021  
 
 #### Pediatric Osteopathy <br>
-Pediatric Osteopath, 2-years training at the **[IfAO](https://www.ifaop.com/postgraduatkurse/kursuebersicht/ "kinderosteopathische Ausbildung")** <br>
+Pediatric Osteopath, 2-year training at the **[IfAO](https://www.ifaop.com/postgraduatkurse/kursuebersicht/ "kinderosteopathische Ausbildung")** <br>
 2024
 
 #### DAS Diploma of Advanced Studies <br>
