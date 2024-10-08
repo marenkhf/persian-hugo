@@ -29,8 +29,8 @@ Gesundheitsamt Lichtenberg, Berlin <br>
 2021
 
 #### Kinderosteopathie <br>
-Kinderosteopathin, Ausbildung an der **[IfAO](https://www.ifaop.com/postgraduatkurse/kursuebersicht/ "kinderosteopathische Ausbildung")** <br>
-2021
+Kinderosteopathin, 2- jährige Ausbildung an der **[IfAO](https://www.ifaop.com/postgraduatkurse/kursuebersicht/ "kinderosteopathische Ausbildung")** <br>
+2024
 
 #### DAS Diploma of Advanced Studies <br>
 Caring and Healing <br>
@@ -40,9 +40,9 @@ Caring and Healing <br>
 2019 - 2021 praktische Erfahrung in osteopathischer Lehrklinik und seit 2021 in eigener osteopathischer Praxis tätig
   
 #### Internationale und interdisziplinäre Osteopathie-Kongresse
-Psychologische Aspekte der Osteopathie, 2021<br>
-Fasziale Ansätze, 2018  
-Osteopathische Philosophie und Modelle, 2017  
+Psychologische Aspekte der Osteopathie<br>
+Fasziale Ansätze
+Osteopathische Philosophie und Modelle 
 
 #### Gesprochene Sprachen <br>
 Deutsch, Englisch, Spanisch und Französisch 
