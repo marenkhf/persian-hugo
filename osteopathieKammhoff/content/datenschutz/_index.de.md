@@ -188,7 +188,7 @@ Im Rahmen der Kontaktaufnahme mit mir (z.B. per Telefon oder E-Mail) werden pers
 
 *11. Datenschutzbeauftrager*  
 
-Zur Benennung eines Datenschutzbeauftragten sind wir nicht verpflichtet.  
+Zur Benennung eines Datenschutzbeauftragten besteht keine Verpflichtung. 
 
 *12. Widerrufsrecht*
 
