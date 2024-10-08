@@ -42,7 +42,7 @@ Departamento de Salud de Lichtenberg  <br>
 
 #### Congresos internacionales e interdisciplinarios de Osteopatía 
 Aspectos psicológicos de la osteopatía<br>
-Enfoques fasciales <br>  
+Enfoques fasciales <br>
 Filosofía y modelos osteopáticosy <br>
 
 #### Idiomas hablados <br>
