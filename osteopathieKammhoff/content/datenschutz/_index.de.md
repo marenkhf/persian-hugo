@@ -83,7 +83,7 @@ Website: www.osteopathiekammhoff.de
 
 Verantwortliche Stelle ist die natürliche oder juristische Person, die allein oder gemeinsam mit anderen über die Zwecke und Mittel der Verarbeitung von personenbezogenen Daten (z.B. Namen, E-Mail-Adressen o. ä.) entscheidet.
 
-*3. Datenverarbeitung auf unserer Website*
+*3. Datenverarbeitung auf meiner Website*
 
 a. Verarbeitete Daten  
 
