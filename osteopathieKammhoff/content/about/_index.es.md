@@ -10,34 +10,40 @@ gallery:
 
 #### Osteópata
 Carrera de 5 años con unas 5.000 unidades de formación 
+
+#### Osteopatía infantil <br>
+Osteópata infantil, 2 años de formación en el **[IfAO](https://www.ifaop.com/postgraduatkurse/kursuebersicht/ "kinderosteopathische Ausbildung")** <br>
+2024
+
+#### Diploma de Estudios Avanzados (DAS) <br>
+Cuidado y Sanación <br>
+2023
    
 #### Máster en Ciencias
 Osteopatía <br> 
-Estudios a tiempo completo en **[OSD-Berlin](https://www.osteopathie-schule.de/ "Studium an der OSD")**  
+Estudios a tiempo completo en **[OSD-Berlin](https://www.osteopathie-schule.de/ "Studium an der OSD")**  <br>
+2023
   
 #### Licenciatura en Ciencias  
 Osteopatía <br>
-Estudios a tiempo completo en **[OSD-Berlin](https://www.osteopathie-schule.de/ "Studium an der OSD")**  
+Estudios a tiempo completo en **[OSD-Berlin](https://www.osteopathie-schule.de/ "Studium an der OSD")**  <br>
+2021
   
 #### Miembro de VFO
-Asociación de Osteópatas Independientes
+Asociación de Osteópatas Independientes <br>
+2021
   
 #### Heilpraktikerin
-Departamento de Salud de Lichtenberg  
-  
-#### Congreso Internacional e Interdisciplinario de Osteopatía 
-Aspectos psicológicos de la osteopatía, 2021<br>
-Enfoques fasciales, 2018  
-Filosofía y modelos osteopáticos, 2017  
-
-#### Osteopatía infantil <br>
-Osteópata infantil, formación en el **[IfAO](https://www.ifaop.com/postgraduatkurse/kursuebersicht/ "kinderosteopathische Ausbildung")** <br>
-
-#### Diploma de Estudios Avanzados (DAS) <br>
-Cuidado y Sanación
+Departamento de Salud de Lichtenberg  <br>
+2021
 
 #### Experiencia práctica <br>
-2019 - 2021 experiencia práctica en una clínica de enseñanza osteopática y desde 2021 en su propia práctica osteopática
+2019 - 2021 experiencia práctica en una clínica de enseñanza osteopática y desde 2021 en su propia práctica osteopática  
+
+#### Congresos internacionales e interdisciplinarios de Osteopatía 
+Aspectos psicológicos de la osteopatía<br>
+Enfoques fasciales <br>  
+Filosofía y modelos osteopáticosy <br>
 
 #### Idiomas hablados <br>
 Alemán, inglés, español y francés
