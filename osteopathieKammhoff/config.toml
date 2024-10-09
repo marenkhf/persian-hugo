@@ -210,7 +210,7 @@ contact_info = "Kontakt: +491779244251 | maren@osteopathiekammhoff.de"
 # adress
 address = "Adresse: Derzeit im Umzug"
 # hours
-hours = "Öffnungszeiten: Montag bis Freitag: 09:00-13:00 und von 14:00-16:00"
+hours = "Öffnungszeiten: Montag bis Freitag 09:00-13:00 und von 14:00-16:00"
 
 # Preloader
 [params.preloader]
