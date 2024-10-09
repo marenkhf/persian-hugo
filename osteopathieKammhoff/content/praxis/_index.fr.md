@@ -10,23 +10,4 @@ gallery:
 ### Emplacement Berlin - Mitte
 <br>
 
-Les salles de consultation sont situées à Bergstraße Str. 27, 10115 Berlin. Elles sont intégrées dans le cabinet d'ostéopathie de **[The Family Osteopath](https://the-family-osteopath.de "The Family Osteopath")**. 
-
-
-#### Bus & Train
-Le cabinet est facilement accessible par les transports en commun.   
-
-#### Parking  
-Le stationnement est possible dans le quartier contre des frais horaires.
-
-<br>
-<br>
-<br>
-
-
-### Horaires d'ouverture
-<br>
-
-Veuillez vous renseigner sur les horaires d'ouverture auprès de **[The Family Osteopath](https://the-family-osteopath.de "The Family Osteopath")**.
-
-<br>
+Je suis en train de changer les locaux de mon cabinet, et je pourrai bientôt vous proposer à nouveau des rendez-vous chez *Ostéopathie Maren Kammhoff*. Pour toute question, n'hésitez pas à m'envoyer un e-mail ou à me contacter par téléphone.

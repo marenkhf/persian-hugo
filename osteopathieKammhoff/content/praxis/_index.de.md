@@ -10,23 +10,4 @@ gallery:
 ### Standort Berlin - Mitte
 <br>
 
-Die Praxisräume befinden sich in der Bergstraße Str. 27, 10115 Berlin. Sie sind eingegliedert in die Osteopathie-Praxis von **[The Family Osteopath](https://the-family-osteopath.de "The Family Osteopath")**. 
-
-
-#### Bus & Bahn
-Die Praxis ist mit öffentlichen Verkehrsmitteln gut zu erreichen.   
-
-#### Parken  
-Das Parken ist im Kiez gegen stündliche Parkgebühr möglich.
-
-<br>
-<br>
-<br>
-
-
-### Öffnungszeiten
-<br>
-
-Bitte erkundigen Sie sich über **[The Family Osteopath](https://the-family-osteopath.de "The Family Osteopath")** nach den Öffnungszeiten.
-
-<br>
+Ich wechsel momentan die Praxisräumlichkeiten und werde Ihnen zeitnah wieder Termine bei *Osteopathie Maren Kammhoff* anbieten können. Für Nachfragen können Sie mir gerne eine Mail schreiben oder mich telefonisch kontaktieren. 
