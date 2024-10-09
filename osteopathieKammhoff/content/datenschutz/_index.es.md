@@ -1,7 +1,7 @@
 ---
-title: "Impressum/ Datenschutz"
+title: "Aviso Legal/ Política de Privacidad"
 # meta description
-description: "Impressum/Datenschutz"
+description: "Aviso Legal/Politíca de Privacidad"
 ---  
 <br>
 <br>
@@ -21,7 +21,7 @@ Dirección de correo electrónico: maren@osteopathiekammhoff.de <br>
 
 Maren Kammhoff
 
-*Autoridad de supervisión:*<br>
+*Autoridad de supervisión:* <br>
 
 Oficina Estatal de Salud y Asuntos Sociales (LAGeSo), Turmstr. 21, 10559 Berlín
 
@@ -29,7 +29,7 @@ Oficina Estatal de Salud y Asuntos Sociales (LAGeSo), Turmstr. 21, 10559 Berlín
 
 VFO – Asociación de Osteópatas Independientes e.V.
 
-*Título Profesional:*<br>
+*Título Profesional:* <br>
 
 Naturópata (Oficina de Salud de Lichtenberg)
 
@@ -61,45 +61,49 @@ Los contenidos y obras creadas por los operadores del sitio en estas páginas es
 
 **_____________________________________________________________________________________________**
 
-Política de Privacidad
-1. Información General
+#### **Política de Privacidad**
+<br>
+
+*1. Información General*
 
 Las siguientes notas ofrecen una visión general de lo que sucede con sus datos personales cuando visita mi sitio web. Cuando utiliza este sitio, se recogen varios datos personales. Los datos personales son aquellos con los que puede ser identificado personalmente.
 
-2. Nota sobre el Responsable del Tratamiento
+*2. Nota sobre el Responsable del Tratamiento*
 
 El responsable del tratamiento de los datos en este sitio web es:
 
-Maren Kammhoff
-Teléfono: +491779244251
-Correo electrónico: maren@osteopathiekammhoff.de
-Sitio web: www.osteopathiekammhoff.de
+Maren Kammhoff <br>
+Teléfono: +491779244251 <br>
+Correo electrónico: maren@osteopathiekammhoff.de <br>
+Sitio web: www.osteopathiekammhoff.de<br>
 
 El responsable es la persona física o jurídica que, sola o junto con otros, determina los fines y medios del tratamiento de datos personales (por ejemplo, nombres, direcciones de correo electrónico, etc.).
 
-3. Tratamiento de Datos en mi Sitio Web
+*3. Tratamiento de Datos en mi Sitio Web*
 
 a. Datos Procesados
 
 Cada vez que se accede a mi sitio, el sistema recopila automáticamente datos e información del sistema informático del ordenador que accede. Los datos recopilados incluyen:
 
-Tipo y versión del navegador
-Sistema operativo utilizado
-Página web desde la cual el sistema del usuario accede a nuestro sitio
-Página web a la que accede el sistema del usuario a través de nuestro sitio
-Nombre del host del ordenador que accede
-Hora de la solicitud del servidor
-Dirección IP en forma anónima (utilizada solo para determinar la ubicación del acceso)
+* Tipo y versión del navegador
+* Sistema operativo utilizado
+* Página web desde la cual el sistema del usuario accede a nuestro sitio
+* Página web a la que accede el sistema del usuario a través de nuestro sitio
+* Nombre del host del ordenador que accede
+* Hora de la solicitud del servidor
+* Dirección IP en forma anónima (utilizada solo para determinar la ubicación del acceso)
+
 Estos datos se almacenan en los archivos de registro de mi sistema. No se procesan estos datos junto con otros datos personales del usuario. Se exceptúan las direcciones IP u otros datos del usuario que permiten la asignación de los datos al usuario. Los datos no se almacenan junto con otros datos personales.
 
 b. Finalidades del Tratamiento de Datos
 
 El almacenamiento temporal de datos es necesario para permitir el uso del sitio web. El almacenamiento de datos en archivos de registro se realiza para garantizar la funcionalidad del sitio, optimizarlo y asegurar la seguridad de nuestro sistema. Los datos se recopilan en interés legítimo de garantizar la seguridad y estabilidad de la oferta y proporcionar a los visitantes del sitio la máxima calidad posible. La recopilación se lleva a cabo sobre la base de:
 
-La provisión de la oferta en línea, sus funciones y contenido
-La respuesta a consultas de contacto y la comunicación con los usuarios
-Las medidas de seguridad
-La medición de audiencia/Marketing
+* La provisión de la oferta en línea, sus funciones y contenido
+* La respuesta a consultas de contacto y la comunicación con los usuarios
+* Las medidas de seguridad
+* La medición de audiencia/Marketing
+
 c. Base Legal
 
 La base legal para el tratamiento de los datos es el Art. 6 par. 1 lit. f del RGPD. Los fines mencionados anteriormente también constituyen nuestro interés legítimo en el sentido del Art. 6 par. 1 lit. f del RGPD en relación con el tratamiento de datos.
@@ -116,19 +120,21 @@ f. Ausencia de Obligación Legal o Contractual para el Tratamiento de Datos
 
 El tratamiento de los datos no es obligatorio por ley o contrato, pero es necesario para proporcionar este sitio web de acuerdo con la finalidad mencionada anteriormente.
 
-4. Cookies
+*4. Cookies*
 
 a. ¿Qué son las Cookies?
 
 Nuestro sitio web utiliza cookies para hacer que nuestra oferta sea más amigable para el usuario, efectiva y segura. Las cookies son pequeños archivos de texto almacenados en el ordenador del usuario por el navegador del usuario. Utilizo cookies para mejorar la usabilidad del sitio. Algunos elementos de mi sitio requieren que el navegador del usuario sea identificado incluso después de un cambio de página. Los siguientes datos se almacenan en las cookies y se transmiten:
 
-Configuración del idioma
-Información de inicio de sesión
+* Configuración del idioma
+* Información de inicio de sesión
+
 También utilizo cookies que permiten un análisis del comportamiento de navegación del usuario. Los siguientes datos pueden ser recopilados de esta manera:
 
-Términos de búsqueda introducidos
-Frecuencia de visitas a las páginas
-Uso de funciones del sitio web
+* Términos de búsqueda introducidos
+* Frecuencia de visitas a las páginas
+* Uso de funciones del sitio web
+
 Los datos recopilados de esta manera están pseudonimizados por precauciones técnicas, lo que significa que ya no es posible asignar los datos al usuario. Los datos no se almacenan junto con otros datos personales. Al acceder a mi sitio web, se informa a los usuarios mediante un banner informativo sobre el uso de cookies con fines de análisis y se les remite a esta política de privacidad. También se proporciona información sobre cómo desactivar el almacenamiento de cookies a través de la configuración del navegador. La base legal para el uso de cookies es el Art. 6 par. 1 lit. f del RGPD.
 
 b. Finalidad del Tratamiento de Datos
@@ -139,7 +145,7 @@ c. Duración del Almacenamiento, Derecho de Oposición y Posibilidad de Eliminac
 
 Las cookies se almacenan en el ordenador del usuario y se transmiten desde allí a nuestro sitio web. El usuario tiene control total sobre el uso de cookies. En la configuración del navegador, se puede desactivar o restringir la transmisión de cookies. Las cookies almacenadas pueden ser eliminadas. Si se eliminan las cookies, algunas partes del sitio pueden no estar completamente utilizables.
 
-5. Derechos del Usuario
+*5. Derechos del Usuario*
 
 a. Derecho de Revocación del Consentimiento para el Tratamiento de Datos
 
@@ -157,34 +163,34 @@ d. Derecho a la Portabilidad de Datos
 
 Tiene derecho a recibir los datos que yo trato automáticamente en función de su consentimiento o en cumplimiento de un contrato, en un formato común y legible por máquina, o a transferirlos a otro responsable, en la medida en que sea técnicamente viable.
 
-6. Decisión Automatizada
+*6. Decisión Automatizada*
 
 No se utiliza ningún proceso de decisión automatizado.
 
-7. Cifrado SSL o TLS
+*7. Cifrado SSL o TLS*
 
 Este sitio utiliza el cifrado SSL o TLS por razones de seguridad y para proteger la transmisión de contenido confidencial, como pedidos o consultas que nos envía.
 
-8. Google Maps
+*8. Google Maps*
 
 Este sitio utiliza Google Maps a través de una API. El proveedor es Google Inc., 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA. Para utilizar las funciones de Google Maps, es necesario almacenar su dirección IP. Esta información generalmente se transmite a un servidor de Google en los EE.UU. y se almacena allí. El proveedor de este sitio no tiene ninguna influencia en esta transferencia de datos. El nivel adecuado de protección de datos está garantizado por la certificación de Google LLC bajo el acuerdo Privacy Shield (https://www.privacyshield.gov/participant?id=a2zt000000001L5AAI). El uso de Google Maps es en interés de una presentación atractiva de nuestras ofertas en línea y para facilitar la localización de los lugares indicados en el sitio web. La base legal para el tratamiento de datos es el Art. 6 par. 1 lit. f del RGPD. El propósito mencionado constituye el interés legítimo en el sentido del Art. 6 par. 1 lit. f del RGPD. Más información sobre la gestión de los datos de los usuarios se puede encontrar en la política de privacidad de Google: https://www.google.de/intl/de/policies/privacy/.
 
-9. Oposición a Correos Publicitarios
+*9. Oposición a Correos Publicitarios*
 
 Se prohíbe el uso de los datos de contacto publicados en el marco de la obligación de aviso legal para el envío de publicidad no solicitada y material informativo. Los operadores de estas páginas se reservan expresamente el derecho de tomar medidas legales en caso de envío no solicitado de información publicitaria, como correos electrónicos de spam.
 
-10. Contacto por Teléfono o Correo Electrónico
+*10. Contacto por Teléfono o Correo Electrónico*
 
 En el curso de la toma de contacto conmigo (por ejemplo, por teléfono o correo electrónico), se recogen datos personales, tales como nombre, dirección de correo electrónico, el texto de su solicitud, y opcionalmente, el número de teléfono. Estos datos se almacenan o utilizan con el propósito de procesar la solicitud o para la administración técnica asociada. La base legal para el tratamiento de los datos es mi interés legítimo en responder a su solicitud según el Art. 6 par. 1 lit. f del RGPD. Si su solicitud tiene como objetivo la celebración de un contrato, o si ya es miembro de nuestra asociación, la base legal para el tratamiento de datos es el Art. 6 par. 1 lit. b del RGPD. Sus datos serán eliminados después de la tramitación final de su solicitud, siempre que no existan obligaciones legales de retención.
 
-11. Delegado de Protección de Datos
+*11. Delegado de Protección de Datos*
 
 No existe obligación de nombrar un delegado de protección de datos.
 
-12. Derecho de Revocación
+*12. Derecho de Revocación*
 
 Conforme al Art. 7 par. 3 del RGPD, tiene derecho a revocar su consentimiento para el tratamiento de sus datos en cualquier momento. La revocación que declare no afecta a la legalidad del tratamiento de sus datos personales hasta la revocación.
 
-13. Derecho de Oposición
+*13. Derecho de Oposición*
 
 Tiene derecho, por motivos relacionados con su situación particular, a oponerse en cualquier momento al tratamiento de los datos personales que le conciernen, basado en un balance de intereses (Art. 6 par. 1 lit. f del RGPD). Esto es especialmente relevante si el tratamiento de datos no es necesario para la ejecución de un contrato.

@@ -106,7 +106,7 @@ url = "kontakt"
 weight = 5
 
 [[languages.en.menus.main]]
-name = "Impressum"
+name = "Imprint"
 url = "datenschutz"
 weight = 6
 
@@ -147,7 +147,7 @@ url = "kontakt"
 weight = 5
 
 [[languages.fr.menus.main]]
-name = "Impressum"
+name = "Mentions Légales"
 url = "datenschutz"
 weight = 6
 
@@ -188,7 +188,7 @@ url = "kontakt"
 weight = 5
 
 [[languages.es.menus.main]]
-name = "Impressum"
+name = "Aviso Legal"
 url = "datenschutz"
 weight = 6
 
