@@ -7,7 +7,7 @@ gallery:
     - images/Osteopathie3-min.jpg
 ---
 
-### Standort Berlin - Mitte
+### Standort Berlin
 <br>
 
 Ich wechsel momentan die Praxisräumlichkeiten und werde Ihnen zeitnah wieder Termine bei *Osteopathie Maren Kammhoff* anbieten können. Für Nachfragen können Sie mir gerne eine Mail schreiben oder mich telefonisch kontaktieren. 
