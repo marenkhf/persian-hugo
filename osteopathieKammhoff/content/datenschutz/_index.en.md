@@ -74,7 +74,7 @@ The responsible party for data processing on this website is:
 
 Maren Kammhoff <br>
 Phone: +491779244251 <br>
-Email: maren@osteopathiekammhoff.de <b>
+Email: maren@osteopathiekammhoff.de<br>
 Website: www.osteopathiekammhoff.de <br>
 
 The responsible party is the natural or legal person who alone or jointly with others determines the purposes and means of processing personal data (e.g., names, email addresses, etc.).
