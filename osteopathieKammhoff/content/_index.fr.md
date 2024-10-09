@@ -1,7 +1,7 @@
 ---
 title: "Ostéopathie"
 image: "images/title.jpg"
-description: "Découvrez des soins ostéopathiques holistiques dans notre cabinet à Berlin. Spécialisés dans les douleurs chroniques, les blessures aiguës et le bien-être général, nous offrons des traitements personnalisés dans un environnement accueillant. Visitez-nous pour des services d'ostéopathie experts adaptés à vos besoins."
+description: "Bienvenue dans votre cabinet d'ostéopathie pour toute la famille. Spécialisé dans les soins pour les nourrissons, les enfants et les femmes enceintes, ainsi que pour les femmes après l'accouchement ; les adultes de tous âges sont également les bienvenus."
 gallery:
     - images/Osteopathie1-min.jpg
     - images/Osteopathie2-min.jpg

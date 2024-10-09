@@ -1,7 +1,7 @@
 ---
 title: "Osteopathy"
 image: "images/title.jpg"
-description: "Discover holistic osteopathic care at our Berlin practice. Specializing in chronic pain, acute injuries, and overall wellness, we offer personalized treatments in a welcoming environment. Visit us for expert osteopathy services tailored to your needs."
+description: "Welcome to your osteopathy practice for the entire family. Specializing in infants, children, and pregnant women, as well as women after childbirth; adults of all ages are also warmly welcome."
 gallery:
     - images/Osteopathie1-min.jpg
     - images/Osteopathie2-min.jpg

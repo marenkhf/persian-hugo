@@ -1,7 +1,7 @@
 ---
 title: "Osteopathie"
 image: "images/title.jpg"
-description: "Entdecken Sie ganzheitliche osteopathische Betreuung in unserer Berliner Praxis. Wir sind spezialisiert auf chronische Schmerzen, akute Verletzungen und allgemeines Wohlbefinden. Besuchen Sie uns für individuell angepasste Behandlungen in einer einladenden Umgebung."
+description: "Willkommen in Ihrer Osteopathie-Praxis für die gesamte Familie. Spezialisiert auf Säuglinge, Kinder und Schwangere sowie Frauen nach der Geburt sind aber auch Erwachsene jeden Alters herzlich willkommen."
 gallery:
     - images/Osteopathie1-min.jpg
     - images/Osteopathie2-min.jpg

@@ -1,7 +1,7 @@
 ---
 title: "Osteopatía"
 image: "images/title.jpg"
-description: "Descubra la atención osteopática holística en nuestra consulta de Berlín. Estamos especializados en dolor crónico, lesiones agudas y bienestar general. Visítenos para tratamientos personalizados en un entorno acogedor."
+description: "Bienvenido a su consulta de osteopatía para toda la familia. Especializado en bebés, niños y mujeres embarazadas, así como en mujeres después del parto; los adultos de todas las edades también son bienvenidos."
 gallery:
     - images/Osteopathie1-min.jpg
     - images/Osteopathie2-min.jpg
