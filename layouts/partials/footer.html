@@ -1,9 +1,17 @@
 <footer class="py-4">
   <div class="container text-center">
-    <p>{{ .Site.Params.contact_info }}</p>
-    <p>{{ .Site.Params.address }}</p>
-    <p>{{ .Site.Params.hours }}</p>
-    <p>{{ .Site.Params.copyright | markdownify }}</p>
+    <div>
+      <p>{{ .Site.Params.contact_info }}</p>
+    </div>
+    <div>
+      <p>{{ .Site.Params.address }}</p>
+    </div>
+    <div>
+      <p>{{ .Site.Params.hours }}</p>
+    </div>
+    <div>
+      <p>{{ .Site.Params.copyright | markdownify }}</p>
+    </div>
   </div>
 </footer>
 
