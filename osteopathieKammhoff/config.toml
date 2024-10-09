@@ -197,7 +197,7 @@ weight = 6
 [params]
 # logo = "images/logo.png"
 # Meta data
-description = "Discover holistic osteopathic care at our Berlin practice. Specializing in chronic pain, acute injuries, and overall wellness, we offer personalized treatments in a welcoming environment. Visit us for expert osteopathy services tailored to your needs. Entdecken Sie ganzheitliche osteopathische Betreuung in unserer Berliner Praxis. Wir sind spezialisiert auf chronische Schmerzen, akute Verletzungen und allgemeines Wohlbefinden. Besuchen Sie uns für individuell angepasste Behandlungen in einer einladenden Umgebung."
+description = "Willkommen in Ihrer Osteopathie-Praxis für die gesamte Familie. Spezialisiert auf Säuglinge, Kinder und Schwangere sowie Frauen nach der Geburt. Erwachsene jeden Alters sind auch herzlich willkommen. Welcome to your osteopathy practice for the entire family. Specializing in infants, children, and pregnant women, as well as women after childbirth. Adults of all ages are also warmly welcome."
 author = "Maren Kammhoff"
 # search  
 search = true
@@ -205,6 +205,12 @@ search = true
 contact_form_action = "https://formspree.io/f/mzbybqzl" # contact form works with https://formspree.io
 # copyright
 copyright = "Copyright © 2024 Maren Kammhoff Osteopathie. All rights reserved."
+# contact_info
+contact_info = "Kontakt: +491779244251 | maren@osteopathiekammhoff.de"
+# adress
+address = "Adresse: "
+# hours
+hours = "Öffnungszeiten: Montag bis Freitag: 09:00-13:00 und von 14:00-16:00"
 
 # Preloader
 [params.preloader]
