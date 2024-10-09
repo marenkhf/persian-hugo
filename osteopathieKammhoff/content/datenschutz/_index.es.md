@@ -6,279 +6,185 @@ description: "Impressum/Datenschutz"
 <br>
 <br>
 
-#### **Impressum**
-
-*Angaben gemäß § 5 TMG (Tele-Medien-Gesetz):*
-
-Osteopathie Maren Kammhoff
-
-Bergstr. 27, 10115 Berlin
-
-Telefon: +49 15771978965
-
-E-Mail-Adresse: maren@osteopathiekammhoff.de 
-<br>
+#### **Aviso Legal**<br>
 <br>
 
+*Información según el § 5 TMG (Ley de Medios Electrónicos):*
 
-*Fotos*
+Osteopatía Maren Kammhoff <br>
+Teléfono: +491779244251<br>
+Dirección de correo electrónico: maren@osteopathiekammhoff.de <br>
 
-@ **[Jonas Ruhs](https://jonasruhs.com/ "Website von Jonas Ruhs")**  
-<br>
+*Fotos:* @ **[Jonas Ruhs](https://jonasruhs.com/ "Website von Jonas Ruhs")** 
 
-​
-
-*Verantwortlich für den Inhalt (gem. § 55 Abs. 2 RStV (Rundfunkstaatsvertrag)):*
+*Responsable del contenido (según § 55 Abs. 2 RStV (Tratado Estatal de Radiodifusión)):*
 
 Maren Kammhoff
 
-*Aufsichtsbehörde:*
-Landesamt für Gesundheit und Soziales (LAGeSo)
+*Autoridad de supervisión:*<br>
 
-Turmstr. 21, 10559 Berlin
- 
+Oficina Estatal de Salud y Asuntos Sociales (LAGeSo), Turmstr. 21, 10559 Berlín
 
-*Berufskammer:*
+*Colegio Profesional:*
 
-VFO – Verband Freier Osteopathen e.V:
+VFO – Asociación de Osteópatas Independientes e.V.
 
- 
+*Título Profesional:*<br>
 
-*Berufsbezeichung:*
-Heilpraktiker (Gesundheitsamt Lichtenberg)
+Naturópata (Oficina de Salud de Lichtenberg)
 
-​
+*Regulación Profesional:*
 
-*Berufsrechtliche Regelung:*
+Código Profesional para Naturópatas (BOH), Ley sobre el Ejercicio Profesional de la Medicina sin Licencia, del 17.02.1939 (HPG)
 
-Berufsordnung für Heilpraktiker (BOH), Gesetz über die berufsmäßige Ausübung der Heilkunde ohne Bestallung vom 17.02.1939 (HPG)
+*Detalles del Seguro de Responsabilidad Profesional:*
 
-​
+Aseguradora: Continentale
 
-*Angaben zu Berufshaftpflichtversicherung:*
+Forstenrieder Allee 70, 81476 Múnich
 
-Versicherungsträger: Continentale
+*Descargo de Responsabilidad:*
 
-Forstenrieder Allee 70, 81476 München
-<br>
-<br>
+*Responsabilidad por Contenidos:*
 
+Los contenidos de esta página han sido elaborados con el mayor cuidado. Sin embargo, no se ofrece ninguna garantía sobre la exactitud, integridad o actualidad de los contenidos. Como proveedor de servicios, soy responsable de mi propio contenido en estas páginas conforme a las leyes generales (§ 7 Abs.1 TMG). No obstante, según §§ 8 a 10 TMG, no estoy obligado a monitorear la información transmitida o almacenada de terceros, ni a investigar circunstancias que indiquen una actividad ilegal. Las obligaciones de eliminar o bloquear el uso de información conforme a las leyes generales no se ven afectadas por esto. Sin embargo, la responsabilidad a este respecto solo es posible a partir del momento en que se tenga conocimiento de una infracción concreta.
 
+*Responsabilidad por Enlaces:*
 
-*Haftungsausschluss:*
+Mi oferta contiene enlaces a páginas web externas de terceros sobre cuyo contenido no tengo influencia alguna. Por ello, no puedo asumir ninguna responsabilidad por estos contenidos externos. El respectivo proveedor u operador de las páginas es siempre responsable de los contenidos de las páginas enlazadas. Las páginas enlazadas fueron revisadas en el momento del enlace en busca de posibles infracciones legales. No se identificaron contenidos ilegales en el momento del enlace. Sin embargo, el control permanente de los contenidos de las páginas enlazadas no es razonable sin indicios concretos de una infracción legal. Al tener conocimiento de infracciones, eliminaré dichos enlaces de inmediato.
 
-​
-Haftung für Inhalte
-Die Inhalte unserer Seiten wurden mit größter Sorgfalt erstellt. Für die Richtigkeit, Vollständigkeit und Aktualität der Inhalte können wir jedoch keine Gewähr übernehmen. Als Diensteanbieter sind wir gemäß § 7 Abs.1 TMG für eigene Inhalte auf diesen Seiten nach den allgemeinen Gesetzen verantwortlich. Nach §§ 8 bis 10 TMG sind wir als Diensteanbieter jedoch nicht verpflichtet, übermittelte oder gespeicherte fremde Informationen zu überwachen oder nach Umständen zu forschen, die auf eine rechtswidrige Tätigkeit hinweisen. Verpflichtungen zur Entfernung oder Sperrung der Nutzung von Informationen nach den allgemeinen Gesetzen bleiben hiervon unberührt. Eine diesbezügliche Haftung ist jedoch erst ab dem Zeitpunkt der Kenntnis einer konkreten Rechtsverletzung möglich. Bei Bekanntwerden von entsprechenden Rechtsverletzungen werden wir diese Inhalte umgehend entfernen.
+*Derechos de Autor:*
 
- 
-<br>
+Los contenidos y obras creadas por los operadores del sitio en estas páginas están sujetos a la ley alemana de derechos de autor. La reproducción, edición, distribución y cualquier tipo de uso fuera de los límites de los derechos de autor requieren el consentimiento por escrito del respectivo autor o creador. Las descargas y copias de este sitio solo están permitidas para uso privado, no comercial. En la medida en que el contenido de este sitio no haya sido creado por el operador, se respetan los derechos de autor de terceros. En particular, los contenidos de terceros se señalan como tales. Si, a pesar de esto, usted se percata de una infracción de los derechos de autor, le solicitamos que nos lo comunique. Al tener conocimiento de infracciones, eliminaremos inmediatamente dichos contenidos.
 
+**Todos los derechos reservados**
 
-*Haftung für Links:*
+**_____________________________________________________________________________________________**
 
-Unser Angebot enthält Links zu externen Webseiten Dritter, auf deren Inhalte wir keinen Einfluss haben. Deshalb können wir für diese fremden Inhalte auch keine Gewähr übernehmen. Für die Inhalte der verlinkten Seiten ist stets der jeweilige Anbieter oder Betreiber der Seiten verantwortlich. Die verlinkten Seiten wurden zum Zeitpunkt der Verlinkung auf mögliche Rechtsverstöße überprüft. Rechtswidrige Inhalte waren zum Zeitpunkt der Verlinkung nicht erkennbar. Eine permanente inhaltliche Kontrolle der verlinkten Seiten ist jedoch ohne konkrete Anhaltspunkte einer Rechtsverletzung nicht zumutbar. Bei Bekanntwerden von Rechtsverletzungen werden wir derartige Links umgehend entfernen.
+Política de Privacidad
+1. Información General
 
- <br>
+Las siguientes notas ofrecen una visión general de lo que sucede con sus datos personales cuando visita mi sitio web. Cuando utiliza este sitio, se recogen varios datos personales. Los datos personales son aquellos con los que puede ser identificado personalmente.
 
+2. Nota sobre el Responsable del Tratamiento
 
-
-*Urheberrecht:*
-
-Die durch die Seitenbetreiber erstellten Inhalte und Werke auf diesen Seiten unterliegen dem deutschen Urheberrecht. Die Vervielfältigung, Bearbeitung, Verbreitung und jede Art der Verwertung außerhalb der Grenzen des Urheberrechtes bedürfen der schriftlichen Zustimmung des jeweiligen Autors bzw. Erstellers. Downloads und Kopien dieser Seite sind nur für den privaten, nicht kommerziellen Gebrauch gestattet. Soweit die Inhalte auf dieser Seite nicht vom Betreiber erstellt wurden, werden die Urheberrechte Dritter beachtet. Insbesondere werden Inhalte Dritter als solche gekennzeichnet. Sollten Sie trotzdem auf eine Urheberrechtsverletzung aufmerksam werden, bitten wir um einen entsprechenden Hinweis. Bei Bekanntwerden von Rechtsverletzungen werden wir derartige Inhalte umgehend entfernen.  
-
-<br>
-
-
-​
-
-**All rights reserved**
-
-​
-
-​
-
-​
-
-#### **Datenschutzerklärung**  
-<br>
-
-
-​
-*1. Allgemeines* 
-Die folgenden Hinweise geben einen Überblick darüber, was mit Ihren personenbezogenen Daten passiert, wenn Sie unsere Website besuchen. Wenn Sie diese Website benutzen, werden verschiedene personenbezogene Daten erhoben. Personenbezogene Daten sind Daten, mit denen Sie persönlich identifiziert werden können.  
-<br>
-
-*2. Hinweis zur verantwortlichen Stelle*   
-
-Die verantwortliche Stelle für die Datenverarbeitung auf dieser Website ist:
-
-
+El responsable del tratamiento de los datos en este sitio web es:
 
 Maren Kammhoff
+Teléfono: +491779244251
+Correo electrónico: maren@osteopathiekammhoff.de
+Sitio web: www.osteopathiekammhoff.de
 
-Mehringer Str. 59, 13465 Berlin
+El responsable es la persona física o jurídica que, sola o junto con otros, determina los fines y medios del tratamiento de datos personales (por ejemplo, nombres, direcciones de correo electrónico, etc.).
 
+3. Tratamiento de Datos en mi Sitio Web
 
-Telefon: +4915771978965  
+a. Datos Procesados
 
-E-Mail: maren@osteopathiekammhoff.de  
+Cada vez que se accede a mi sitio, el sistema recopila automáticamente datos e información del sistema informático del ordenador que accede. Los datos recopilados incluyen:
 
-Website: www.osteopathiekammhoff.de
-<br>
+Tipo y versión del navegador
+Sistema operativo utilizado
+Página web desde la cual el sistema del usuario accede a nuestro sitio
+Página web a la que accede el sistema del usuario a través de nuestro sitio
+Nombre del host del ordenador que accede
+Hora de la solicitud del servidor
+Dirección IP en forma anónima (utilizada solo para determinar la ubicación del acceso)
+Estos datos se almacenan en los archivos de registro de mi sistema. No se procesan estos datos junto con otros datos personales del usuario. Se exceptúan las direcciones IP u otros datos del usuario que permiten la asignación de los datos al usuario. Los datos no se almacenan junto con otros datos personales.
 
- 
+b. Finalidades del Tratamiento de Datos
 
-Verantwortliche Stelle ist die natürliche oder juristische Person, die allein oder gemeinsam mit anderen über die Zwecke und Mittel der Verarbeitung von personenbezogenen Daten (z.B. Namen, E-Mail-Adressen o. ä.) entscheidet.
+El almacenamiento temporal de datos es necesario para permitir el uso del sitio web. El almacenamiento de datos en archivos de registro se realiza para garantizar la funcionalidad del sitio, optimizarlo y asegurar la seguridad de nuestro sistema. Los datos se recopilan en interés legítimo de garantizar la seguridad y estabilidad de la oferta y proporcionar a los visitantes del sitio la máxima calidad posible. La recopilación se lleva a cabo sobre la base de:
 
-<br>
+La provisión de la oferta en línea, sus funciones y contenido
+La respuesta a consultas de contacto y la comunicación con los usuarios
+Las medidas de seguridad
+La medición de audiencia/Marketing
+c. Base Legal
 
-*3. Datenverarbeitung auf unserer Website*
+La base legal para el tratamiento de los datos es el Art. 6 par. 1 lit. f del RGPD. Los fines mencionados anteriormente también constituyen nuestro interés legítimo en el sentido del Art. 6 par. 1 lit. f del RGPD en relación con el tratamiento de datos.
 
-a. Verarbeitete Daten  
+d. Transferencia a Terceros
 
-Bei jedem Aufruf unserer Internetseite erfasst das System automatisiert Daten und Informationen von Computersystem des aufrufenden Rechners. Folgende Daten werden hierbei erhoben:
+Los datos personales tratados en este sitio no se transfieren a terceros. No se realiza transferencia alguna a países terceros.
 
-* Browsertyp und Browserversion
-* verwendetes Betriebssystem
-* Webseite, von denen das System des Nutzers auf unsere Internetseite gelangt
-* Webseite, die vom System des Nutzers über unsere Webseite aufgerufen werden
-* Hostname des zugreifenden Rechners
-* Uhrzeit der Serveranfrage
-* IP-Adresse in anonymisierter Form (wird nur zur Feststellung des Orts des Zugriffs verwendet)
+e. Eliminación y Duración del Almacenamiento de Datos
 
- 
+Los datos personales se eliminan tan pronto como el propósito de su almacenamiento deja de existir, es decir, al finalizar la visita al sitio. Los datos almacenados en archivos de registro se eliminan después de un máximo de 7 días. Es posible un almacenamiento adicional. En este caso, las direcciones IP de los usuarios se eliminan o anonimizan de modo que ya no sea posible asignarlas al cliente que accede.
 
-Die vorgenannten Daten werden in den sogenannten Logfiles unseres Systems gespeichert. Eine Verarbeitung dieser Daten zusammen mit anderen personenbezogenen Daten des Nutzers findet nicht statt. Hiervon ausgenommen sind die sogenannten IP Adressen oder andere Daten des Nutzers, die die Zuordnung der Daten zu dem Nutzer ermöglichen. Eine Speicherung der Daten zusammen mit anderen personenbezogenen Daten erfolgt nicht.
+f. Ausencia de Obligación Legal o Contractual para el Tratamiento de Datos
 
- 
+El tratamiento de los datos no es obligatorio por ley o contrato, pero es necesario para proporcionar este sitio web de acuerdo con la finalidad mencionada anteriormente.
 
-b. Zwecke der Verarbeitung von Daten  
+4. Cookies
 
-Die vorübergehende Speicherung der Daten ist notwendig, um Ihnen die Inanspruchnahme der Webseite zu ermöglichen. Die Speicherung der Daten in Logfiles erfolgt, um die Funktionsfähigkeit der Webseite sicherzustellen und zur Optimierung der Webseite und Sicherstellung der Sicherheit unseres Systems. Die Daten werden aus berechtigtem Interesse erhoben, um die Sicherheit und Stabilität des Angebots zu gewährleisten und den Webseitenbesuchern ein Höchstmaß an Qualität bereitstellen zu können. Die Erhebung erfolgt aufgrund:
+a. ¿Qué son las Cookies?
 
-* Zurverfügungstellung des Onlineangebotes, seiner Funktionen und Inhalte
-* Beantwortung von Kontaktanfragen und Kommunikation mit Nutzern
-* Sicherheitsmaßnahmen
-* Reichweitenmessung/Marketing
+Nuestro sitio web utiliza cookies para hacer que nuestra oferta sea más amigable para el usuario, efectiva y segura. Las cookies son pequeños archivos de texto almacenados en el ordenador del usuario por el navegador del usuario. Utilizo cookies para mejorar la usabilidad del sitio. Algunos elementos de mi sitio requieren que el navegador del usuario sea identificado incluso después de un cambio de página. Los siguientes datos se almacenan en las cookies y se transmiten:
 
- 
+Configuración del idioma
+Información de inicio de sesión
+También utilizo cookies que permiten un análisis del comportamiento de navegación del usuario. Los siguientes datos pueden ser recopilados de esta manera:
 
-c. Rechtsgrundlage  
+Términos de búsqueda introducidos
+Frecuencia de visitas a las páginas
+Uso de funciones del sitio web
+Los datos recopilados de esta manera están pseudonimizados por precauciones técnicas, lo que significa que ya no es posible asignar los datos al usuario. Los datos no se almacenan junto con otros datos personales. Al acceder a mi sitio web, se informa a los usuarios mediante un banner informativo sobre el uso de cookies con fines de análisis y se les remite a esta política de privacidad. También se proporciona información sobre cómo desactivar el almacenamiento de cookies a través de la configuración del navegador. La base legal para el uso de cookies es el Art. 6 par. 1 lit. f del RGPD.
 
-Rechtsgrundlage für die Datenverarbeitung ist Art. 6 Abs. 1 lit. f DSGVO. Die oben genannten Zwecke stellen auch unsere berechtigten Interessen im Sinne des Art. 6 Abs. 1 lit. f DSGVO an der Datenverarbeitung dar.
+b. Finalidad del Tratamiento de Datos
 
- 
+El propósito de usar cookies es simplificar el uso del sitio web. Para las siguientes funciones, es necesario reconocer a los visitantes a través del uso de cookies. Los datos recopilados no se utilizan para crear perfiles de usuario. Los datos se transfieren a los Estados Unidos.
 
-d. Weitergabe an Dritte  
+c. Duración del Almacenamiento, Derecho de Oposición y Posibilidad de Eliminación
 
-Die personenbezogenen Daten, die auf dieser Webseite verarbeitet werden, werden nicht an Dritte weitergegeben. Ein Transfer in Drittstaaten findet nicht statt.
+Las cookies se almacenan en el ordenador del usuario y se transmiten desde allí a nuestro sitio web. El usuario tiene control total sobre el uso de cookies. En la configuración del navegador, se puede desactivar o restringir la transmisión de cookies. Las cookies almacenadas pueden ser eliminadas. Si se eliminan las cookies, algunas partes del sitio pueden no estar completamente utilizables.
 
- 
+5. Derechos del Usuario
 
-e. Datenlöschung und Speicherdauer  
+a. Derecho de Revocación del Consentimiento para el Tratamiento de Datos
 
-Die personenbezogenen Daten werden gelöscht, sobald der Zweck der Speicherung entfällt, dh. mit Beendigung des Besuchs der Webseite. Die Speicherung der Daten in Logfiles erfolgt für maximal 7 Tage. Eine darüber hinausgehende Speicherung ist möglich. In diesem Fall werden die IP-Adressen der Nutzer gelöscht oder verfremdet, sodass eine Zuordnung des aufrufenden Clients nicht mehr möglich ist.
+Muchas operaciones de tratamiento de datos solo son posibles con su consentimiento explícito. Puede revocar cualquier consentimiento ya dado en cualquier momento enviándonos un correo electrónico. La legalidad del tratamiento de datos llevado a cabo hasta la revocación no se ve afectada por la misma.
 
- 
+b. Derecho de Reclamación ante la Autoridad de Control Competente
 
-f. Keine gesetzliche oder vertragliche Pflicht zur Datenverarbeitung  
+En caso de violaciones de las leyes de protección de datos, el usuario tiene derecho a presentar una queja ante la autoridad de control competente. La autoridad de control responsable de cuestiones de protección de datos suele ser el delegado de protección de datos del estado federal en el que tiene su sede la empresa. Se puede encontrar una lista de los delegados de protección de datos, así como sus datos de contacto, en el siguiente enlace: https://www.bfdi.bund.de/DE/Infothek/Anschriften_Links/anschriften_links-node.html.
 
-Die Datenverarbeitung ist zwar nicht gesetzlich oder vertraglich vorgeschrieben, sie ist aber erforderlich, um Ihnen entsprechend dem oben genannten Zweck diese Webseite zur Verfügung zu stellen.
-<br>
+c. Derecho de Acceso, Rectificación, Bloqueo, Eliminación, Limitación del Tratamiento de Datos y Derecho de Oposición
 
- 
-*4. Cookies*
+Tiene derecho, en el marco de las disposiciones legales vigentes, a obtener información gratuita sobre sus datos personales almacenados, su origen, sus destinatarios y el propósito del tratamiento de datos, y a rectificación, bloqueo o eliminación de estos datos, así como la limitación del tratamiento y el derecho de oposición al tratamiento de los datos. Para ello, y para cualquier otra pregunta sobre los datos personales, puede ponerse en contacto con nosotros en cualquier momento a la dirección indicada en el aviso legal.
 
-a. Was sind Cookies
-Die Internetseiten verwenden teilweise sogenannte Cookies. Cookies dienen dazu, unser Angebot nutzerfreundlicher, effektiver und sicherer zu machen. Cookies sind kleine Textdateien, die auf dem Rechner des Nutzers abgelegt werden und die der Browser des Nutzers speichert. Wir nutzen Cookies, um unsere Webseite nutzerfreundlicher zu gestalten. Einige Elemente unserer Webseite machen es erforderlich, dass der aufrufende Browser auch nach einem Seitenwechsel identifiziert werden kann. In den Cookies werden dabei folgende Daten gespeichert und übermittelt: Es folgt eine Auflistung der gespeicherten Daten: Dies könnten sein:
+d. Derecho a la Portabilidad de Datos
 
-* Spracheinstellungen
-* log-in-Informationen
+Tiene derecho a recibir los datos que yo trato automáticamente en función de su consentimiento o en cumplimiento de un contrato, en un formato común y legible por máquina, o a transferirlos a otro responsable, en la medida en que sea técnicamente viable.
 
-Wir ermöglichen darüber hinaus Cookies, die eine Analyse des Surfverhaltens der Nutzer ermöglichen. Auf diese Weise können folgende Daten übermittelt werden (Es folgt eine Auflistung der tatsächlich übermittelten Daten):
+6. Decisión Automatizada
 
-* eingehende Suchbegriffe
-* Häufigkeit von Seitenaufrufen
-* Inanspruchnahme von Webseitenfunktionen
+No se utiliza ningún proceso de decisión automatizado.
 
-Die auf diese Weise erhobenen Daten der Nutzer werden durch technische Vorkehrungen pseudonymisiert. Dies bedeutet, dass eine Zuordnung der Daten zum jeweiligen Nutzer nicht mehr möglich ist. Die Daten werden nicht mit sonstigen personenbezogenen Daten gespeichert. Beim Aufruf unserer Webseite werden die Nutzer durch einen Infobanner über die Verwendung von Cookies zu Analysezwecken informiert und auf diese Datenschutzerklärung verwiesen. Es erfolgt in diesem Zusammenhang auch ein Hinweis darauf, wie die Speicherung von Cookies in den Browsereinstellungen unterbunden werden kann. Die Rechtsgrundlage für die Verwendung von Cookies ist Art. 6 Abs. 1 lit. f DSGVO.
+7. Cifrado SSL o TLS
 
- 
+Este sitio utiliza el cifrado SSL o TLS por razones de seguridad y para proteger la transmisión de contenido confidencial, como pedidos o consultas que nos envía.
 
-b. Zweck der Datenverarbeitung  
+8. Google Maps
 
-Zweck der Verwendung der Cookies ist die Vereinfachung der Webseitennutzung. Für folgende Funktionen der Webseite ist eine Wiedererkennung der Besucher durch den Einsatz von Cookies erforderlich.
-Die erhobenen Nutzerdaten werden nicht zur Erstellung von Nutzerprofilen verwendet. Daten werden an die Vereinigten Staaten gesendet.
+Este sitio utiliza Google Maps a través de una API. El proveedor es Google Inc., 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA. Para utilizar las funciones de Google Maps, es necesario almacenar su dirección IP. Esta información generalmente se transmite a un servidor de Google en los EE.UU. y se almacena allí. El proveedor de este sitio no tiene ninguna influencia en esta transferencia de datos. El nivel adecuado de protección de datos está garantizado por la certificación de Google LLC bajo el acuerdo Privacy Shield (https://www.privacyshield.gov/participant?id=a2zt000000001L5AAI). El uso de Google Maps es en interés de una presentación atractiva de nuestras ofertas en línea y para facilitar la localización de los lugares indicados en el sitio web. La base legal para el tratamiento de datos es el Art. 6 par. 1 lit. f del RGPD. El propósito mencionado constituye el interés legítimo en el sentido del Art. 6 par. 1 lit. f del RGPD. Más información sobre la gestión de los datos de los usuarios se puede encontrar en la política de privacidad de Google: https://www.google.de/intl/de/policies/privacy/.
 
- 
+9. Oposición a Correos Publicitarios
 
-c. Dauer der Speicherung, Widerspruchs- und Beseitigungsmöglichkeit  
+Se prohíbe el uso de los datos de contacto publicados en el marco de la obligación de aviso legal para el envío de publicidad no solicitada y material informativo. Los operadores de estas páginas se reservan expresamente el derecho de tomar medidas legales en caso de envío no solicitado de información publicitaria, como correos electrónicos de spam.
 
-Cookies werden auf dem Computer des Nutzes der Webseite gespeichert und Daten von dort an unser System übermittelt. Der Nutzer hat die Kontrolle über die Verwendung von Cookies. In den Einstellungen des Internetbrowsers kann die Übertragung von Cookies deaktiviert oder eingeschränkt werden. Gespeicherte Cookies können gelöscht werden. Werden Cookies gelöscht, können ggf. Teile der Webseite nicht mehr uneingeschränkt genutzt werden
-<br>
+10. Contacto por Teléfono o Correo Electrónico
 
-*5. Rechte des Betroffenen* 
+En el curso de la toma de contacto conmigo (por ejemplo, por teléfono o correo electrónico), se recogen datos personales, tales como nombre, dirección de correo electrónico, el texto de su solicitud, y opcionalmente, el número de teléfono. Estos datos se almacenan o utilizan con el propósito de procesar la solicitud o para la administración técnica asociada. La base legal para el tratamiento de los datos es mi interés legítimo en responder a su solicitud según el Art. 6 par. 1 lit. f del RGPD. Si su solicitud tiene como objetivo la celebración de un contrato, o si ya es miembro de nuestra asociación, la base legal para el tratamiento de datos es el Art. 6 par. 1 lit. b del RGPD. Sus datos serán eliminados después de la tramitación final de su solicitud, siempre que no existan obligaciones legales de retención.
 
-a. Widerruf der Einwilligung zur Datenverarbeitung  
+11. Delegado de Protección de Datos
 
-Viele Datenverarbeitungsvorgänge sind nur mit Ihrer ausdrücklichen Einwilligung möglich. Sie können eine bereits erteilte Einwilligung jederzeit widerrufen. Dazu reicht eine formlose Mitteilung per E-Mail an uns. Die Rechtmäßigkeit der bis zum Widerruf erfolgten Datenverarbeitung bleibt vom Widerruf unberührt.
+No existe obligación de nombrar un delegado de protección de datos.
 
- 
+12. Derecho de Revocación
 
-b. Beschwerderecht bei der zuständigen Aufsichtsbehörde  
+Conforme al Art. 7 par. 3 del RGPD, tiene derecho a revocar su consentimiento para el tratamiento de sus datos en cualquier momento. La revocación que declare no afecta a la legalidad del tratamiento de sus datos personales hasta la revocación.
 
-Im Falle datenschutzrechtlicher Verstöße steht dem Betroffenen ein Beschwerderecht bei der zuständigen Aufsichtsbehörde zu. Zuständige Aufsichtsbehörde in datenschutzrechtlichen Fragen ist grundsätzlich der Landesdatenschutzbeauftragte des Bundeslandes, in dem unser Unternehmen seinen Sitz hat.   
-Eine Liste der Datenschutzbeauftragten sowie deren Kontaktdaten können folgendem Link entnommen werden: https://www.bfdi.bund.de/DE/Infothek/Anschriften_Links/anschriften_links-node.html.
+13. Derecho de Oposición
 
- 
-
-c. Auskunft, Sperrung, Löschung, Berichtigung, Einschränkung der Datenverarbeitung, Widerspruchsrecht  
-
-Sie haben im Rahmen der geltenden gesetzlichen Bestimmungen jederzeit das Recht auf unentgeltliche Auskunft über Ihre gespeicherten personenbezogenen Daten, deren Herkunft und Empfänger und den Zweck der Datenverarbeitung und ein Recht auf Berichtigung, Sperrung oder Löschung dieser Daten sowie der Einschränkung der Verarbeitung sowie ein Recht auf Widerspruch gegen die Datenverarbeitung. Hierzu sowie zu weiteren Fragen zum Thema personenbezogene Daten können Sie sich jederzeit unter der im Impressum angegebenen Adresse an uns wenden.
-
- 
-
-d. Recht auf Datenübertragbarkeit  
-
-Sie haben das Recht, Daten, die wir auf Grundlage Ihrer Einwilligung oder in Erfüllung eines Vertrags automatisiert verarbeiten, an sich oder an einen Dritten in einem gängigen, maschinenlesbaren Format aushändigen zu lassen. Sofern Sie die direkte Übertragung der Daten an einen anderen Verantwortlichen verlangen, erfolgt dies nur, soweit es technisch machbar ist.
-<br>
-
-*6. Automatisierte Entscheidungsfindung*
-
-Ein Verfahren zur automatisierten Entscheidungsfindung kommt nicht zum Einsatz.
-<br>
-
-*7. SSL- bzw. TLS-Verschlüsseleung*  
-
-
-Diese Seite nutzt aus Sicherheitsgründen und zum Schutz der Übertragung vertraulicher Inhalte, wie zum Beispiel Bestellungen oder Anfragen, die Sie an uns als Seitenbetreiber senden, eine SSL-bzw. TLS-Verschlüsselung. Eine verschlüsselte Verbindung erkennen Sie daran, dass die Adresszeile des Browsers von “http://” auf “https://” wechselt und an dem Schloss-Symbol in Ihrer Browserzeile. Wenn die SSL- bzw. TLS-Verschlüsselung aktiviert ist, können die Daten, die Sie an uns übermitteln, nicht von Dritten mitgelesen werden.
-<br>
-
-*8. Google Maps*  
-
-Diese Seite nutzt über eine API den Kartendienst Google Maps. Anbieter ist die Google Inc., 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA. Zur Nutzung der Funktionen von Google Maps ist es notwendig, Ihre IP Adresse zu speichern. Diese Informationen werden in der Regel an einen Server von Google in den USA übertragen und dort gespeichert. Der Anbieter dieser Seite hat keinen Einfluss auf diese Datenübertragung. Das angemessene Datenschutzniveau ist durch die Zertifizierung von Google LLC unter dem Privacy Shield abkommen gewährleistet (https://www.privacyshield.gov/participant?id=a2zt000000001L5AAI). Die Nutzung von Google Maps erfolgt im Interesse einer ansprechenden Darstellung unserer Online-Angebote und an einer leichten Auffindbarkeit der von uns auf der Website angegebenen Orte. Die Rechtsgrundlage der Datenverarbeitung ist Art. 6 Abs. 1 lit. f. DSGVO. Der vorgenannte Zweck stellt das berechtigte Interesse im Sinne von Art. 6 Abs. 1 lit. f DSGVO dar. Mehr Informationen zum Umgang mit Nutzerdaten finden Sie in der Datenschutzerklärung von Google: https://www.google.de/intl/de/policies/privacy/.
-<br>
-
-*9. Widerspruch gegen Werbe-Mail*
-
-Der Nutzung von im Rahmen der Impressumspflicht veröffentlichten Kontaktdaten zur Übersendung von nicht ausdrücklich angeforderter Werbung und Informationsmaterialien wird hiermit widersprochen. Die Betreiber der Seiten behalten sich ausdrücklich rechtliche Schritte im Falle der unverlangten Zusendung von Werbeinformationen, etwa durch Spam-E-Mails, vor.
-
-*10. Kontakt per Telefon oder E-Mail*
- 
-Im Rahmen der Kontaktaufnahme mit uns (z.B. per Telefon oder E-Mail) werden personenbezogene Daten wie beispielsweise Name, E-Mail-Adresse und Text Ihrer Anfrage sowie optional die Telefonnummer erhoben. Diese Daten werden zum Zweck der Beantwortung des Anliegens bzw. für die Kontaktaufnahme und die damit verbundene technische Administration gespeichert bzw. verwendet. Rechtsgrundlage für die Verarbeitung der Daten ist unser berechtigtes Interesse an der Beantwortung Ihres Anliegens gemäß Art. 6 Abs. 1 Abs. 1 lit. f DSGVO. Zielt Ihre Anfrage auf den Abschluss eines Vertrages ab oder sind Sie bereits Mitglied in unserem Verband, so ist Rechtsgrundlage für die Datenverarbeitung Art. 6 Abs. 1 lit. b DSGVO. Ihre Daten werden nach abschließender Bearbeitung Ihrer Anfrage gelöscht, wenn sich aus den Umständen entnehmen lässt, dass der betroffene Sachverhalt abschließend geklärt ist und sofern keine gesetzlichen Bestimmungen oder Aufbewahrungspflichten dem entgegenstehen.
-
-
-*11. Datenschutzbeauftrager*  
-
-Zur Benennung eines Datenschutzbeauftragten sind wir nicht verpflichtet.  
-
-
-*12. Widerrufsrecht*
-
-Gemäß Art. 7 Abs. 3 DSGVO steht Ihnen das Recht zu, Ihre erteilte Einwilligung in die Verarbeitung Ihrer Daten jederzeit uns gegenüber zu widerrufen. Der von Ihnen erklärte Widerruf ändert nichts an der Rechtmäßigkeit der bis zum Widerruf erfolgten Verarbeitung Ihrer personenbezogenen Daten.  
-
-
-*13. Widerspruchsrecht* 
-
-Sie haben das Recht, aus Gründen, die sich aus Ihrer besonderen Situation ergeben, jederzeit gegen die Verarbeitung der Sie betreffenden personenbezogenen Daten, die aufgrund einer Interessenabwägung (Art. 6 Abs. 1 lit. f DSGVO) erfolgt, Widerspruch einzulegen. Dies ist insbesondere dann der Fall, wenn die Datenverarbeitung nicht zur Erfüllung eines Vertrages erforderlich ist. Sofern Sie von Ihrem Widerspruchsrecht Gebrauch machen, bitten wir Sie um die Darlegung der Gründe. Wir werden Ihre personenbezogenen Daten dann nicht mehr verarbeiten, es sei denn, wir können Ihnen gegenüber nachweisen, dass zwingende schutzwürdige Gründe an der Datenverarbeitung Ihre Interessen und Rechte überwiegen.
+Tiene derecho, por motivos relacionados con su situación particular, a oponerse en cualquier momento al tratamiento de los datos personales que le conciernen, basado en un balance de intereses (Art. 6 par. 1 lit. f del RGPD). Esto es especialmente relevante si el tratamiento de datos no es necesario para la ejecución de un contrato.

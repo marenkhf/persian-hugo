@@ -23,7 +23,7 @@ Maren Kammhoff
 
 *Aufsichtsbehörde:* <br>
 
-Landesamt für Gesundheit und Soziales (LAGeSo)
+Landesamt für Gesundheit und Soziales (LAGeSo),
 Turmstr. 21, 10559 Berlin
  
 *Berufskammer:*
