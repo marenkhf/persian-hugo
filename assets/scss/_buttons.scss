@@ -76,32 +76,14 @@
   }
 }
 
-.btn-pink {
-  background: #FFC0CB; /* Helles Rosa */
-  color: white;
-  border-color: #FFC0CB;
-
-  &:active,
-  &:hover,
-  &.focus,
-  &.active {
-    background: #FF99B0 !important; /* Dunkleres Rosa bei Hover */
-    border-color: #FF99B0 !important;
-  }
-}
-$pink-color: #FFC0CB;
-$pink-hover: #FF99B0;
-
-.btn-pink {
-  background: $pink-color;
-  color: $white;
-  border-color: $pink-color;
-
-  &:active,
-  &:hover,
-  &.focus,
-  &.active {
-    background: $pink-hover !important;
-    border-color: $pink-hover !important;
-  }
+.btn-info {
+  background-color: #FFC0CB;
+  color: #ffffff;
+  font-size: 14px;
+  padding: 10px;
+  border-radius: 4px 0 0 4px;
+  text-align: center;
+  opacity: 0.85;
+  width: 150px;
+  line-height: 1.4;
 }
