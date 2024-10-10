@@ -12,6 +12,7 @@ gallery:
 <br>  
   
 ### Dear Patients and Parents!
+<br>
 
 The osteopathic approach to health concerns is very important to me. Osteopathy is a manual therapy that restores balance and function in the body by relieving blockages and tension.
 
