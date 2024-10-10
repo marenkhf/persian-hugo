@@ -87,3 +87,19 @@
   width: 150px;
   line-height: 1.4;
 }
+
+.btn-info {
+  position: fixed;       /* Damit das Element an der Seite fixiert bleibt */
+  top: 310px;            /* Abstand von oben */
+  right: 0;              /* Positionierung am rechten Rand */
+  z-index: 20000;        /* Überlappungspriorität */
+  background-color: #FFC0CB;
+  color: #ffffff;
+  font-size: 14px;
+  padding: 10px;
+  border-radius: 4px 0 0 4px;
+  text-align: center;
+  opacity: 0.5;
+  width: 150px;
+  line-height: 1.4;
+}
