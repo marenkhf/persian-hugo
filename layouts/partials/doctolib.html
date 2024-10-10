@@ -48,11 +48,19 @@ en línea
 
 <!-- Neuer rosa Hinweis-Button -->
 
-<div class="btn-info" style="position: fixed; top: 310px; right: 0; z-index: 20000;">
-  Bitte beachten:<br />FFP2-Masken bei Infektionen
-</div>
-
-<div class="btn-info">
+<div style="
+    position: fixed;
+    top: 310px;
+    right: 0;
+    z-index: 20000;
+    background-color: rgba(255, 192, 203, 0.5);
+    color: #ffffff;
+    font-size: 14px;
+    padding: 10px;
+    border-radius: 4px 0 0 4px;
+    text-align: center;
+    width: 150px;
+    line-height: 1.4;">
   {{ $lang := .Language.Lang }}
   {{ if eq $lang "de" }}
     Bitte beachten:<br />FFP2-Masken bei Infektionen
