@@ -11,56 +11,19 @@ gallery:
 > ### "La medicina más eficaz es el poder de curación natural que reside dentro de cada uno de nosotros."
 > Hipócrates
 <br>  
-
   
-La osteopatía representa una forma independiente de atención médica primaria.
-
-El diagnóstico y el tratamiento se realizan principalmente con las manos, es decir, manualmente.  
-El conocimiento detallado de la anatomía y la fisiología del cuerpo humano se combina con métodos de examen clínico para evaluar la movilidad del aparato locomotor y de los órganos. Además del elemento del tacto, la conversación y el contacto interpersonal juegan un papel importante.
-
-El tratamiento osteopático aborda las causas de las molestias e incorpora varios factores, tanto físicos como no físicos. En este contexto, el enfoque en la salud individual, en el sentido de la salutogénesis, juega un papel importante.
-
-
-Puede encontrar más información, por ejemplo, en **[VFO e.V.](https://www.vfo.de/was-ist-osteopathie "Was ist Osteopathie")**  
-
-El concepto de tratamiento holístico de la osteopatía abarca tres áreas que se integran en un tratamiento osteopático:  
-<br>
-<br>
- 
-## *Los tres pilares de la osteopatía*  
-<br>
+### Estimados pacientes y queridos padres:
 <br>
 
-### Osteopatía parietal  
-  
-> El diagnóstico funcional y el tratamiento del aparato locomotor son la prioridad. Los elementos esenciales son las articulaciones, los tendones, los ligamentos, así como los músculos y las fascias.
+El enfoque osteopático hacia los problemas de salud es algo que me apasiona profundamente. La osteopatía es una terapia manual que restaura el equilibrio y la función en el cuerpo al liberar bloqueos y tensiones.
 
-<br>
+Gracias a mi formación integral en osteopatía clásica y osteopatía pediátrica, trato a pacientes de todas las edades. Trabajo en el diagnóstico osteopático y el tratamiento de secuelas traumáticas del nacimiento, problemas de desarrollo en bebés y restricciones funcionales en diferentes sistemas de niños y adolescentes. Además, cubro los ámbitos generales de la osteopatía clásica para adultos.
 
+Mi práctica está especializada en el tratamiento osteopático de bebés, niños y adolescentes. Los adultos con problemas físicos, como limitaciones funcionales o dolores crónicos o agudos, también son bienvenidos.
 
-### Osteopatía visceral  
-  
->El examen y tratamiento se enfocan en nuestros órganos internos y sus estructuras circundantes, los nervios, así como los vasos aferentes y eferentes, como el sistema linfático y los vasos sanguíneos.
+Después de una anamnesis y un examen detallados, le proporcionaré a usted o a su hijo las recomendaciones de tratamiento adecuadas y elaboraré un plan de terapia individual para usted y su familia, con el fin de aliviar o contrarrestar los síntomas y molestias. Apoyo activamente el principio de la autoeficacia del paciente en la salud de cada persona y, por lo tanto, me complace informarles sobre las posibles causas de las enfermedades, el desarrollo de síntomas y el funcionamiento del cuerpo humano.
 
-<br>
+En mi sitio web encontrará más información sobre el funcionamiento de la osteopatía, el proceso de tratamiento, los costos y la programación de citas.
 
-
-### Osteopatía craneal  
-  
-> En el tratamiento osteopático craneal, el enfoque está en la alineación precisa y la función de los huesos del cráneo por un lado y el sacro por otro.  
-El cráneo y el sacro están conectados a través de las membranas del cerebro y la médula espinal, así como por el líquido cefalorraquídeo, y se consideran una unidad funcional. <br>
-<br>
-<br>
-<br>
-
-## *Osteopatía infantil* 
-<br>
-
-
-La osteopatía infantil es una especialización dentro de la osteopatía. Aquí, el conocimiento del desarrollo sensorial, emocional y neurológico normal del niño juega un papel importante. Las indicaciones comunes para un tratamiento osteopático son:
-
-* Complicaciones del embarazo y el parto
-* Trastornos del crecimiento y retrasos en el desarrollo
-* Problemas digestivos (cólicos) y problemas urogenitales (incontinencia) 
-* Asimetrías craneales y maloclusiones
-* Trastornos del sueño y problemas de succión
+Atentamente,
+Maren Kammhoff (M.Sc. Osteopatía, HP)
