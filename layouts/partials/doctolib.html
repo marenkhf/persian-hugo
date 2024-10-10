@@ -53,14 +53,14 @@ en línea
 </div>
 
 <div class="btn-info" style="position: fixed; top: 310px; right: 0; z-index: 20000;">
-  {{ $lang := .Site.LanguageCode }}
-  {{ if eq $lang "de" }}
+  {{ $var := .Site.Language }}
+  {{ if in $var "de" }}
     Bitte beachten:<br />FFP2-Masken bei Infektionen
-  {{ else if eq $lang "en" }}
+  {{ else if in $var "en" }}
     Please note:<br />FFP2 masks for infections
-  {{ else if eq $lang "fr" }}
+  {{ else if in $var "fr" }}
     Veuillez noter :<br />Masques FFP2 en cas d'infections
-  {{ else if eq $lang "es" }}
+  {{ else if in $var "es" }}
     Tenga en cuenta:<br />Mascarillas FFP2 en caso de infecciones
   {{ else }}
     Bitte beachten:<br />FFP2-Masken bei Infektionen
