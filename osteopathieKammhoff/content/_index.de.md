@@ -6,7 +6,11 @@ gallery:
     - images/Osteopathie1-min.jpg
     - images/Osteopathie2-min.jpg
 ---
-  
+
+<div class="button-container">
+  <a href="LINK_ZU_DOCTOLIB" class="btn btn-primary">Termin vereinbaren</a>
+  <a href="#" class="btn btn-pink">Bitte beachten:<br>Bitte bei Infekten unbedingt FFP2 Masken tragen - danke!</a>
+</div>
  
 > ### "Die wirksamste Medizin ist die natürliche Heilkraft, die im Inneren eines jeden von uns liegt"
 >Hippokrates  
