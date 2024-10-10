@@ -8,8 +8,8 @@ gallery:
 ---
   
  
-> ### "El ser humano posee mecanismos de autorregulación y la capacidad natural de autocuración."
->Principio fundamental de la osteopatía  
+> ### "La medicina más eficaz es el poder de curación natural que reside dentro de cada uno de nosotros."
+> Hipócrates
 <br>  
 
   

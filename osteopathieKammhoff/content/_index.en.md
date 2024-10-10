@@ -7,8 +7,8 @@ gallery:
     - images/Osteopathie2-min.jpg
 ---
   
-> ### "Humans possess self-regulating mechanisms and the natural ability to self-heal."
->Basic principle of osteopathy  
+> ### "The most effective medicine is the natural healing power that resides within each of us."
+>Hippocrates of Kos 
 <br>  
 
   

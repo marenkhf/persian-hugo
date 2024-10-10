@@ -8,8 +8,10 @@ gallery:
 ---
   
 
-> ### "L'être humain possède des mécanismes d'autorégulation et la capacité naturelle d'autoguérison."
->Principe fondamental de l'ostéopathie  
+> ### "Le remède le plus efficace est le pouvoir de guérison naturel qui se trouve en chacun de nous."
+> Hippocrate
+
+
 <br>  
 
   
