@@ -10,57 +10,18 @@ gallery:
 > ### "The most effective medicine is the natural healing power that resides within each of us."
 >Hippocrates of Kos 
 <br>  
-
   
-Osteopathy represents an independent form of primary medical care.
+### Dear Patients and Parents!
 
-Diagnosis and treatment are primarily conducted manually, through the hands.  
-Detailed knowledge of the anatomy and physiology of the human body is combined with clinical examination methods to assess the mobility of the musculoskeletal system and organs. In addition to the element of touch, conversation and interpersonal contact play an important role.
+The osteopathic approach to health concerns is very important to me. Osteopathy is a manual therapy that restores balance and function in the body by relieving blockages and tension.
 
-Osteopathic treatment addresses the causes of complaints and incorporates various factors, both physical and non-physical. The focus on individual health, in the sense of salutogenesis, plays an important role.
+With my comprehensive training in classical osteopathy and pediatric osteopathy, I care for patients of all ages. I work in osteopathic diagnosis and treatment of traumatic birth consequences, developmental issues in infants, and functional restrictions across various systems in children and adolescents. Additionally, I cover the general applications of classical osteopathy for adults.
 
+My practice specializes in osteopathic treatment for infants, children, and adolescents. Adults with physical complaints such as functional limitations, chronic or acute pain are also warmly welcome.
 
-For further information, visit **[VFO e.V.](https://www.vfo.de/was-ist-osteopathie "What is Osteopathy")**  
+After a thorough case history and examination, I will provide suitable treatment recommendations for you or your child and develop an individualized therapy plan for you and your family to alleviate or counteract symptoms and discomfort. I actively advocate for the principle of patient self-efficacy in each individual’s health, and I am happy to inform you about potential causes of illness, symptom development, and the functioning of the human body.
 
-The holistic treatment concept of osteopathy comprises three areas that together flow into an osteopathic treatment:  
-<br>
-<br>
- 
-## *The Three Pillars of Osteopathy*  
-<br>
-<br>
+On my website, you will find more information about the practice of osteopathy, the treatment process, costs, and appointment scheduling.
 
-### Parietal Osteopathy  
-  
-> Functional diagnosis and treatment of the musculoskeletal system are at the forefront. Key elements include joints, tendons, ligaments, as well as muscles and fascia.
-
-<br>
-
-
-### Visceral Osteopathy  
-  
->The examination and treatment focus on our internal organs and their surrounding structures, nerves, and the vessels leading to and from them, such as the lymphatic and blood vessel systems.
-
-<br>
-
-
-### Cranial Osteopathy  
-  
-> Cranial osteopathic treatment focuses on the fine alignment and function of the cranial bones on one hand and the sacrum on the other.  
-The skull and sacrum are connected through the membranes of the brain and spinal cord as well as the cerebrospinal fluid, and are considered a functional unit. <br>
-<br>
-<br>
-<br>
-
-## *Pediatric Osteopathy* 
-<br>
-
-
-Pediatric osteopathy is a specialization within osteopathy. Knowledge of the normal sensory, emotional, and neurological development of the child plays an important role. Common indications for osteopathic treatment include:
-
-* Pregnancy and birth complications
-* Growth disorders and developmental delays
-* Digestive complaints (colic) and urogenital complaints (incontinence) 
-* Cranial asymmetries and jaw misalignments
-* Sleep disorders and sucking difficulties
-
+Yours sincerely,
+Maren Kammhoff (M.Sc. Osteopathy, HP)
