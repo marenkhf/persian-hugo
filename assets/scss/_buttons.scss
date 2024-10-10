@@ -75,3 +75,33 @@
     }
   }
 }
+
+.btn-pink {
+  background: #FFC0CB; /* Helles Rosa */
+  color: white;
+  border-color: #FFC0CB;
+
+  &:active,
+  &:hover,
+  &.focus,
+  &.active {
+    background: #FF99B0 !important; /* Dunkleres Rosa bei Hover */
+    border-color: #FF99B0 !important;
+  }
+}
+$pink-color: #FFC0CB;
+$pink-hover: #FF99B0;
+
+.btn-pink {
+  background: $pink-color;
+  color: $white;
+  border-color: $pink-color;
+
+  &:active,
+  &:hover,
+  &.focus,
+  &.active {
+    background: $pink-hover !important;
+    border-color: $pink-hover !important;
+  }
+}
