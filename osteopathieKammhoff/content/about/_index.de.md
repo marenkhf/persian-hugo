@@ -46,3 +46,5 @@ Osteopathische Philosophie und Modelle
 
 #### Gesprochene Sprachen <br>
 Deutsch, Englisch, Spanisch und Französisch 
+
+<img src="/vfo-logo-blau_gross.jpeg" alt="Mein Logo" width="200" height="100">
