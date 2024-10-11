@@ -1,7 +1,7 @@
 ---
 title: "Maren Kammhoff"
 image: "images/profile.jpg"
-description: "Entdecken Sie ganzheitliche osteopathische Betreuung in unserer Berliner Praxis. Wir sind spezialisiert auf chronische Schmerzen, akute Verletzungen und allgemeines Wohlbefinden. Besuchen Sie uns für individuell angepasste Behandlungen in einer einladenden Umgebung."
+description: "Herzlich Willkommen in Ihrer Osteopathie-Praxis für die gesamte Familie!"
 gallery: 
     - images/Uebermich1-min.jpg
     - images/Uebermich3-min.jpg
@@ -46,5 +46,3 @@ Osteopathische Philosophie und Modelle
 
 #### Gesprochene Sprachen <br>
 Deutsch, Englisch, Spanisch und Französisch 
-
-<img src="/vfo-logo-blau_gross.jpeg" alt="Mein Logo" width="200" height="100">
