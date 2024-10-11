@@ -45,7 +45,7 @@ Aspectos psicológicos de la osteopatía<br>
 Enfoques fasciales <br>
 Filosofía y modelos osteopáticosy <br>
 
-#### Idiomas hablados <br>
+#### Idiomas <br>
 Alemán, inglés, español y francés
 <br>
 <br>
