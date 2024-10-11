@@ -47,3 +47,7 @@ Filosofía y modelos osteopáticosy <br>
 
 #### Idiomas hablados <br>
 Alemán, inglés, español y francés
+<br>
+<br>
+
+<img src="/images/vfo-logo-blau_gross.jpg" alt="mi logotipo" width="150" height="auto">

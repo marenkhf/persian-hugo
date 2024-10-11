@@ -46,3 +46,7 @@ Osteopathic Philosophy and Models <br>
 
 #### Languages <br>
 German, English, Spanish, and French  
+<br>
+<br>
+
+<img src="/images/vfo-logo-blau_gross.jpg" alt="My Logo" width="150" height="auto">

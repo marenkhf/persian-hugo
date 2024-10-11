@@ -46,3 +46,7 @@ Philosophie et modèles ostéopathiques <br>
 
 #### Langues parlées <br>
 Allemand, anglais, espagnol et français
+<br>
+<br>
+
+<img src="/images/vfo-logo-blau_gross.jpg" alt="mon logo" width="150" height="auto">
