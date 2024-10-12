@@ -1,7 +1,7 @@
 ---
 title: "Maren Kammhoff"
 image: "images/profile.jpg"
-description: "A warm welcome to your osteopathy practice for the whole family."
+description: "My journey in osteopathy"
 gallery: 
     - images/Uebermich1-min.jpg
     - images/Uebermich3-min.jpg

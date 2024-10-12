@@ -1,7 +1,7 @@
 ---
 title: "Maren Kammhoff"
 image: "images/profile.jpg"
-description: "Herzlich Willkommen in Ihrer Osteopathie-Praxis für die gesamte Familie!"
+description: "Mein Werdegang in der Osteopathie"
 gallery: 
     - images/Uebermich1-min.jpg
     - images/Uebermich3-min.jpg

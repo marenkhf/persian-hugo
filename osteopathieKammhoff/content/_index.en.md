@@ -1,7 +1,7 @@
 ---
 title: "Osteopathy"
 image: "images/title.jpg"
-description: "Welcome to your osteopathy practice for the entire family."
+description: "A warm welcome to your osteopathy practice for the entire family! Specializing in infants, children, and women before and after childbirth."
 gallery:
     - images/Osteopathie1-min.jpg
     - images/Osteopathie2-min.jpg

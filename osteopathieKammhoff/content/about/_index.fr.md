@@ -1,7 +1,7 @@
 ---
 title: "Maren Kammhoff"
 image: "images/profile.jpg"
-description: "Bienvenue dans votre cabinet d'ostéopathie pour toute la famille."
+description: "Mon parcours en ostéopathie"
 gallery: 
     - images/Uebermich1-min.jpg
     - images/Uebermich3-min.jpg

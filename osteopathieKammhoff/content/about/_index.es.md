@@ -1,7 +1,7 @@
 ---
 title: "Maren Kammhoff"
 image: "images/profile.jpg"
-description: "Bienvenido a su consulta de osteopatía para toda la familia."
+description: "Mi trayectoria en la osteopatía"
 gallery: 
     - images/Uebermich1-min.jpg
     - images/Uebermich3-min.jpg
