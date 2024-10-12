@@ -23,7 +23,6 @@ gallery:
 * gynäkologische Probleme 
 * Beschwerden in der Schwangerschaft und nach der Entbindung  
 <br>
-<br>  
 
 ### Kosten Berlin - Mitte
 <br>
