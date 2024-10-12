@@ -1,78 +1,80 @@
 {{ "<!-- navigation -->" | safeHTML }}
 <header class="py-4">
   <div class="container-fluid">
-    <!-- Flexbox-Container für Logo und Titel -->
-    <div style="display: flex; flex-direction: column; align-items: flex-start; text-align: left;">
-      <!-- Logo über dem Seitentitel -->
-      <div style="margin-bottom: 5px;">
-        <img
-          src="/images/smoothed_logo.svg"
-          alt="{{ if eq .Site.Language.Lang "de" }}Persönliches Logo{{ else if eq .Site.Language.Lang "en" }}Personal Logo{{ else if eq .Site.Language.Lang "fr" }}Logo Personnel{{ else if eq .Site.Language.Lang "es" }}Logo Personal{{ else }}Logo{{ end }}"
-          style="height: 50px;"
-        />
-      </div>
-      <!-- Seitentitel links unter dem Logo -->
-      <a class="navbar-brand" href="{{ .Site.BaseURL | relLangURL }}" style="margin-top: 5px;">
-        {{ .Site.Title }} | {{ .Site.Language.LanguageName }}
-      </a>
+    
+    <!-- Logo zentriert über dem Titel -->
+    <div style="text-align: left; margin-bottom: 10px;">
+      <img
+        src="/images/smoothed_logo.svg"
+        alt="{{ if eq .Site.Language.Lang "de" }}Persönliches Logo{{ else if eq .Site.Language.Lang "en" }}Personal Logo{{ else if eq .Site.Language.Lang "fr" }}Logo Personnel{{ else if eq .Site.Language.Lang "es" }}Logo Personal{{ else }}Logo{{ end }}"
+        style="height: 50px;"
+      />
     </div>
 
-    <!-- Navbar -->
-    <nav class="navbar navbar-expand-lg navbar-light mt-3">
-      <button
-        class="navbar-toggler border-0"
-        type="button"
-        data-toggle="collapse"
-        data-target="#navigation"
-      >
-        <i class="ti-menu"></i>
-      </button>
+    <!-- Flexbox-Container für Titel und Navigation in einer Zeile -->
+    <div style="display: flex; align-items: center; justify-content: space-between;">
+      <!-- Seitentitel -->
+      <a class="navbar-brand" href="{{ .Site.BaseURL | relLangURL }}" style="margin-right: 20px;">
+        {{ .Site.Title }} | {{ .Site.Language.LanguageName }}
+      </a>
 
-      <div class="collapse navbar-collapse text-center" id="navigation">
-        <ul class="navbar-nav ml-auto">
-          {{ range .Site.Menus.main }}
-            {{ if .HasChildren }}
-              <li class="nav-item dropdown">
-                <a
-                  class="nav-link"
-                  href="#"
-                  role="button"
-                  data-toggle="dropdown"
-                  aria-haspopup="true"
-                  aria-expanded="false"
-                >
-                  {{ .Name }} <i class="ti-angle-down ml-1"></i>
-                </a>
-                <div class="dropdown-menu">
-                  {{ range .Children }}
-                    <a class="dropdown-item" href="{{ .URL | absLangURL }}">{{ .Name }}</a>
+      <!-- Navigation in derselben Zeile wie der Titel -->
+      <nav class="navbar navbar-expand-lg navbar-light">
+        <button
+          class="navbar-toggler border-0"
+          type="button"
+          data-toggle="collapse"
+          data-target="#navigation"
+        >
+          <i class="ti-menu"></i>
+        </button>
+
+        <div class="collapse navbar-collapse" id="navigation">
+          <ul class="navbar-nav ml-auto">
+            {{ range .Site.Menus.main }}
+              {{ if .HasChildren }}
+                <li class="nav-item dropdown">
+                  <a
+                    class="nav-link"
+                    href="#"
+                    role="button"
+                    data-toggle="dropdown"
+                    aria-haspopup="true"
+                    aria-expanded="false"
+                  >
+                    {{ .Name }} <i class="ti-angle-down ml-1"></i>
+                  </a>
+                  <div class="dropdown-menu">
+                    {{ range .Children }}
+                      <a class="dropdown-item" href="{{ .URL | absLangURL }}">{{ .Name }}</a>
+                    {{ end }}
+                  </div>
+                </li>
+              {{ else }}
+                <li class="nav-item">
+                  <a class="nav-link" href="{{ .URL | absLangURL }}">{{ .Name }}</a>
+                </li>
+              {{ end }}
+            {{ end }}
+
+            <!-- Sprachumschaltung, falls mehrsprachig -->
+            {{ if .Site.IsMultiLingual }}
+              {{ if eq . $.Site.Language }}
+                <li class="nav-item dropdown">
+                  <a href="#" class="active-language nav-link">{{ .LanguageName }}</a>
+                </li>
+              {{ else }}
+                <li class="nav-item dropdown">
+                  {{ range $.Translations }}
+                    <a href="{{ .Permalink }}" class="nav-link language">{{ .Language.LanguageName }}</a>
                   {{ end }}
-                </div>
-              </li>
-            {{ else }}
-              <li class="nav-item">
-                <a class="nav-link" href="{{ .URL | absLangURL }}">{{ .Name }}</a>
-              </li>
+                </li>
+              {{ end }}
             {{ end }}
-          {{ end }}
-
-          <!-- Sprachumschaltung, falls mehrsprachig -->
-          {{ if .Site.IsMultiLingual }}
-            {{ if eq . $.Site.Language }}
-              <li class="nav-item dropdown">
-                <a href="#" class="active-language nav-link">{{ .LanguageName }}</a>
-              </li>
-            {{ else }}
-              <li class="nav-item dropdown">
-                {{ range $.Translations }}
-                  <a href="{{ .Permalink }}" class="nav-link language">{{ .Language.LanguageName }}</a>
-                {{ end }}
-              </li>
-            {{ end }}
-          {{ end }}
-        </ul>
-      </div>
-    </nav>
+          </ul>
+        </div>
+      </nav>
+    </div>
   </div>
 </header>
 {{ "<!-- /navigation -->" | safeHTML }}
