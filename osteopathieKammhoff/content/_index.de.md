@@ -1,7 +1,7 @@
 ---
 title: "Osteopathie"
 image: "images/title.jpg"
-description: "Willkommen in Ihrer Osteopathie-Praxis für die gesamte Familie."
+description: "Willkommen in Ihrer Osteopathie-Praxis für die gesamte Familie. Spezialisiert auf Säuglinge, Kinder und Frauen vor und nach der Geburt."
 gallery:
     - images/Osteopathie1-min.jpg
     - images/Osteopathie2-min.jpg
