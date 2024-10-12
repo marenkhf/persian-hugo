@@ -1,8 +1,7 @@
 ---
 title: "Maren Kammhoff"
 image: "images/profile.jpg"
-description: "Descubra el cuidado osteopático holístico en nuestro consultorio de Berlín. Especializados en dolor crónico, lesiones agudas y bienestar general, ofrecemos tratamientos personalizados en un entorno acogedor. Visítenos para recibir servicios de osteopatía expertos adaptados a sus necesidades.
-"
+description: "Bienvenido a su consulta de osteopatía para toda la familia."
 gallery: 
     - images/Uebermich1-min.jpg
     - images/Uebermich3-min.jpg

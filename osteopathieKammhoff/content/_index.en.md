@@ -1,7 +1,7 @@
 ---
 title: "Osteopathy"
 image: "images/title.jpg"
-description: "Welcome to your osteopathy practice for the entire family. Specializing in infants, children, and pregnant women, as well as women after childbirth; adults of all ages are also warmly welcome."
+description: "Welcome to your osteopathy practice for the entire family."
 gallery:
     - images/Osteopathie1-min.jpg
     - images/Osteopathie2-min.jpg

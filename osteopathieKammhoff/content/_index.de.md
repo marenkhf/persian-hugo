@@ -1,7 +1,7 @@
 ---
 title: "Osteopathie"
 image: "images/title.jpg"
-description: "Willkommen in Ihrer Osteopathie-Praxis für die gesamte Familie. Spezialisiert auf Säuglinge, Kinder und Schwangere sowie Frauen nach der Geburt sind aber auch Erwachsene jeden Alters herzlich willkommen."
+description: "Willkommen in Ihrer Osteopathie-Praxis für die gesamte Familie."
 gallery:
     - images/Osteopathie1-min.jpg
     - images/Osteopathie2-min.jpg

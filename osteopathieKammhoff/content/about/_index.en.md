@@ -1,7 +1,7 @@
 ---
 title: "Maren Kammhoff"
 image: "images/profile.jpg"
-description: "Discover holistic osteopathic care at our Berlin practice. Specializing in chronic pain, acute injuries, and overall wellness, we offer personalized treatments in a welcoming environment. Visit us for expert osteopathy services tailored to your needs."
+description: "A warm welcome to your osteopathy practice for the whole family."
 gallery: 
     - images/Uebermich1-min.jpg
     - images/Uebermich3-min.jpg

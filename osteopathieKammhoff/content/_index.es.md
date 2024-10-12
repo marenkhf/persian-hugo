@@ -1,7 +1,7 @@
 ---
 title: "Osteopatía"
 image: "images/title.jpg"
-description: "Bienvenido a su consulta de osteopatía para toda la familia. Especializado en bebés, niños y mujeres embarazadas, así como en mujeres después del parto; los adultos de todas las edades también son bienvenidos."
+description: "Bienvenido a su consulta de osteopatía para toda la familia."
 gallery:
     - images/Osteopathie1-min.jpg
     - images/Osteopathie2-min.jpg

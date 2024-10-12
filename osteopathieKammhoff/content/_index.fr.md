@@ -1,7 +1,7 @@
 ---
 title: "Ostéopathie"
 image: "images/title.jpg"
-description: "Bienvenue dans votre cabinet d'ostéopathie pour toute la famille. Spécialisé dans les soins pour les nourrissons, les enfants et les femmes enceintes, ainsi que pour les femmes après l'accouchement ; les adultes de tous âges sont également les bienvenus."
+description: "Bienvenue dans votre cabinet d'ostéopathie pour toute la famille."
 gallery:
     - images/Osteopathie1-min.jpg
     - images/Osteopathie2-min.jpg

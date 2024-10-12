@@ -1,7 +1,7 @@
 ---
 title: "Maren Kammhoff"
 image: "images/profile.jpg"
-description: "Découvrez des soins ostéopathiques holistiques dans notre cabinet à Berlin. Spécialisés dans les douleurs chroniques, les blessures aiguës et le bien-être général, nous offrons des traitements personnalisés dans un environnement accueillant. Visitez-nous pour des services d'ostéopathie experts adaptés à vos besoins."
+description: "Bienvenue dans votre cabinet d'ostéopathie pour toute la famille."
 gallery: 
     - images/Uebermich1-min.jpg
     - images/Uebermich3-min.jpg
