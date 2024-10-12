@@ -24,7 +24,7 @@ gallery:
 * Beschwerden in der Schwangerschaft und nach der Entbindung  
 <br>
 
-### Kosten Berlin - Mitte
+### Kosten
 <br>
 
 #### Kinder <br>
