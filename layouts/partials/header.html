@@ -3,16 +3,14 @@
   <div class="container-fluid">
     <!-- navbar -->
     <nav class="navbar navbar-expand-lg navbar-light">
-      <a class="navbar-brand" href="{{ .Site.BaseURL | relLangURL }}">
-        {{ if .Site.Params.logo }}
+      <a class="navbar-brand" href="{{ .Site.BaseURL | relLangURL }}" style="display: block; text-align: left;">
+        {{ .Site.Title }} | {{ .Site.Language.LanguageName }}
         <img
-          class="img-fluid"
-          width="150px"
-          src="{{ .Site.Params.logo | absURL }}"
-          alt="{{ .Site.Title }}"
-        />
+          src="/images/smoothed_logo.svg"
+          style="height: 50px; display: block; margin-top: 5px;"
+          alt="{{ if eq .Site.Language.Lang "de" }}Persönliches Logo{{ else if eq .Site.Language.Lang "en" }}Personal Logo{{ else if eq .Site.Language.Lang "fr" }}Logo Personnel{{ else if eq .Site.Language.Lang "es" }}Logo Personal{{ else }}Logo{{ end }}"
 
-        {{ else }} {{.Site.Title}} | {{.Site.Language.LanguageName}} {{ end }}
+        />
       </a>
       <button
         class="navbar-toggler border-0"
@@ -65,13 +63,6 @@
         </ul>
       </div>
     </nav>
-    <div style="text-align: center; margin-top: 10px;">
-      <img
-        src="/images/smoothed_logo.svg"
-        style="height: 50px;"
-        alt="{{ if eq .Site.Language.Lang "de" }}Persönliches Logo{{ else if eq .Site.Language.Lang "en" }}Personal Logo{{ else if eq .Site.Language.Lang "fr" }}Logo Personnel{{ else if eq .Site.Language.Lang "es" }}Logo Personal{{ else }}Logo{{ end }}"
-      />
-    </div>
   </div>
 </header>
 {{ "<!-- /navigation -->" | safeHTML }}
