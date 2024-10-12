@@ -65,8 +65,12 @@
         </ul>
       </div>
     </nav>
-    <div style="text-align: center; margin-left: 10px;">
-      <img src="/images/smoothed_logo.svg" alt="Logo" style="height: 50px;">
+    <div style="text-align: center; margin-top: 10px;">
+      <img
+        src="/images/smoothed_logo.svg"
+        style="height: 50px;"
+        alt="{{ if eq .Site.Language.Lang "de" }}Persönliches Logo{{ else if eq .Site.Language.Lang "en" }}Personal Logo{{ else if eq .Site.Language.Lang "fr" }}Logo Personnel{{ else if eq .Site.Language.Lang "es" }}Logo Personal{{ else }}Logo{{ end }}"
+      />
     </div>
   </div>
 </header>
