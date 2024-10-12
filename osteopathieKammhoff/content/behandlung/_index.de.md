@@ -36,27 +36,13 @@ Dauer Erstbehandlung und Folgebehandlung: 45 min
 <br>
 <br>
 
-### Kosten Frohnau
 
-<br>
-
-#### Erwachsene<br>
-Behandlung: 90 Euro<br>
-Dauer Erstbehandlung: 55 min<br>
-Dauer Folgebehandlung: 45min<br>
-
-#### Kinder<br>
-Behandlung: 70 Euro<br>
-Dauer Erst- und Folgebehandlung: 45 min<br>
-<br>
-
-
-Im Vordergrund der Erstbehandlung steht das ausführliche Gespräch und eine umfangreiche Untersuchung, um eine spezifische osteopathische Diagnose stellen zu können. Daraufhin erfolgt eine individuelle Behandlung.  
+Im Vordergrund der Erstbehandlung steht das ausführliche Gespräch und eine umfangreiche Untersuchung, um eine osteopathische Diagnose stellen zu können. Daraufhin erfolgt eine individuelle Behandlung.  
 Die Folgebehandlung besteht aus einer osteopathischen Untersuchung und Behandlung.  
 
 <br>
 
-Es wird direkt per VISA oder MasterCard oder auf Rechnung gezahlt.
+Es wird direkt per VISA oder MasterCard oder auf Rechnung gezahlt. Barzahlung ist leider nicht möglich.
 Behandlungstermine müssen 24 h vor dem Termin abgesagt werden, ansonsten werden die vollen Behandlungskosten in Rechnung gestellt.
 <br>
 
@@ -65,7 +51,7 @@ Ausnahme sind infektiöse Erkrankungen. Bei Symptomen der oberen Atemwege sowie 
 <br>
 
 ### Kostenübernahme  
-Die gesetzlichen Krankenkassen übernehmen einen Teil der Behandlungskosten. **[Hier](https://www.krankenkassen.de/gesetzliche-krankenkassen/leistungen-gesetzliche-krankenkassen/alternative-heilmethoden/osteopathie)** finden Sie eine Liste mit Krankenkassen, die osteopathische Behandlungen unterstützen. Die Überweisung seitens der Arztpraxis muss am Tag der ersten Behandlung mitgebracht werden. 
+Die gesetzlichen Krankenkassen übernehmen meistens einen Teil der Behandlungskosten, wenn die Osteopathin die Voraussetzungen der Ausbildung erfüllt. Durch mein Vollzeitstudium in Osteopathie ist dies der Fall. Ausnahmen sind jedoch die *AOK Baden-Württemberg* und die *LKK*. Auch die *Barmer* bezuschusst Osteopathie nur im Rahmen des Familie-Plus-Pakets und des Bonusprogrammes  **[Hier](https://www.krankenkassen.de/gesetzliche-krankenkassen/leistungen-gesetzliche-krankenkassen/alternative-heilmethoden/osteopathie)** finden Sie eine Liste mit Krankenkassen, die osteopathische Behandlungen unterstützen. Die Verordnung (Privatrezept) von Ihrer betreuenden Arztpraxis muss am Tag der ersten Behandlung mitgebracht werden. 
 
 Private Krankenversicherungen übernehmen oft Kosten für eine osteopathische Behandlung im Rahmen einer Pauschale für Heilpraktiker. Die Abrechnung erfolgt in diesem Fall über das Gebührenverzeichnis für Heilpraktiker.
   
