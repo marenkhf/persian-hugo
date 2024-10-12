@@ -33,7 +33,7 @@ Dauer: 45 min
 <br>
 
 #### Erwachsene <br>
-Behandlungskosten: 100 Euro
+Behandlungskosten: 100 Euro <br>
 Dauer: 45 min
 <br>
 
