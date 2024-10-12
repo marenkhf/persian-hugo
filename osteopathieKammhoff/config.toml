@@ -211,10 +211,6 @@ contact_info = "Kontakt: +491779244251 | maren@osteopathiekammhoff.de"
 address = "Adresse: Derzeit im Umzug"
 # hours
 hours = "Öffnungszeiten: Montag bis Freitag 09:00-13:00 und von 14:00-16:00"
-# logo 
-logo = "/images/smoothed_logo.svg"
-logo_alt = { de = "Persönliches Logo", en = "Personal Logo", fr = "Logo Personnel", es = "Logo Personal" }
-
 
 # Preloader
 [params.preloader]
