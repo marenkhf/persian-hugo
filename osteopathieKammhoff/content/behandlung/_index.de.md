@@ -7,21 +7,17 @@ gallery:
     - images/Behandlung2-min.jpg
 ---  
 
-
-### Behandlung von  
+### Ablauf
 <br>
 
-* chronischen Schmerzen
-* akuten Verletzungen
-* Verspannungen und Blockaden
-* Kiefergelenksdysfunktionen (CMD)
-* Kopfschmerzen/Migräne
-* Tinnitus
-* Bauchschmerzen und Verdauungsproblemen
-* Müdigkeit/Abgeschlagenheit
-* Innerer Unruhe
-* gynäkologische Probleme 
-* Beschwerden in der Schwangerschaft und nach der Entbindung  
+Im Vordergrund der Erstbehandlung steht das ausführliche Gespräch und eine umfangreiche Untersuchung, um eine osteopathische Diagnose stellen zu können. Daraufhin erfolgt eine individuelle Behandlung.  
+Die Folgebehandlung besteht aus einer osteopathischen Untersuchung und Behandlung.  
+
+Es wird direkt per VISA oder MasterCard oder auf Rechnung gezahlt. Barzahlung ist leider nicht möglich.
+Behandlungstermine müssen 24 h vor dem Termin abgesagt werden, ansonsten werden die vollen Behandlungskosten in Rechnung gestellt.
+
+Ausnahme sind infektiöse Erkrankungen. Bei Symptomen der oberen Atemwege sowie Fieber oder Gliederschmerzen wird in Rücksicht auf Ansteckungsgefahr gebeten, den Behandlungstermin nicht wahrzunehmen.
+<br>
 <br>
 
 ### Kosten
@@ -36,17 +32,6 @@ Dauer: 45 min
 Behandlungskosten: 100 Euro<br>
 Dauer: 45 min
 <br>
-
-### Ablauf
-<br>
-
-Im Vordergrund der Erstbehandlung steht das ausführliche Gespräch und eine umfangreiche Untersuchung, um eine osteopathische Diagnose stellen zu können. Daraufhin erfolgt eine individuelle Behandlung.  
-Die Folgebehandlung besteht aus einer osteopathischen Untersuchung und Behandlung.  
-
-Es wird direkt per VISA oder MasterCard oder auf Rechnung gezahlt. Barzahlung ist leider nicht möglich.
-Behandlungstermine müssen 24 h vor dem Termin abgesagt werden, ansonsten werden die vollen Behandlungskosten in Rechnung gestellt.
-
-Ausnahme sind infektiöse Erkrankungen. Bei Symptomen der oberen Atemwege sowie Fieber oder Gliederschmerzen wird in Rücksicht auf Ansteckungsgefahr gebeten, den Behandlungstermin nicht wahrzunehmen.
 <br>
 
 ### Kostenübernahme  
