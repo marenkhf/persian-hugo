@@ -1,5 +1,5 @@
 ---
-title: "Osteopathie für Kinder und Familien – Praxis Maren Kammhoff"
+title: "Osteopathie Maren Kammhoff - Praxis für Säuglinge und Kinder"
 image: "images/title.jpg"
 description: "Willkommen in Ihrer Osteopathie-Praxis für die gesamte Familie. Spezialisiert auf Säuglinge, Kinder und Frauen vor und nach der Geburt."
 gallery:

@@ -1,5 +1,5 @@
 ---
-title: "Ostéopathie pour enfants et familles – Cabinet Maren Kammhoff"
+title: "Ostéopathie Maren Kammhoff – Cabinet pour nourrissons et enfants"
 image: "images/title.jpg"
 description: "Bienvenue dans votre cabinet d'ostéopathie pour toute la famille. Spécialisé dans les soins aux nourrissons, aux enfants et aux femmes avant et après l'accouchement."
 gallery:
