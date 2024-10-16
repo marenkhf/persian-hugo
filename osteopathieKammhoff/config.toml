@@ -82,7 +82,7 @@ weight = 6
 
 [[languages.en.menus.main]]
 name = "Osteopathy"
-url = ""
+url = "osteopathie"
 weight = 1  
 
 [[languages.en.menus.main]]
@@ -123,7 +123,7 @@ weight = 6
 
 [[languages.fr.menus.main]]
 name = "Ostéopathie"
-url = ""
+url = "osteopathie"
 weight = 1  
 
 [[languages.fr.menus.main]]
@@ -164,7 +164,7 @@ weight = 6
 
 [[languages.es.menus.main]]
 name = "Osteopatía"
-url = ""
+url = "osteopathie"
 weight = 1  
 
 [[languages.es.menus.main]]
