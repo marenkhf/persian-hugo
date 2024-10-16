@@ -40,6 +40,14 @@ AUTHOR WEBSITE: https://themefisher.com
     }
   </script> 
 
+  <!-- Preload Google Font -->
+  <link rel="preload" href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" as="style" onload="this.onload=null;this.rel='stylesheet'">
+  <noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap"></noscript>
+
+  <!-- Beispiel für andere Preload-Links -->
+  <link rel="preload" href="script.js" as="script">
+  <link rel="preload" href="image.jpg" as="image">
+
   <!-- Dynamische Meta-Beschreibung -->
   <meta name="description" content="{{ with .Params.description }}{{ . }}{{ else }}{{ .Site.Params.description }}{{ end }}">
 
