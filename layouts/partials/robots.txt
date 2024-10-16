@@ -1,0 +1,12 @@
+# robots.txt für Osteopathie Maren Kammhoff
+
+# Allgemeine Anweisungen für alle Suchmaschinen
+User-agent: *
+Disallow: /admin/
+Disallow: /private/
+Disallow: /tmp/
+Disallow: /test/
+Allow: /public/
+
+# Sitemap
+Sitemap: https://www.osteopathiekammhoff.de/sitemap.xml
