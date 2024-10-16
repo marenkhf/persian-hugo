@@ -9,12 +9,15 @@ AUTHOR WEBSITE: https://themefisher.com
 
 
 <head>
+
   <meta charset="utf-8">
-  <title>{{ .Title }}</title>
+  <title>{{ if .IsHome }}{{ .Site.Title }} - Praxis für Osteopathie{{ else }}{{ .Title }} | {{ .Site.Title }}{{ end }}</title>
   <link rel="icon" type="image/svg+xml" href="/images/smoothed_logo.svg">
   <link rel="shortcut icon" href="/images/favicon.png" type="image/x-icon">
   <link rel="icon" href="/images/favicon.png" type="image/x-icon">
 
+  <!-- Dynamische Meta-Beschreibung -->
+  <meta name="description" content="{{ with .Params.description }}{{ . }}{{ else }}{{ .Site.Params.description }}{{ end }}">
 
   {{ "<!-- mobile responsive meta -->" | safeHTML }}
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">

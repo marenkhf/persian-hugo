@@ -1,5 +1,5 @@
 ---
-title: "Osteopatía"
+title: "Osteopatía para niños y familias – Consulta Maren Kammhoff"
 image: "images/title.jpg"
 description: "Bienvenido a su consulta de osteopatía para toda la familia. Especializado en bebés, niños y mujeres antes y después del parto."
 gallery:

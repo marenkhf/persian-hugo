@@ -1,5 +1,5 @@
 ---
-title: "Osteopathy"
+title: "Osteopathy for children and families – Maren Kammhoff Practice"
 image: "images/title.jpg"
 description: "A warm welcome to your osteopathy practice for the entire family! Specializing in infants, children, and women before and after childbirth."
 gallery:
