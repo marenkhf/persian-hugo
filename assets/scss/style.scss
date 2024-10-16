@@ -21,23 +21,30 @@ AUTHOR WEBSITE: https://themefisher.com
 
 /* Mobile Styles für die Navigation */
 @media only screen and (max-width: 767px) {
-  .navbar-brand {
-    font-size: medium;
-    white-space: nowrap;
+  .navbar-collapse {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    background-color: white; /* Hintergrundfarbe der Navigation */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    z-index: 1000;
   }
 
-  .navbar-collapse {
-    width: 100% !important;
-  }
-  
   .navbar-nav {
-    width: 100% !important;
-    text-align: center !important;
+    width: 100%;
+    text-align: center;
   }
-  
+
   .navbar-toggler {
-    margin-left: auto !important;
-    margin-right: auto !important;
+    position: fixed;
+    top: 10px;
+    right: 10px;
+    z-index: 1001;
   }
 }
 
