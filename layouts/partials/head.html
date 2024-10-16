@@ -13,7 +13,7 @@ AUTHOR WEBSITE: https://themefisher.com
   <title>{{ if .IsHome }}{{ .Site.Title }} - Praxis für Säuglinge und Kinder{{ else }}{{ .Title }} | {{ .Site.Title }}{{ end }}</title>
   <link rel="icon" type="image/svg+xml" href="/images/smoothed_logo.svg">
   <link rel="shortcut icon" href="/images/favicon.png" type="image/x-icon">
-  <link rel="icon" href="/images/favicon.png" type="image/x-icon">
+  
   <link rel="canonical" href="{{ .Permalink }}">
 
   <!-- Schema.org JSON-LD -->
@@ -44,9 +44,9 @@ AUTHOR WEBSITE: https://themefisher.com
   <link rel="preload" href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" as="style" onload="this.onload=null;this.rel='stylesheet'">
   <noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap"></noscript>
 
-  <!-- Beispiel für andere Preload-Links -->
-  <link rel="preload" href="script.js" as="script">
-  <link rel="preload" href="image.jpg" as="image">
+  <!-- Preload other resources (update paths if needed) -->
+  <link rel="preload" href="/js/script.js" as="script">
+  <link rel="preload" href="/images/image.jpg" as="image">
 
   <!-- Dynamische Meta-Beschreibung -->
   <meta name="description" content="{{ with .Params.description }}{{ . }}{{ else }}{{ .Site.Params.description }}{{ end }}">
@@ -64,10 +64,6 @@ AUTHOR WEBSITE: https://themefisher.com
   {{ "<!-- Main Stylesheet -->" | safeHTML }}
   {{ $styles := resources.Get "scss/style.scss" | toCSS }}
   <link rel="stylesheet" href="{{ $styles.Permalink }}" media="screen">
-
-  {{ "<!--Favicon-->" | safeHTML }}
-  <link rel="shortcut icon" href="{{ `images/favicon.png` | absURL }}" type="image/x-icon">
-  <link rel="icon" href="{{ `images/favicon.png` | absURL }}" type="image/x-icon">
 
   {{ with .Params.Image }}
   <meta property="og:image" content="{{ . | absURL }}" />
