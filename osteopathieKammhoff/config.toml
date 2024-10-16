@@ -41,7 +41,7 @@ link = "plugins/bootstrap/bootstrap.min.js"
 [languages.de.menus]
 [[languages.de.menus.main]]
 name = "Osteopathie"
-url = "/"
+url = "osteopathie"
 weight = 1  
 
 [[languages.de.menus.main]]

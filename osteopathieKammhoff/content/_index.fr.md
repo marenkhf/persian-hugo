@@ -1,7 +1,7 @@
 ---
 title: "Ostéopathie"
 image: "images/title.jpg"
-description: "Bienvenido a su consulta de osteopatía para toda la familia. Especializado en bebés, niños y mujeres antes y después del parto."
+description: "Bienvenue dans votre cabinet d'ostéopathie pour toute la famille. Spécialisé dans les soins aux nourrissons, aux enfants et aux femmes avant et après l'accouchement."
 gallery:
     - images/Osteopathie1-min.jpg
     - images/Osteopathie2-min.jpg
