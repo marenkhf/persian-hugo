@@ -17,6 +17,30 @@ AUTHOR WEBSITE: https://themefisher.com
   <link rel="icon" href="/images/favicon.png" type="image/x-icon">
   <link rel="canonical" href="{{ .Permalink }}">
 
+<!-- Schema.org JSON-LD -->
+  <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "Osteopathie Maren Kammhoff",
+      "image": "https://www.osteopathiekammhoff.de/images/title.jpg",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Schumannstraße 17",
+        "addressLocality": "Berlin",
+        "postalCode": "10117",
+        "addressCountry": "DE"
+      },
+      "telephone": "+491779244251",
+      "url": "https://www.osteopathiekammhoff.de",
+      "openingHours": [
+        "Mo-Fr 09:00-13:00",
+        "Mo-Fr 14:00-16:00"
+        ]
+      "description": "Ihre Osteopathie-Praxis für Säuglinge, Kinder und Erwachsene."
+    }
+    </script> 
+
   <!-- Dynamische Meta-Beschreibung -->
   <meta name="description" content="{{ with .Params.description }}{{ . }}{{ else }}{{ .Site.Params.description }}{{ end }}">
 
