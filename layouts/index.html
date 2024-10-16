@@ -4,7 +4,11 @@
   <div class="container">
     <div class="row">
       <div class="col-lg-12 mx-auto text-center">
-        <img src="{{.Params.image|absURL}}" class="img-fluid w-100" alt="{{.Params.title}}">
+        <!-- H1-Titel für die Seite -->
+        <h1 class="text-center">{{ .Title }}</h1>
+        
+        <!-- Bild der Seite -->
+        <img src="{{ .Params.image | absURL }}" class="img-fluid w-100" alt="{{ .Title }}">
       </div>
     </div>
   </div>
@@ -13,22 +17,22 @@
 <section class="section">
   <div class="container">
     <div class="col-lg-8 mx-auto">
-      <div class="content">{{.Content}}</div>
+      <div class="content">{{ .Content }}</div>
     </div>
   </div>
 </section>
 
-{{with .Params.gallery}}
+{{ with .Params.gallery }}
 <hr>
 <section class="section">
   <div class="container">
-    {{ range $i,$e := . }}
-    {{ if $i }}
-    <br>
-    {{ end }}
-    <div class="col-lg-6 mx-auto text-center">
-      <img src="{{$e|absURL}}" class="img-fluid w-100" alt="Gallery Image">
-    </div>
+    {{ range $i, $e := . }}
+      {{ if $i }}
+      <br>
+      {{ end }}
+      <div class="col-lg-6 mx-auto text-center">
+        <img src="{{ $e | absURL }}" class="img-fluid w-100" alt="Gallery Image">
+      </div>
     {{ end }}
   </div>
 </section>
