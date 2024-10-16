@@ -26,12 +26,26 @@ AUTHOR WEBSITE: https://themefisher.com
 
 @import 'templates/main.scss';
 
-@media only screen and (max-width: 600px) {
-    .navbar-brand {
-        font-size: medium;
-        white-space: nowrap;
-    }
+@media only screen and (max-width: 767px) {
+  .navbar-brand {
+    font-size: medium;
+    white-space: nowrap;
   }
+
+  .navbar-collapse {
+    width: 100%;
+  }
+  
+  .navbar-nav {
+    width: 100%;
+    text-align: center;
+  }
+  
+  .navbar-toggler {
+    margin-left: auto;
+    margin-right: auto;
+  }
+}
 
   .video-container {
     position: relative;
