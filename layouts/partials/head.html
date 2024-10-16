@@ -7,7 +7,6 @@ AUTHOR WEBSITE: https://themefisher.com
 
 -->
 
-
 <head>
 
   <meta charset="utf-8">
@@ -16,7 +15,6 @@ AUTHOR WEBSITE: https://themefisher.com
   <link rel="shortcut icon" href="/images/favicon.png" type="image/x-icon">
   <link rel="icon" href="/images/favicon.png" type="image/x-icon">
   <link rel="canonical" href="{{ .Permalink }}">
-
 
   <!-- Schema.org JSON-LD -->
   <script type="application/ld+json">
@@ -40,14 +38,13 @@ AUTHOR WEBSITE: https://themefisher.com
       ],
       "description": "Ihre Osteopathie-Praxis für Säuglinge, Kinder und Erwachsene."
     }
-  </script>  
+  </script> 
 
   <!-- Dynamische Meta-Beschreibung -->
   <meta name="description" content="{{ with .Params.description }}{{ . }}{{ else }}{{ .Site.Params.description }}{{ end }}">
 
   {{ "<!-- mobile responsive meta -->" | safeHTML }}
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
-  <meta name="description" content="{{ with .Params.Description }}{{ . }}{{ else }}{{ with .Site.Params.description }}{{ . }}{{ end }}{{ end }}">
   {{ with .Site.Params.author }}<meta name="author" content="{{ . }}">{{ end }}
   {{ hugo.Generator }}
 
