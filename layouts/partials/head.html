@@ -17,7 +17,8 @@ AUTHOR WEBSITE: https://themefisher.com
   <link rel="icon" href="/images/favicon.png" type="image/x-icon">
   <link rel="canonical" href="{{ .Permalink }}">
 
-<!-- Schema.org JSON-LD -->
+
+  <!-- Schema.org JSON-LD -->
   <script type="application/ld+json">
     {
       "@context": "https://schema.org",
@@ -36,10 +37,10 @@ AUTHOR WEBSITE: https://themefisher.com
       "openingHours": [
         "Mo-Fr 09:00-13:00",
         "Mo-Fr 14:00-16:00"
-        ]
+      ],
       "description": "Ihre Osteopathie-Praxis für Säuglinge, Kinder und Erwachsene."
     }
-    </script> 
+  </script>  
 
   <!-- Dynamische Meta-Beschreibung -->
   <meta name="description" content="{{ with .Params.description }}{{ . }}{{ else }}{{ .Site.Params.description }}{{ end }}">
