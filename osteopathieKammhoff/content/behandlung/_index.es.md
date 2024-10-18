@@ -24,8 +24,8 @@ Excepción: enfermedades infecciosas. Si presenta síntomas de las vías respira
 <br>
 
 #### Niños <br>
-Costo del tratamiento: 85 euros
-Duración: 45 min
+Costo del tratamiento: 85 euros<br>
+Duración: 45 min<br>
 <br>
 
 #### Adultos <br>
