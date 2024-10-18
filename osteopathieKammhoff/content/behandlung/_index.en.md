@@ -25,12 +25,12 @@ Exceptions are infectious diseases. If you have symptoms of upper respiratory in
 
 #### Children
 Treatment cost: 85 Euros <b>
-Duration: 45 minutes
+Duration: 45 minutes<br>
 <br>
 
 #### Adults <br>
 Treatment cost: 100 Euros<br>
-Duration: 45 minutes
+Duration: 45 minutes<br>
 <br>
 <br>
 
