@@ -32,7 +32,6 @@ Duration: 45 minutes<br>
 Treatment cost: 100 Euros<br>
 Duration: 45 minutes<br>
 <br>
-<br>
 
 ### Insurance Coverage
 <br>
