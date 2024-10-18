@@ -32,7 +32,6 @@ Durée : 45 min
 Coût du traitement : 100 euros <br>
 Durée : 45 min <br>
 <br>
-<br>
 
 ### Prise en charge des côuts
 <br>
