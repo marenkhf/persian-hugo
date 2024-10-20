@@ -1,21 +1,22 @@
 {{ define "main" }}
 
+{{ define "main" }}
+
 <section class="section-sm">
   <div class="container">
     <div class="row">
       <div class="col-lg-8 mx-auto text-center">
-          <h1 class="text-center">{{.Title|markdownify}}</h1>
+        <h1 class="text-center">{{ .Title | markdownify }}</h1>
       </div>
     </div>
   </div>
 </section>
 
 <section class="section pt-0">
-  <section class="section pt-0">
-    <div class="container"> <!-- Gleiches Layout für den Inhalt -->
-      <div class="row">
-        <div class="col-lg-8 mx-auto"> <!-- gleiche Spaltenbreite -->
-          <div class="content">{{ .Content }}</div>
+  <div class="container"> <!-- Gleiches Layout für den Inhalt -->
+    <div class="row">
+      <div class="col-lg-8 mx-auto"> <!-- gleiche Spaltenbreite -->
+        <div class="content">{{ .Content }}</div>
       </div>
     </div>
   </div>
