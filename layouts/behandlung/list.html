@@ -4,44 +4,18 @@
   <div class="container">
     <div class="row">
       <div class="col-lg-8 mx-auto text-center">
-        <h1 class="text-center">{{ .Title | markdownify }}</h1>
+          <h1 class="text-center">{{.Title|markdownify}}</h1>
       </div>
     </div>
   </div>
 </section>
 
-<section class="section">
-  <div class="container">
-    <h2 class="text-center">Behandlungsindikationen</h2>
-    <div class="row">
-      <div class="col-lg-4 col-md-6">
-        <h3>Säuglinge</h3>
-        <ul>
-          <li>Stillprobleme</li>
-          <li>Schluckprobleme</li>
-          <li>Koliken</li>
-          <li>Persistierende Reflexe</li>
-          <li>Asymmetrien</li>
-          <li>Einseitige Kopfdrehung</li>
-          <li>Helmtherapie</li>
-          <li>Hüftdysplasie</li>
-        </ul>
-      </div>
-      <div class="col-lg-4 col-md-6">
-        <h3>Gruppierung 2</h3>
-        <ul>
-          <li>Unterpunkt 2.1: Beschreibung der Indikation oder Behandlung.</li>
-          <li>Unterpunkt 2.2: Beschreibung der Indikation oder Behandlung.</li>
-          <li>Unterpunkt 2.3: Beschreibung der Indikation oder Behandlung.</li>
-        </ul>
-      </div>
-      <div class="col-lg-4 col-md-6">
-        <h3>Gruppierung 3</h3>
-        <ul>
-          <li>Unterpunkt 3.1: Beschreibung der Indikation oder Behandlung.</li>
-          <li>Unterpunkt 3.2: Beschreibung der Indikation oder Behandlung.</li>
-          <li>Unterpunkt 3.3: Beschreibung der Indikation oder Behandlung.</li>
-        </ul>
+<section class="section pt-0">
+  <section class="section pt-0">
+    <div class="container"> <!-- Gleiches Layout für den Inhalt -->
+      <div class="row">
+        <div class="col-lg-8 mx-auto"> <!-- gleiche Spaltenbreite -->
+          <div class="content">{{ .Content }}</div>
       </div>
     </div>
   </div>
@@ -51,14 +25,14 @@
 <hr>
 <section class="section">
   <div class="container">
-    <h2 class="text-center">Galerie</h2>
-    <div class="row">
-      {{ range $i, $e := . }}
-        <div class="col-lg-6 mx-auto text-center">
-          <img src="{{ $e | absURL }}" class="img-fluid w-100" alt="Gallery Image">
-        </div>
-      {{ end }}
+    {{ range $i,$e := . }}
+    {{ if $i }}
+    <br>
+    {{ end }}
+    <div class="col-lg-6 mx-auto text-center">
+      <img src="{{ $e | absURL }}" class="img-fluid w-100" alt="Gallery Image">
     </div>
+    {{ end }}
   </div>
 </section>
 {{ end }}
