@@ -97,30 +97,42 @@ name = "Osteopathy"
 url = "osteopathie"
 weight = 1  
 
+[[languages.de.menus.main]]
+name = "Pediatric Osteopathy"
+url = "/osteopathie/kinderosteopathie"
+weight = 2
+parent = "Ostoepathy" 
+
+[[languages.de.menus.main]]
+name = "Osteopathie for Adults"
+url = "/osteopathie/osteopathie-fuer-erwachsene"
+weight = 3
+parent = "Osteopathy" 
+
 [[languages.en.menus.main]]
 name = "Treatment/Costs"
 url = "behandlung"
-weight = 2
+weight = 4
 
 [[languages.en.menus.main]]
 name = "About"
 url = "about"
-weight = 3
+weight = 5
 
 [[languages.en.menus.main]]
 name = "Praxis"
 url = "praxis"
-weight = 4
+weight = 6
 
 [[languages.en.menus.main]]
 name = "Contact"
 url = "kontakt"
-weight = 5
+weight = 7
 
 [[languages.en.menus.main]]
 name = "Imprint"
 url = "datenschutz"
-weight = 6
+weight = 8
 
 ################################ languages fr #############################
 
