@@ -6,6 +6,20 @@ gallery:
     - images/Uebermich2-min.jpg
     - images/Osteopathie2.jpg
 ---
+## Osteopathie 
+
+Osteopathie ist eine ganzheitliche Therapieform, die sich auf die manuelle Behandlung des Bewegungsapparates und der inneren Organe konzentriert. Sie basiert auf der Überzeugung, dass der Körper über eine natürliche Fähigkeit zur Selbstheilung verfügt. Die Therapie kann bei einer Vielzahl von Beschwerden eingesetzt werden, darunter Rückenschmerzen, CMD, Bandscheibenvorfällen, Kopf- und Nackenschmerzen, Verdauungsproblemen, Reizmagen/ -darm oder -blase, Schlafstörungen sowie zur Unterstützung der Rehabilitation nach Verletzungen. Osteopathie ist für Menschen jeden Alters geeignet und wird häufig ergänzend zur konventionellen Medizin angewendet.
+<br>
+<br>
+
+### Mögliche Indikationen für eine osteopathische Behandlung bei Schwangeren
+<br>
+
+* Übelkeit
+* Geburtsvorbereitung
+* Nachsorge
+* Entlastung
+* Kinderwunsch
 
 ## Kinderosteopathie
 <br>
