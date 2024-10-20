@@ -34,9 +34,9 @@
             {{ range .Site.Menus.main }}
               {{ if .HasChildren }}
                 <li class="nav-item dropdown">
-                  <a
+                  <a 
                     class="nav-link"
-                    href="#"
+                    href="{{ .URL | absLangURL }}"
                     role="button"
                     data-toggle="dropdown"
                     aria-haspopup="true"
