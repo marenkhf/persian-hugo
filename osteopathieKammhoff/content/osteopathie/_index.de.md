@@ -9,7 +9,7 @@ gallery:
 ## Was ist das?
 <br>
 
-Osteopathie ist eine ganzheitliche Therapieform, die sich auf die manuelle Behandlung des Bewegungsapparates und der inneren Organe konzentriert. Sie basiert auf der Überzeugung, dass der Körper über eine natürliche Fähigkeit zur Selbstheilung verfügt. Die Therapie kann bei einer Vielzahl von Beschwerden eingesetzt werden. Osteopathie ist für Menschen jeden Alters geeignet und wird häufig ergänzen zur konventionellen Medizin angewendet.
+Osteopathie ist eine ganzheitliche Therapieform, die sich auf die manuelle Behandlung des Bewegungsapparates und der inneren Organe konzentriert. Sie basiert auf der Überzeugung, dass der Körper über eine natürliche Fähigkeit zur Selbstheilung verfügt. Die Therapie kann bei einer Vielzahl von Beschwerden eingesetzt werden. Osteopathie ist für Menschen jeden Alters geeignet und wird häufig ergänzend zur konventionellen Medizin angewendet.
 <br>
 <br>
 
