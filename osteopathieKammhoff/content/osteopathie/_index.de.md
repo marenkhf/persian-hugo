@@ -46,4 +46,4 @@ bei Jugendlichen
 * Skoliose
 * Schmerzen wie zB. Kopf, Rücken, Muskeln, etc.
 
-(Die Liste stellt unvollständige, exemplarische Nennung von möglichen Besuchsgründen dar)
+(Die Liste stellt eine unvollständige, exemplarische Nennung von möglichen Besuchsgründen dar)
