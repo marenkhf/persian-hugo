@@ -80,5 +80,7 @@ bei Jugendlichen
 * Rezidivierende Harnwegsinfekte
 * Skoliose
 * Schmerzen wie zB. Kopf, Rücken, Muskeln, etc.
+<br>
+<br>
 
 (Die Liste stellt eine unvollständige, exemplarische Nennung von möglichen Besuchsgründen dar)
