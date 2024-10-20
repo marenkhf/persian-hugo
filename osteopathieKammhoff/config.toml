@@ -101,13 +101,13 @@ weight = 1
 name = "Pediatric Osteopathy"
 url = "/osteopathie/kinderosteopathie"
 weight = 2
-parent = "Osteopathie" 
+parent = "Osteopathy" 
 
 [[languages.de.menus.main]]
 name = "Osteopathie for Adults"
 url = "/osteopathie/osteopathie-fuer-erwachsene"
 weight = 3
-parent = "Osteopathie" 
+parent = "Osteopathy" 
 
 [[languages.en.menus.main]]
 name = "Treatment/Costs"
