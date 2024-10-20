@@ -94,18 +94,18 @@ weight = 8
 
 [[languages.en.menus.main]]
 name = "Osteopathy"
-url = "osteopathie"
+url = "en/osteopathie"
 weight = 1  
 
 [[languages.de.menus.main]]
 name = "Pediatric Osteopathy"
-url = "/osteopathie/kinderosteopathie"
+url = "en/osteopathie/kinderosteopathie"
 weight = 2
 parent = "Osteopathy" 
 
 [[languages.de.menus.main]]
 name = "Osteopathie for Adults"
-url = "/osteopathie/osteopathie-fuer-erwachsene"
+url = "en/osteopathie/osteopathie-fuer-erwachsene"
 weight = 3
 parent = "Osteopathy" 
 
