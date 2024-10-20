@@ -44,7 +44,7 @@ Osteopathie ist eine ganzheitliche Therapieform, die sich auf die manuelle Behan
 ## Kinderosteopathie
 <br>
 
-Die Kinderosteopathie ist eine spezielle Form der Osteopathie, die sich auf die Behandlung von Säuglingen, (Klein)Kindern und Jugendlichen konzentriert. Sie betrachtet den Körper als eine Einheit und erkennt die Wechselwirkungen zwischen Struktur und Funktion. Durch sanfte, manuelle Techniken werden Spannungen und Blockaden im muskulären und skelettalen System gelöst, um die natürliche Gesundheit und das Wohlbefinden der Kinder zu fördern. Diese ganzheitliche Herangehensweise unterstützt nicht nur die körperliche Entwicklung, sondern auch die emotionale und psychische Gesundheit der Kinder. Die Kinderosteopathie kann bei verschiedenen Beschwerden eingesetzt werden, um eine gesunde und harmonische Entwicklung zu fördern.
+Die Kinderosteopathie ist eine spezielle Form der Osteopathie, die sich auf die Behandlung von Säuglingen, (Klein)Kindern und Jugendlichen konzentriert. Sie betrachtet den Körper als eine Einheit und erkennt die Wechselwirkungen zwischen Struktur und Funktion an. Durch sanfte, manuelle Techniken werden Spannungen und Blockaden im muskulären und skelettalen System gelöst, um die natürliche Gesundheit und das Wohlbefinden der Kinder zu fördern. Diese ganzheitliche Herangehensweise unterstützt nicht nur die körperliche Entwicklung, sondern auch die emotionale und psychische Gesundheit der Kinder. Die Kinderosteopathie kann bei verschiedenen Beschwerden eingesetzt werden, um eine gesunde und harmonische Entwicklung zu fördern.
 <br>
 <br>
 
