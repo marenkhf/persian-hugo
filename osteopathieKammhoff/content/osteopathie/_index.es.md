@@ -1,5 +1,5 @@
 ---
-title: "Osteopatía para Adultos"
+title: "Osteopatía"
 # meta description
 description: "Bienvenido a su consulta de osteopatía para toda la familia. Especializado en bebés, niños y mujeres antes y después del parto."
 gallery:
