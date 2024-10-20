@@ -14,7 +14,7 @@ Die Kinderosteopathie ist eine spezielle Form der Osteopathie, die sich auf die 
 <br>
 <br>
 
-### Mögliche Indikationen für eine Behandlung
+### Mögliche Indikationen für eine kinderosteopathische Behandlung
 <br>
 
 bei Säuglingen
