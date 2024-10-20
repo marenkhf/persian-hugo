@@ -75,3 +75,19 @@
     }
   }
 }
+
+.fixed-buttons {
+  position: fixed; /* Fixiert die Buttons */
+  top: 20%; /* Abstand vom oberen Bildschirmrand (anpassen, wie gewünscht) */
+  left: 50%; /* Zentriert die Buttons horizontal */
+  transform: translateX(-50%); /* Korrigiert die Position für die Mitte */
+  z-index: 1000; /* Stellt sicher, dass die Buttons über anderen Inhalten liegen */
+  display: flex; /* Ermöglicht die Anordnung der Buttons in einer Zeile */
+  flex-direction: column; /* Anordnung der Buttons übereinander */
+}
+
+@media (min-width: 768px) {
+  .fixed-buttons {
+    display: none; /* Versteckt die Buttons auf größeren Bildschirmen */
+  }
+}
