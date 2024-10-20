@@ -79,6 +79,7 @@ weight = 6
 
 ################################ menu en ##################################
 [languages.en.menus] 
+
 [[languages.en.menus.main]]
 name = "Osteopathy"
 url = "/en/osteopathie"
@@ -119,6 +120,7 @@ weight = 6
 
 ################################ menu fr ##################################
 [languages.fr.menus] 
+
 [[languages.fr.menus.main]]
 name = "Ostéopathie"
 url = "osteopathie"
@@ -159,6 +161,7 @@ weight = 6
 
 ################################ menu es ##################################
 [languages.es.menus] 
+
 [[languages.es.menus.main]]
 name = "Osteopatía"
 url = "osteopathie"
