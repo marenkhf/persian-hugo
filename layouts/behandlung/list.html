@@ -1,12 +1,10 @@
 {{ define "main" }}
 
-{{ define "main" }}
-
 <section class="section-sm">
   <div class="container">
     <div class="row">
       <div class="col-lg-8 mx-auto text-center">
-          <h1 class="text-center">{{ .Title | markdownify }}</h1>
+        <h1 class="text-center">{{ .Title | markdownify }}</h1>
       </div>
     </div>
   </div>
@@ -53,14 +51,14 @@
 <hr>
 <section class="section">
   <div class="container">
-    {{ range $i,$e := . }}
-    {{ if $i }}
-    <br>
-    {{ end }}
-    <div class="col-lg-6 mx-auto text-center">
-      <img src="{{ $e | absURL }}" class="img-fluid w-100" alt="Gallery Image">
+    <h2 class="text-center">Galerie</h2>
+    <div class="row">
+      {{ range $i, $e := . }}
+        <div class="col-lg-6 mx-auto text-center">
+          <img src="{{ $e | absURL }}" class="img-fluid w-100" alt="Gallery Image">
+        </div>
+      {{ end }}
     </div>
-    {{ end }}
   </div>
 </section>
 {{ end }}
