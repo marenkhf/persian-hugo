@@ -83,4 +83,4 @@ bei Jugendlichen
 <br>
 <br>
 
-(Die Liste stellt eine unvollständige, exemplarische Nennung von möglichen Besuchsgründen dar)
+(Die Liste stellt eine unvollständige, exemplarische Nennung von möglichen Besuchsgründen dar.)
