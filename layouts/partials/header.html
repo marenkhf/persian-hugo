@@ -35,8 +35,8 @@
               {{ if .HasChildren }}
                 <li class="nav-item dropdown">
                   <a 
-                    class="nav-link dropdown-toggle"
-                    href="{{ .URL | absLangURL }}"
+                    class="nav-link"
+                    href="#"
                     role="button"
                     data-toggle="dropdown"
                     aria-haspopup="true"
@@ -59,9 +59,15 @@
 
             <!-- Sprachumschaltung, falls mehrsprachig -->
             {{ if .Site.IsMultiLingual }}
-              {{ range $.Translations }}
+              {{ if eq . $.Site.Language }}
                 <li class="nav-item dropdown">
-                  <a href="{{ .Permalink }}" class="nav-link language">{{ .Language.LanguageName }}</a>
+                  <a href="#" class="active-language nav-link">{{ .LanguageName }}</a>
+                </li>
+              {{ else }}
+                <li class="nav-item dropdown">
+                  {{ range $.Translations }}
+                    <a href="{{ .Permalink }}" class="nav-link language">{{ .Language.LanguageName }}</a>
+                  {{ end }}
                 </li>
               {{ end }}
             {{ end }}
