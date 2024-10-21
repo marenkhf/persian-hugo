@@ -34,8 +34,8 @@
       window.initMap = () => {
         let map = new google.maps.Map( document.getElementById( 'map' ), {
 		  		center: {
-            lat:52.5319342,
-            lng: 13.3918571,
+            lat:52.52417812748223,
+            lng: 13.380451383288754,
 		  		},
 		  		zoom: 10,
           streetViewControl: false,
@@ -52,32 +52,16 @@
             lng: 13.3918571,
 	        },
 	        map: map,
-	        title: 'Bergstr. 27, 10115 Berlin'
-        });
-        let marker2 = new google.maps.Marker({
-          position: {
-	        	lat: 52.642773420929444,
-	        	lng: 13.29856871535622
-	        },
-	        map: map,
-	        title: 'Mehringer Str. 59, 13465 Berlin'
-        });
-        let infoWindow1 = new google.maps.InfoWindow({
-        	content: '<div><strong>Bergstraße Str. 27, 10115, Berlin</strong></div>' +
-          '<div style="border-top: 1px solid rgb(204, 204, 204); margin-top: 9px; padding: 6px; font-size: 13px; text-overflow: ellipsis; overflow: hidden; white-space: nowrap; font-family: Roboto, Arial;">'+
-          '<a href="https://www.google.com/maps/place/The+Family+Osteopath+-+Privatpraxis+für+Osteopathie+und+Funktionelle+Medizin/@52.5319342,13.3918571,17z/data=!4m6!3m5!1s0x47a85109d040ed9b:0x14ccab3c1f24d961!8m2!3d52.5319396!4d13.3944482!16s%2Fg%2F11ffktwz38" target="_blank" rel="noopener" style="cursor: pointer; color: rgb(66, 127, 237); text-decoration: none;">Google Maps</a></div>'
+	        title: 'Schumannstraße 17, 10117 Berlin'
 
         });
-        let infoWindow2 = new google.maps.InfoWindow({
-        	content: '<div><strong> Mehringer Str. 59, 13456 Berlin</strong></div>' +
+        let infoWindow1 = new google.maps.InfoWindow({
+        	content: '<div><strong>Schumannstraße 17, 10117 Berlin</strong></div>' +
           '<div style="border-top: 1px solid rgb(204, 204, 204); margin-top: 9px; padding: 6px; font-size: 13px; text-overflow: ellipsis; overflow: hidden; white-space: nowrap; font-family: Roboto, Arial;">'+
-          '<a href="https://www.google.com/maps/place/Mehringer+Str.+59,+13465+Berlin,+Germany/@52.642682,13.298451,15z/data=!4m5!3m4!1s0x47a9ab32c9124bd5:0x4de8a9fa2a076c01!8m2!3d52.6426823!4d13.2984507?hl=de" target="_blank" rel="noopener" style="cursor: pointer; color: rgb(66, 127, 237); text-decoration: none;">Google Maps</a></div>'
+          '<a href="https://www.google.de/maps/place/Osteopathie+Praxis+Berlin+Mitte+-+Simone+Weigel/@52.5238891,13.3777537,17z/data=!3m2!4b1!5s0x47a851c028df21a7:0x9e70a0fdc06e7229!4m6!3m5!1s0x47a851336b7a225b:0xaacaf8d9ea66b5bf!8m2!3d52.5238891!4d13.3803286!16s%2Fg%2F11vw_vc5dz?entry=ttu&g_ep=EgoyMDI0MTAxNi4wIKXMDSoASAFQAw%3D%3D" target="_blank" rel="noopener" style="cursor: pointer; color: rgb(66, 127, 237); text-decoration: none;">Google Maps</a></div>'
         });
         marker1.addListener( 'click', function() {
         	infoWindow1.open( map, marker1 );
-        });
-        marker2.addListener( 'click', function() {
-        	infoWindow2.open( map, marker2 );
         });
       }
 
