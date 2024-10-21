@@ -14,7 +14,7 @@ El enfoque principal de la primera consulta es una conversación detallada y un 
 El tratamiento de seguimiento consiste en un examen y tratamiento osteopático.
 
 El pago se realiza directamente con VISA o MasterCard, o mediante factura. Lamentablemente, no es posible pagar en efectivo.
-Las citas deben cancelarse con al menos 24 horas de antelación; de lo contrario, se cobrará el costo total del tratamiento.
+Las citas deben cancelarse al menos 24 horas antes, de lo contrario se cobrará una tarifa de cancelación de 60 euros.
 
 Excepción: enfermedades infecciosas. Si presenta síntomas de las vías respiratorias superiores, fiebre o dolores corporales, se le pide, por consideración al riesgo de contagio, que no acuda a la cita. 
 <br>
