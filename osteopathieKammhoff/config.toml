@@ -210,7 +210,7 @@ contact_info = "Kontakt: +491779244251 | maren@osteopathiekammhoff.de"
 # adress
 address = "Schumannstraße 17, 10117 Berlin"
 # hours
-hours = "Öffnungszeiten: Montag bis Freitag 09:00-13:00 und von 14:00-16:00. Weitere Termine nach Vereinbarung"
+hours = "Öffnungszeiten: Mo. - Fr: 09:00-13:00 + 14:00-16:00. Weitere Termine nach Vereinbarung"
 
 # Preloader
 [params.preloader]
