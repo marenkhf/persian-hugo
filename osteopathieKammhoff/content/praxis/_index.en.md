@@ -10,4 +10,5 @@ gallery:
 ### Location Berlin
 <br>
 
-I am currently in the process of relocating my practice and I will soon be able to offer appointments at *Osteopathie Maren Kammhoff* again. For any inquiries, please feel free to email me or contact me by phone.
+The practice is located at Schumannstraße 17 in 10117 Mitte, Berlin. It is easily accessible by public transport from Friedrichstraße, the U Oranienburger Tor station, and the main train station.
+Parking is available in the surrounding streets, but it is subject to fees.

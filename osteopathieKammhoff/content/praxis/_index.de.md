@@ -10,4 +10,5 @@ gallery:
 ### Standort Berlin
 <br>
 
-Ich wechsel momentan die Praxisräumlichkeiten und werde Ihnen zeitnah wieder Termine bei *Osteopathie Maren Kammhoff* anbieten können. Für Nachfragen können Sie mir gerne eine Mail schreiben oder mich telefonisch kontaktieren. 
+Die Praxis befindet sich in der Schumannstraße 17 in 10117 Mitte, Berlin. Mit öffentlichen Verkehrsmitteln ist die Praxis sowohl von der Friedrichsstraße, von der U Oranienburger Tor und vom Hauptbahnhof gut zu erreichen. 
+Parkplätze gibt es in den umliegenden Straßen, diese sind kostenpflichtig.

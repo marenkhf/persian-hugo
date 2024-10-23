@@ -10,4 +10,5 @@ gallery:
 ### Ubicación Berlín
 <br>
 
-Actualmente estoy en el proceso de cambiar la ubicación de mi consulta y pronto podré ofrecerle nuevamente citas en *Osteopatía Maren Kammhoff*. Para cualquier consulta, no dude en enviarme un correo electrónico o llamarme por teléfono.
+La consulta está ubicada en Schumannstraße 17, 10117 Mitte, Berlín. Es fácilmente accesible en transporte público desde Friedrichstraße, la estación U Oranienburger Tor y la estación central.
+Hay aparcamiento en las calles cercanas, pero es de pago.
