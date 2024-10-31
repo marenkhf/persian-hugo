@@ -3,33 +3,37 @@
   <div class="container">
     <div class="row">
       <div class="col-lg-8 mx-auto text-center">
-        <h1 class="text-center">{{.Title|markdownify}}</h1>
-        {{with .Params.image}}
-        <img src="{{ .|absURL }}" alt="author" class="author-img">
+        <h1 class="text-center">{{ .Title | markdownify }}</h1>
+        {{ with .Params.image }}
+        <img src="{{ . | absURL }}" alt="author" class="author-img">
         {{ end }}
       </div>
     </div>
   </div>
 </section>
+
 <section class="section">
   <div class="container">
     <div class="col-lg-6 mx-auto">
-      <div class="content">{{.Content}}</div>
+      <div class="content">{{ .Content }}</div>
     </div>
   </div>
 </section>
+
 {{ with .Params.gallery }}
 <hr>
 <section class="section">
   <div class="container">
-    {{ range $i,$e := . }}
-    {{ if $i }}
-    <br>
-    {{ end }}
-    <div class="col-lg-6 mx-auto text-center">
-      <img src="{{ $e | absURL }}" class="img-fluid w-100" alt="Gallery Image">
+    <div class="row">
+      {{ range $i, $e := . }}
+      {{ if $i }}
+      <br>
+      {{ end }}
+      <div class="col-lg-6 mx-auto text-center">
+        <img src="{{ $e | absURL }}" class="img-fluid w-100" alt="Gallery Image">
+      </div>
+      {{ end }}
     </div>
-    {{ end }}
   </div>
 </section>
 {{ end }}
