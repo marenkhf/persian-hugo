@@ -78,10 +78,12 @@ AUTHOR WEBSITE: https://themefisher.com
 }
 
 .social-media-links {
-  display: flex;
-  justify-content: center; /* Zentriert die Icons */
-  gap: 10px; /* Abstand zwischen den Icons */
-  margin-top: 10px; /* Abstand zum vorherigen Text */
+  .social-media-links {
+    display: flex;
+    justify-content: center; /* Zentriert die Icons */
+    gap: 10px; /* Abstand zwischen den Icons */
+    margin-bottom: 10px; /* Abstand nach unten */
+  }  
 }
 
 .social-media-links img {
