@@ -1,14 +1,16 @@
 <footer class="py-4">
-  <!-- Soziale Medien Links -->
-  <div class="social-media-links">
-    <a href="https://www.linkedin.com/in/maren-kammhoff" target="_blank" rel="noopener noreferrer">
-      <img src="images/linkedin-100.png" alt="LinkedIn" style="width: 30px; height: 30px;">
-    </a>
-    <a href="https://www.instagram.com/osteopathiemarenkammhoff" target="_blank" rel="noopener noreferrer">
-      <img src="images/instagram-100.png" alt="Instagram" style="width: 30px; height: 30px;">
-    </a>
-  </div>
-  <div class="container text-center" style="display: flex; justify-content: space-around; flex-wrap: wrap;">
+  <div class="container text-center" style="display: flex; flex-direction: column; align-items: center; flex-wrap: wrap;">
+    
+    <!-- Soziale Medien Links -->
+    <div class="social-media-links">
+      <a href="https://www.linkedin.com/in/maren-kammhoff-62b912b4/" target="_blank" rel="noopener noreferrer">
+        <img src="images/linkedin-100.png" alt="LinkedIn" style="width: 30px; height: 30px;">
+      </a>
+      <a href="https://www.instagram.com/osteopathiemarenkammhoff" target="_blank" rel="noopener noreferrer">
+        <img src="images/instagram-100.png" alt="Instagram" style="width: 30px; height: 30px;">
+      </a>
+    </div>
+
     <div>
       <p>{{ .Site.Params.contact_info }}</p>
     </div>
@@ -23,8 +25,6 @@
     </div>
   </div>
 </footer>
-
-   
 
 
 {{ "<!-- JS Plugins -->" | safeHTML }}
