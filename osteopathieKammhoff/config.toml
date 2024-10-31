@@ -211,6 +211,9 @@ contact_info = "Kontakt: +491779244251 | maren@osteopathiekammhoff.de"
 address = "Adresse: Schumannstraße 17, 10117 Berlin"
 # hours
 hours = "Öffnungszeiten: Mo. - Fr: 09:00-13:00 + 14:00-16:00. Weitere Termine nach Vereinbarung"
+# social media icons
+linkedin_url = "https://www.linkedin.com/in/maren-kammhoff-62b912b4/"
+instagram_url = "https://www.instagram.com/osteopathiemarenkammhoff/"
 
 # Preloader
 [params.preloader]
