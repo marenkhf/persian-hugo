@@ -14,7 +14,7 @@ Lors de la première consultation, l'accent est mis sur un entretien détaillé 
 Les séances de suivi consistent en un examen et un traitement ostéopathique.
 
 Le paiement se fait directement par VISA ou MasterCard ou par facture. Malheureusement, le paiement en espèces n'est pas possible.
-Les rendez-vous doivent être annulés au moins 24 heures à l'avance, sinon des frais d'annulation de 60 euros seront facturés.
+Les rendez-vous doivent être annulés au moins 24 heures à l'avance, sinon des frais d'annulation de 70 euros seront facturés.
 
 Exception : les maladies infectieuses. Si vous présentez des symptômes des voies respiratoires supérieures, de la fièvre ou des courbatures, il est demandé, par souci de risque de contagion, de ne pas assister au rendez-vous.
 <br>

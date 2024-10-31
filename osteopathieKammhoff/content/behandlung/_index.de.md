@@ -14,7 +14,7 @@ Im Vordergrund der Erstbehandlung steht das ausführliche Gespräch und eine umf
 Die Folgebehandlung besteht aus einer osteopathischen Untersuchung und Behandlung.  
 
 Es wird direkt per VISA oder MasterCard oder auf Rechnung gezahlt. Barzahlung ist leider nicht möglich.
-Behandlungstermine müssen 24 h vor dem Termin abgesagt werden, ansonsten wird eine Ausfallgebühr in Höhe von 60 Euro fällig.
+Behandlungstermine müssen 24 h vor dem Termin abgesagt werden, ansonsten wird eine Ausfallgebühr in Höhe von 70 Euro fällig.
 
 Ausnahme sind infektiöse Erkrankungen. Bei Symptomen der oberen Atemwege sowie Fieber oder Gliederschmerzen wird in Rücksicht auf Ansteckungsgefahr gebeten, den Behandlungstermin nicht wahrzunehmen.
 <br>

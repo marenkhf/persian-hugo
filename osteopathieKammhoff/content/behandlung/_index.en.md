@@ -14,7 +14,7 @@ The initial treatment focuses on a thorough discussion and a comprehensive exami
 The follow-up treatment consists of an osteopathic examination and treatment.
 
 Payment can be made directly by VISA or MasterCard or by invoice. Unfortunately, cash payments are not accepted.
-Appointments must be canceled at least 24 hours in advance, otherwise a cancellation fee of 60 euros will be charged.
+Appointments must be canceled at least 24 hours in advance, otherwise a cancellation fee of 0 euros will be charged.
 
 Exceptions are infectious diseases. If you have symptoms of upper respiratory infections, fever, or body aches, please refrain from attending the treatment appointment out of consideration for the risk of infection.
 <br>
