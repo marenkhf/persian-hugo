@@ -438,18 +438,3 @@
   clip: rect(0, 0, 0, 0);
   border: 0;
 }
-
-.social-media-links {
-  display: flex;
-  justify-content: center; /* Zentriert die Icons */
-  gap: 10px; /* Abstand zwischen den Icons */
-  margin-bottom: 20px; /* Abstand nach unten */
-}
-
-.social-media-links img {
-  transition: transform 0.2s; /* Animationseffekt */
-}
-
-.social-media-links img:hover {
-  transform: scale(1.1); /* Vergrößert das Icon beim Hover */
-}
