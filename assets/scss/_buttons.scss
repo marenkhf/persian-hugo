@@ -9,46 +9,47 @@
   position: relative;
   z-index: 1;
   transition: opacity 0.3s ease; /* Sanfter Übergang für die Opazität */
-  opacity: 0,9; /* Leicht blassere Deckkraft in normalem Zustand */
+  opacity: 0.9; /* Leicht blassere Deckkraft im normalen Zustand */
+}
 
-  &:hover {
-    opacity: 0.6; /* Opazität beim Hover auf 60% setzen */
-  }
+/* Hover-Effekt separat definiert */
+.btn:hover {
+  opacity: 0.6; /* Noch blasser beim Hover */
+}
 
-  &:active,
-  &:focus {
-    outline: 0;
-    box-shadow: none !important;
-  }
+.btn:active,
+.btn:focus {
+  outline: 0;
+  box-shadow: none !important;
 }
 
 .btn-primary {
   background: $primary-color;
   color: $white;
   border-color: $primary-color;
+}
 
-  &:active,
-  &:hover,
-  &.focus,
-  &.active {
-    background: $primary-color !important;
-    border-color: $primary-color !important;
-  }
+.btn-primary:active,
+.btn-primary:hover,
+.btn-primary.focus,
+.btn-primary.active {
+  background: $primary-color !important;
+  border-color: $primary-color !important;
 }
 
 .btn-outline-primary {
   background: transparent;
   color: $text-color;
   border-color: $primary-color;
+}
 
-  &:active,
-  &:hover,
-  &.focus,
-  &.active {
-    background: $primary-color !important;
-    border-color: $primary-color !important;
-    color: $white;
-  }
+.btn-outline-primary:active,
+.btn-outline-primary:hover,
+.btn-outline-primary.focus,
+.btn-outline-primary.active {
+  background: $primary-color !important;
+  border-color: $primary-color !important;
+  color: $white;
 }
 
 .btn-link {
@@ -56,28 +57,26 @@
   border: 0;
   color: $text-color;
   padding: 0;
-
-  i {
-    margin-left: 10px;
-    margin-top: 2px;
-    vertical-align: middle;
-    font-size: 90%;
-    transition: inherit;
-  }
-
-  &:active,
-  &:hover,
-  &.focus,
-  &.active {
-    background: transparent !important;
-    border: 0 !important;
-    color: $primary-color;
-    text-decoration: none;
-
-    i {
-      margin-left: 15px;
-    }
-  }
 }
 
+.btn-link i {
+  margin-left: 10px;
+  margin-top: 2px;
+  vertical-align: middle;
+  font-size: 90%;
+  transition: inherit;
+}
 
+.btn-link:active,
+.btn-link:hover,
+.btn-link.focus,
+.btn-link.active {
+  background: transparent !important;
+  border: 0 !important;
+  color: $primary-color;
+  text-decoration: none;
+}
+
+.btn-link i:hover {
+  margin-left: 15px;
+}
