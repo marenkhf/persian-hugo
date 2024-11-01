@@ -9,12 +9,12 @@
   position: relative;
   z-index: 1;
   transition: opacity 0.3s ease; /* Sanfter Übergang für die Opazität */
+  opacity: 0,9; /* Leicht blassere Deckkraft in normalem Zustand */
 
-  .btn:hover {
+  &:hover {
     opacity: 0.6; /* Opazität beim Hover auf 60% setzen */
   }
 
-  &:hover,
   &:active,
   &:focus {
     outline: 0;
