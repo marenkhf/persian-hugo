@@ -8,7 +8,11 @@
   border: 1px solid;
   position: relative;
   z-index: 1;
-  transition: .2s ease;
+  transition: opacity 0.3s ease; /* Sanfter Übergang für die Opazität */
+
+  .btn:hover {
+    opacity: 0.6; /* Opazität beim Hover auf 60% setzen */
+  }
 
   &:hover,
   &:active,
@@ -75,3 +79,5 @@
     }
   }
 }
+
+
