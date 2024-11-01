@@ -56,12 +56,12 @@ AUTHOR WEBSITE: https://themefisher.com
   opacity: 0.6; /* Setze die Opazität beim Hover auf 60% */
 }
 
-.navbar-brand:hover {
-  transform: scale(1.1); /* Vergrößert den Titel um 10% */
+.navbar-brand {
+  transition: opacity 0.3s ease; /* Sanfter Übergang für die Opazität */
 }
 
-.navbar-nav .nav-item .nav-link:hover {
-  transform: scale(1.1); /* Vergrößert den Menüeintrag um 10% */
+.navbar-brand:hover {
+  opacity: 0.6; /* Opazität beim Hover auf 60% setzen */
 }
 
 /* Video-Container Styles */
