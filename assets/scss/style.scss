@@ -48,6 +48,14 @@ AUTHOR WEBSITE: https://themefisher.com
   }
 }
 
+.navbar-nav .nav-item .nav-link {
+  transition: transform 0.3s ease; /* Dauer und Art des Übergangs */
+}
+
+.navbar-nav .nav-item .nav-link:hover {
+  transform: scale(1.1); /* Vergrößert den Menüeintrag um 10% */
+}
+
 /* Video-Container Styles */
 .video-container {
   position: relative;
