@@ -30,7 +30,7 @@ Duration: 45 minutes<br>
 
 #### Adults <br>
 Treatment cost: 100 Euros<br>
-Duration: 45 minutes<br>
+Duration: 50 minutes<br>
 <br>
 
 ### Insurance Coverage

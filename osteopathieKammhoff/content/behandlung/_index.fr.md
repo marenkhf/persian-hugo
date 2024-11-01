@@ -30,7 +30,7 @@ Durée : 45 min
 
 #### Adultes <br>
 Coût du traitement : 100 euros <br>
-Durée : 45 min <br>
+Durée : 50 min <br>
 <br>
 
 ### Prise en charge des côuts
