@@ -48,13 +48,12 @@ AUTHOR WEBSITE: https://themefisher.com
   }
 }
 
-.navbar-nav .nav-item .nav-link {
-  transition: transform 0.3s ease; /* Dauer und Art des Übergangs */
+.nav-link {
+  transition: opacity 0.3s ease; /* Füge einen sanften Übergang hinzu */
 }
 
-
-.navbar-brand {
-  transition: transform 0.3s ease; /* Dauer und Art des Übergangs */
+.nav-link:hover {
+  opacity: 0.6; /* Setze die Opazität beim Hover auf 60% */
 }
 
 .navbar-brand:hover {
