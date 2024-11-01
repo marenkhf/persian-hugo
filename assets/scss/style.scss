@@ -101,9 +101,9 @@ AUTHOR WEBSITE: https://themefisher.com
 }
 
 .social-media-links img {
-  transition: transform 0.2s; /* Animationseffekt */
+  transition: opacity 0.3s ease; /* Füge einen sanften Übergang hinzu */
 }
 
 .social-media-links img:hover {
-  transform: scale(1.1); /* Vergrößert das Icon beim Hover */
+  opacity: 0.6; /* Setze die Opazität beim Hover auf 60% */
 }
