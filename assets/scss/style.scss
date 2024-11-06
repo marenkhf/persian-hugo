@@ -98,14 +98,13 @@ AUTHOR WEBSITE: https://themefisher.com
   border: 0;
 }
 
-/* Media Query für mobile Geräte */
 @media (max-width: 768px) {
   .doctolib-button {
-    width: 80px; /* Angepasste Breite für mobile Ansicht */
+    width: 80px !important; /* Erzwingt die Breite in der mobilen Ansicht */
   }
   
   .button-hinweis {
-    width: 100px; /* Angepasste Breite für mobile Ansicht */
+    width: 100px !important;
   }
 }
 
