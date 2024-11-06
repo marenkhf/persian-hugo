@@ -102,6 +102,17 @@ AUTHOR WEBSITE: https://themefisher.com
   border: 0;
 }
 
+/* Media Query für mobile Geräte */
+@media (max-width: 768px) {
+  .button-doctolib {
+    width: 80px; /* Angepasste Breite für mobile Ansicht */
+  }
+  
+  .button-hinweis {
+    width: 100px; /* Angepasste Breite für mobile Ansicht */
+  }
+}
+
 .social-media-links {
   display: flex; /* Flexbox für die Icons */
   justify-content: center; /* Zentriert die Icons */
