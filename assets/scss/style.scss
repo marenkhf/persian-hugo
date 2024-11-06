@@ -7,10 +7,6 @@ AUTHOR: Themefisher
 AUTHOR WEBSITE: https://themefisher.com
 -------------------------------------------------------------------*/
 
-/*------------------------------------------------------------------
-[TABLE OF CONTENTS]
--------------------------------------------------------------------*/
-
 @import 'mixins';
 @import 'variables';
 @import 'typography';
@@ -27,7 +23,7 @@ AUTHOR WEBSITE: https://themefisher.com
     left: 0;
     width: 100vw;
     height: 100vh;
-    background-color: white; /* Hintergrundfarbe der Navigation */
+    background-color: white;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -58,25 +54,25 @@ AUTHOR WEBSITE: https://themefisher.com
 }
 
 .nav-link {
-  transition: opacity 0.3s ease; /* Füge einen sanften Übergang hinzu */
+  transition: opacity 0.3s ease;
 }
 
 .nav-link:hover {
-  opacity: 0.6; /* Setze die Opazität beim Hover auf 60% */
+  opacity: 0.6;
 }
 
 .navbar-brand {
-  transition: opacity 0.3s ease; /* Sanfter Übergang für die Opazität */
+  transition: opacity 0.3s ease;
 }
 
 .navbar-brand:hover {
-  opacity: 0.6; /* Opazität beim Hover auf 60% setzen */
+  opacity: 0.6;
 }
 
 /* Video-Container Styles */
 .video-container {
   position: relative;
-  padding-bottom: 56.25%; /* 16:9 Aspect Ratio */
+  padding-bottom: 56.25%;
   height: 0;
   overflow: hidden;
   max-width: 100%;
@@ -104,7 +100,7 @@ AUTHOR WEBSITE: https://themefisher.com
 
 /* Media Query für mobile Geräte */
 @media (max-width: 768px) {
-  .doctolib-button { /* angepasst */
+  .doctolib-button {
     width: 80px; /* Angepasste Breite für mobile Ansicht */
   }
   
@@ -114,16 +110,16 @@ AUTHOR WEBSITE: https://themefisher.com
 }
 
 .social-media-links {
-  display: flex; /* Flexbox für die Icons */
-  justify-content: center; /* Zentriert die Icons */
-  gap: 15px; /* Erhöhter Abstand zwischen den Icons */
-  margin-bottom: 20px; /* Abstand nach unten */
+  display: flex;
+  justify-content: center;
+  gap: 15px;
+  margin-bottom: 20px;
 }
 
 .social-media-links img {
-  transition: opacity 0.3s ease; /* Füge einen sanften Übergang hinzu */
+  transition: opacity 0.3s ease;
 }
 
 .social-media-links img:hover {
-  opacity: 0.6; /* Setze die Opazität beim Hover auf 60% */
+  opacity: 0.6;
 }
