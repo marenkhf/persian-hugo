@@ -1,6 +1,6 @@
 ---
 title: "Osteopatía Maren Kammhoff – Consulta para bebés y niños"
-image: "images/title.jpg"
+image: "images/Uebermich2-min.jpg"
 description: "Bienvenido a su consulta de osteopatía para toda la familia. Especializado en bebés, niños y mujeres antes y después del parto."
 gallery:
     - images/Osteopathie1-min.jpg
