@@ -34,8 +34,8 @@
       window.initMap = () => {
         let map = new google.maps.Map( document.getElementById( 'map' ), {
 		  		center: {
-            lat: 52.52429562608715, 
-            lng: 13.38034409493553,
+            lat: 48.75783462624746,
+            lng: 9.157356196233385,
 		  		},
 		  		zoom: 15,
           streetViewControl: false,
@@ -48,17 +48,17 @@
 		  	});
         let marker1 = new google.maps.Marker({
 	        position: {
-            lat: 52.52429562608715, 
-            lng: 13.38034409493553,
+            lat: 48.75783462624746,
+            lng: 9.157356196233385,
 	        },
 	        map: map,
-	        title: 'Schumannstraße 17, 10117 Berlin'
+	        title: 'Kelterstraße 50, 70199 Stuttgart'
 
         });
         let infoWindow1 = new google.maps.InfoWindow({
-        	content: '<div><strong>Schumannstraße 17, 10117 Berlin</strong></div>' +
+        	content: '<div><strong>Kelterstraße 50, 70199 Stuttgart</strong></div>' +
           '<div style="border-top: 1px solid rgb(204, 204, 204); margin-top: 9px; padding: 6px; font-size: 13px; text-overflow: ellipsis; overflow: hidden; white-space: nowrap; font-family: Roboto, Arial;">'+
-          '<a href="https://www.google.de/maps/place/Osteopathie+Praxis+Berlin+Mitte+-+Simone+Weigel/@52.5238891,13.3777537,17z/data=!3m2!4b1!5s0x47a851c028df21a7:0x9e70a0fdc06e7229!4m6!3m5!1s0x47a851336b7a225b:0xaacaf8d9ea66b5bf!8m2!3d52.5238891!4d13.3803286!16s%2Fg%2F11vw_vc5dz?entry=ttu&g_ep=EgoyMDI0MTAxNi4wIKXMDSoASAFQAw%3D%3D" target="_blank" rel="noopener" style="cursor: pointer; color: rgb(66, 127, 237); text-decoration: none;">Google Maps</a></div>'
+          '<a href="https://www.google.de/maps/place/Kelterstra%C3%9Fe+50,+70199+Stuttgart/@48.757801,9.1547752,16z/data=!3m1!4b1!4m6!3m5!1s0x4799dca753858e89:0x407b791433e8778!8m2!3d48.757801!4d9.1573501!16s%2Fg%2F11bw3y6yt9?entry=ttu&g_ep=EgoyMDI1MDExNS4wIKXMDSoASAFQAw%3D%3D" target="_blank" rel="noopener" style="cursor: pointer; color: rgb(66, 127, 237); text-decoration: none;">Google Maps</a></div>'
         });
         marker1.addListener( 'click', function() {
         	infoWindow1.open( map, marker1 );
