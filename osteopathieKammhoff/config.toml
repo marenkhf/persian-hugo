@@ -9,7 +9,8 @@ defaultContentLanguage = 'de'
 
 ############################# output ##############################
 [outputs]
-home = [ "HTML", "RSS", "json"]
+home = ["HTML", "RSS", "json", "sitemap"]
+
 
 # render unsafe html
 [markup.goldmark.renderer]
@@ -222,3 +223,4 @@ preloader = "" # use jpg, png, svg or gif format.
 
 # Search engines
 enableRobotsTXT = true
+
