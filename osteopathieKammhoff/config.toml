@@ -222,4 +222,3 @@ preloader = "" # use jpg, png, svg or gif format.
 
 # Search engines
 enableRobotsTXT = true
-
