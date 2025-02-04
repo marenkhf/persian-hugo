@@ -1,7 +1,7 @@
 ---
 title: "Ostéopathie Maren Kammhoff – Cabinet pour nourrissons et enfants"
 image: "images/Uebermich2-min.jpg"
-description: "Bienvenue dans votre cabinet d'ostéopathie pour toute la famille. Spécialisé dans les soins aux nourrissons, aux enfants et aux femmes avant et après l'accouchement."
+description: "Bienvenue dans votre cabinet d'ostéopathie pour toute la famille à Stuttgart. Spécialisé dans les soins aux nourrissons, aux enfants et aux femmes avant et après l'accouchement."
 gallery:
     - images/Osteopathie1-min.jpg
     - images/Osteopathie2-min.jpg
