@@ -1,5 +1,5 @@
 ---
-title: "Osteopathie Maren Kammhoff - Praxis für Säuglinge und Kinder"
+title: "Osteopathie Maren Kammhoff - für Säuglinge, Kinder und Erwachsene"
 image: "images/Uebermich2-min.jpg"
 description: "Willkommen in Ihrer Osteopathie-Praxis für die gesamte Familie in Stuttgart. Spezialisiert auf Säuglinge, Kinder und Frauen vor und nach der Geburt."
 gallery:
@@ -24,7 +24,7 @@ Nach einer ausführlichen Anamnese und Untersuchung gebe ich Ihnen oder Ihrem Ki
 
 Auf meiner Website finden Sie weitere Informationen zur Funktionsweise der Osteopathie, zum Behandlungsablauf, zu den Kosten und zur Terminvergabe.
 
-Ihre Maren Kammhoff (Osteopathin MSc, Kinderosteopathin, HP)
+Ihre Maren Kammhoff (Osteopathin MSc, Kinderosteopathin,  HP)
 <br>
 <br>
 <br>
