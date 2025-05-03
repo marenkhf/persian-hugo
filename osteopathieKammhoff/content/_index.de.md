@@ -24,7 +24,7 @@ Nach einer ausführlichen Anamnese und Untersuchung gebe ich Ihnen oder Ihrem Ki
 
 Auf meiner Website finden Sie weitere Informationen zur Funktionsweise der Osteopathie, zum Behandlungsablauf, zu den Kosten und zur Terminvergabe.
 
-Ihre Maren Kammhoff (M.Sc. Osteopathie, HP)
+Ihre Maren Kammhoff (Osteopathin MSc, Kinderosteopathin, HP)
 <br>
 <br>
 <br>
