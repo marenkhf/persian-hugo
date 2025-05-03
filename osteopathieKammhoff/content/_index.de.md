@@ -1,5 +1,5 @@
 ---
-title: "Osteopathie Maren Kammhoff - für Säuglinge, Kinder und Erwachsene"
+title: "Osteopathie Maren Kammhoff - für Säuglinge, Kinder und Erwachsene in Stuttgart"
 image: "images/Uebermich2-min.jpg"
 description: "Willkommen in Ihrer Osteopathie-Praxis für die gesamte Familie in Stuttgart. Spezialisiert auf Säuglinge, Kinder und Frauen vor und nach der Geburt."
 gallery:
