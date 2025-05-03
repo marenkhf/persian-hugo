@@ -25,4 +25,4 @@ After a thorough case history and examination, I will provide suitable treatment
 On my website, you will find more information about the practice of osteopathy, the treatment process, costs, and appointment scheduling.
 
 Yours sincerely,
-Maren Kammhoff (M.Sc. Osteopathy, HP)
+Maren Kammhoff (Osteoapthin MSc, Kinderosteopathin, HP)
