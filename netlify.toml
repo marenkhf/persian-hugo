@@ -1,6 +1,6 @@
 [build]
   publish = "osteopathieKammhoff/public"
-  command = "cd osteopathieKammhoff && hugo --gc --themesDir ../.."
+  command = "cd osteopathieKammhoff && hugo --gc --themesDir ../themes"
   
 [build.environment]
   HUGO_VERSION = "0.73.0"
