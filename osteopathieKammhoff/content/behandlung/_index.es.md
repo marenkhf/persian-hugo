@@ -3,7 +3,7 @@ title: "Tratamiento y Costos"
 # meta description
 description: "Tratamiento y Costos"
 gallery: 
-    - images/Behandlung3-min.jpg
+    - images/Behandlung2-min.jpg
     - images/Behandlung5-min.jpg
 ---  
 
