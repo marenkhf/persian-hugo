@@ -4,7 +4,7 @@ title: "Osteopathy"
 description: "A warm welcome to your osteopathy practice for the entire family in Stuttgart! Specializing in infants, children, and women before and after childbirth."
 gallery:
     - images/title.jpg
-    - images/Osteopathie2.jpg
+    - images/OsteopathieBild_png.png
 ---
 
 ## What is it?

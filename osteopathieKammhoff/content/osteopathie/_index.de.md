@@ -4,7 +4,7 @@ title: "Osteopathie"
 description: "Willkommen in Ihrer Osteopathie-Praxis für die gesamte Familie in Stuttgart. Spezialisiert auf Säuglinge, Kinder und Frauen vor und nach der Geburt."
 gallery:
     - images/title.jpg
-    - images/Osteopathie2.jpg
+    - images/OsteopathieBild_png.png
 ---
 
 ## Was ist das?

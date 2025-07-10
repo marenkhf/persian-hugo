@@ -4,7 +4,7 @@ title: "Osteopatía"
 description: "Bienvenido a su consulta de osteopatía para toda la familia en Stuttgart. Especializado en bebés, niños y mujeres antes y después del parto."
 gallery:
     - images/title.jpg
-    - images/Osteopathie2.jpg
+    - images/OsteopathieBild_png.png
 ---
 
 ## ¿Qué es?
