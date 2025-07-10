@@ -3,8 +3,8 @@ title: "Maren Kammhoff"
 image: "images/profile.jpg"
 description: "Mein Werdegang in der Osteopathie"
 gallery: 
-    - images/Uebermich1-min.jpg
-    - images/Uebermich3-min.jpg
+    - images/persoenlichesFoto2.jpeg
+    - images/Osteopathie1-min.jpg
 ---
   
 #### Osteopathin
