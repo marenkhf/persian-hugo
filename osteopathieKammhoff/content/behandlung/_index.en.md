@@ -4,7 +4,7 @@ title: "Treatment and Costs"
 description: "Treatment and Costs"
 gallery: 
     - images/Behandlung3-min.jpg
-    - images/Behandlung2-min.jpg
+    - images/Behandlung5-min.jpg
 ---  
 
 ### Process
