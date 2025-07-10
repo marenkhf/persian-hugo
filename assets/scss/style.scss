@@ -42,6 +42,19 @@ AUTHOR WEBSITE: https://themefisher.com
     right: 10px;
     z-index: 1001;
   }
+
+  /* 📱 Schriftgrößen für Mobilgeräte */
+  body {
+    font-size: 14px;
+  }
+  
+  p,
+  li,
+  ul,
+  ol,
+  .paragraph {
+    font-size: 14px;
+  }
 }
 
 .doctolib-button {
