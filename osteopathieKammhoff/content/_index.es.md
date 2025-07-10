@@ -3,7 +3,7 @@ title: "Osteopatía Maren Kammhoff – para bebés, niños y adultos en Stuttgar
 image: "images/Uebermich1-min.jpg"
 description: "Bienvenido a su consulta de osteopatía para toda la familia en Stuttgart. Especializado en bebés, niños y mujeres antes y después del parto."
 gallery:
-    - images/Osteopathie1-min.jpg
+    - images/Kinderosteopathie1.jpg
     - images/Osteopathie2-min.jpg
 ---
   

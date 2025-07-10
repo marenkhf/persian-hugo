@@ -3,7 +3,7 @@ title: "Osteopathy Maren Kammhoff – for Infants, Childrens and Adults in Stutt
 image: "images/Uebermich1-min.jpg"
 description: "A warm welcome to your osteopathy practice for the entire family in Stuttgart! Specializing in infants, children, and women before and after childbirth."
 gallery:
-    - images/Osteopathie1-min.jpg
+    - images/Kinderosteopathie1.jpg
     - images/Osteopathie2-min.jpg
 ---
   
