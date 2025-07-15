@@ -25,7 +25,7 @@ Ausnahme sind infektiöse Erkrankungen. Bei Symptomen der oberen Atemwege sowie 
 
 #### Kinder <br>
 Behandlungskosten: 90 Euro <br>
-Dauer: 45 min
+Dauer: 50 min
 <br>
 
 #### Erwachsene <br>

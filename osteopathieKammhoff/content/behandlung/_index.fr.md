@@ -25,7 +25,7 @@ Exception : les maladies infectieuses. Si vous présentez des symptômes des voi
 
 #### Enfants <br>
 Coût du traitement : 90 euros <br>
-Durée : 45 min
+Durée : 50 min
 <br>
 
 #### Adultes <br>
