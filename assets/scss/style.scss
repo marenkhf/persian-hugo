@@ -141,6 +141,13 @@ AUTHOR WEBSITE: https://themefisher.com
   padding: 0.5rem 1rem;
 }
 
+.youtube-placeholder .thumbnail:hover .play-button {
+  background: rgba(255, 255, 255, 0.8);
+  color: #cc0000;
+  transform: translate(-50%, -50%) scale(1.1);
+  transition: all 0.2s ease-in-out;
+}
+
 
 @media (max-width: 768px) {
   .doctolib-button {
