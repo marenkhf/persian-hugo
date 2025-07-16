@@ -90,6 +90,10 @@ In adolescents:
 <br>
 <br>
 
-<div class="video-container">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/BU27TUPikaw?si=zftkKWllu3qVXpBOm" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="youtube-placeholder" data-ytid="BU27TUPikaw" onclick="loadYoutube(this)">
+  <div class="thumbnail">
+    <img src="https://img.youtube.com/vi/BU27TUPikaw/hqdefault.jpg" alt="YouTube Vorschau">
+    <div class="play-button">▶</div>
+  </div>
+  <p>By clicking on the video, you consent to the transfer of data to YouTube.</p>
 </div>
