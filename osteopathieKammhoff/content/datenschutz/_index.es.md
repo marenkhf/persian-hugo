@@ -23,7 +23,8 @@ Maren Kammhoff
 
 *Autoridad de supervisión:* <br>
 
-Oficina Estatal de Salud y Asuntos Sociales (LAGeSo), Turmstr. 21, 10559 Berlín
+Landesgesundheitsamt Baden-Württemberg,
+Nordbahnhofstraße 135, 70191 Stuttgart
 
 *Colegio Profesional:*
 
@@ -175,22 +176,27 @@ Este sitio utiliza el cifrado SSL o TLS por razones de seguridad y para proteger
 
 Este sitio utiliza Google Maps a través de una API. El proveedor es Google Inc., 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA. Para utilizar las funciones de Google Maps, es necesario almacenar su dirección IP. Esta información generalmente se transmite a un servidor de Google en los EE.UU. y se almacena allí. El proveedor de este sitio no tiene ninguna influencia en esta transferencia de datos. El nivel adecuado de protección de datos está garantizado por la certificación de Google LLC bajo el acuerdo Privacy Shield (https://www.privacyshield.gov/participant?id=a2zt000000001L5AAI). El uso de Google Maps es en interés de una presentación atractiva de nuestras ofertas en línea y para facilitar la localización de los lugares indicados en el sitio web. La base legal para el tratamiento de datos es el Art. 6 par. 1 lit. f del RGPD. El propósito mencionado constituye el interés legítimo en el sentido del Art. 6 par. 1 lit. f del RGPD. Más información sobre la gestión de los datos de los usuarios se puede encontrar en la política de privacidad de Google: https://www.google.de/intl/de/policies/privacy/.
 
-*9. Oposición a Correos Publicitarios*
+*9. YouTube-Videos*
+
+Este sitio web incluye vídeos incrustados de YouTube. Para proteger sus datos personales, los vídeos no se cargan automáticamente. Solo después de que usted haya dado su consentimiento explícito haciendo clic en el vídeo, se establece una conexión con los servidores de YouTube. En ese momento, pueden transmitirse datos personales (como su dirección IP) a YouTube. Para más información, consulte la política de privacidad de Google:
+https://policies.google.com/privacy?hl=es
+
+*10. Oposición a Correos Publicitarios*
 
 Se prohíbe el uso de los datos de contacto publicados en el marco de la obligación de aviso legal para el envío de publicidad no solicitada y material informativo. Los operadores de estas páginas se reservan expresamente el derecho de tomar medidas legales en caso de envío no solicitado de información publicitaria, como correos electrónicos de spam.
 
-*10. Contacto por Teléfono o Correo Electrónico*
+*11. Contacto por Teléfono o Correo Electrónico*
 
 En el curso de la toma de contacto conmigo (por ejemplo, por teléfono o correo electrónico), se recogen datos personales, tales como nombre, dirección de correo electrónico, el texto de su solicitud, y opcionalmente, el número de teléfono. Estos datos se almacenan o utilizan con el propósito de procesar la solicitud o para la administración técnica asociada. La base legal para el tratamiento de los datos es mi interés legítimo en responder a su solicitud según el Art. 6 par. 1 lit. f del RGPD. Si su solicitud tiene como objetivo la celebración de un contrato, o si ya es miembro de nuestra asociación, la base legal para el tratamiento de datos es el Art. 6 par. 1 lit. b del RGPD. Sus datos serán eliminados después de la tramitación final de su solicitud, siempre que no existan obligaciones legales de retención.
 
-*11. Delegado de Protección de Datos*
+*12. Delegado de Protección de Datos*
 
 No existe obligación de nombrar un delegado de protección de datos.
 
-*12. Derecho de Revocación*
+*13. Derecho de Revocación*
 
 Conforme al Art. 7 par. 3 del RGPD, tiene derecho a revocar su consentimiento para el tratamiento de sus datos en cualquier momento. La revocación que declare no afecta a la legalidad del tratamiento de sus datos personales hasta la revocación.
 
-*13. Derecho de Oposición*
+*14. Derecho de Oposición*
 
 Tiene derecho, por motivos relacionados con su situación particular, a oponerse en cualquier momento al tratamiento de los datos personales que le conciernen, basado en un balance de intereses (Art. 6 par. 1 lit. f del RGPD). Esto es especialmente relevante si el tratamiento de datos no es necesario para la ejecución de un contrato.

@@ -23,8 +23,8 @@ Maren Kammhoff
 
 *Aufsichtsbehörde:* <br>
 
-Landesamt für Gesundheit und Soziales (LAGeSo),
-Turmstr. 21, 10559 Berlin
+Landesgesundheitsamt Baden-Württemberg,
+Nordbahnhofstraße 135, 70191 Stuttgart
  
 *Berufskammer:*
 
@@ -178,22 +178,27 @@ Diese Seite nutzt aus Sicherheitsgründen und zum Schutz der Übertragung vertra
 
 Diese Seite nutzt über eine API den Kartendienst Google Maps. Anbieter ist die Google Inc., 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA. Zur Nutzung der Funktionen von Google Maps ist es notwendig, Ihre IP Adresse zu speichern. Diese Informationen werden in der Regel an einen Server von Google in den USA übertragen und dort gespeichert. Der Anbieter dieser Seite hat keinen Einfluss auf diese Datenübertragung. Das angemessene Datenschutzniveau ist durch die Zertifizierung von Google LLC unter dem Privacy Shield abkommen gewährleistet (https://www.privacyshield.gov/participant?id=a2zt000000001L5AAI). Die Nutzung von Google Maps erfolgt im Interesse einer ansprechenden Darstellung unserer Online-Angebote und an einer leichten Auffindbarkeit der von uns auf der Website angegebenen Orte. Die Rechtsgrundlage der Datenverarbeitung ist Art. 6 Abs. 1 lit. f. DSGVO. Der vorgenannte Zweck stellt das berechtigte Interesse im Sinne von Art. 6 Abs. 1 lit. f DSGVO dar. Mehr Informationen zum Umgang mit Nutzerdaten finden Sie in der Datenschutzerklärung von Google: https://www.google.de/intl/de/policies/privacy/.
 
-*9. Widerspruch gegen Werbe-Mail*
+*9. YouTube-Videos*
+
+Auf dieser Website sind Videos von YouTube eingebunden. Zum Schutz Ihrer personenbezogenen Daten werden die Videos standardmäßig nicht direkt geladen. Erst wenn Sie dem Laden ausdrücklich zustimmen (durch Klick auf das Video), wird eine Verbindung zu den Servern von YouTube hergestellt. Dabei können personenbezogene Daten (z. B. Ihre IP-Adresse) an YouTube übermittelt werden. Weitere Informationen finden Sie in der Datenschutzerklärung von Google:
+https://policies.google.com/privacy?hl=de
+
+*10. Widerspruch gegen Werbe-Mail*
 
 Der Nutzung von im Rahmen der Impressumspflicht veröffentlichten Kontaktdaten zur Übersendung von nicht ausdrücklich angeforderter Werbung und Informationsmaterialien wird hiermit widersprochen. Die Betreiber der Seiten behalten sich ausdrücklich rechtliche Schritte im Falle der unverlangten Zusendung von Werbeinformationen, etwa durch Spam-E-Mails, vor.
 
-*10. Kontakt per Telefon oder E-Mail*
+*11. Kontakt per Telefon oder E-Mail*
  
 Im Rahmen der Kontaktaufnahme mit mir (z.B. per Telefon oder E-Mail) werden personenbezogene Daten wie beispielsweise Name, E-Mail-Adresse und Text Ihrer Anfrage sowie optional die Telefonnummer erhoben. Diese Daten werden zum Zweck der Beantwortung des Anliegens bzw. für die Kontaktaufnahme und die damit verbundene technische Administration gespeichert bzw. verwendet. Rechtsgrundlage für die Verarbeitung der Daten ist mein berechtigtes Interesse an der Beantwortung Ihres Anliegens gemäß Art. 6 Abs. 1 Abs. 1 lit. f DSGVO. Zielt Ihre Anfrage auf den Abschluss eines Vertrages ab oder sind Sie bereits Mitglied in unserem Verband, so ist Rechtsgrundlage für die Datenverarbeitung Art. 6 Abs. 1 lit. b DSGVO. Ihre Daten werden nach abschließender Bearbeitung Ihrer Anfrage gelöscht, wenn sich aus den Umständen entnehmen lässt, dass der betroffene Sachverhalt abschließend geklärt ist und sofern keine gesetzlichen Bestimmungen oder Aufbewahrungspflichten dem entgegenstehen.
 
-*11. Datenschutzbeauftrager*  
+*12. Datenschutzbeauftrager*  
 
 Zur Benennung eines Datenschutzbeauftragten besteht keine Verpflichtung. 
 
-*12. Widerrufsrecht*
+*13. Widerrufsrecht*
 
 Gemäß Art. 7 Abs. 3 DSGVO steht Ihnen das Recht zu, Ihre erteilte Einwilligung in die Verarbeitung Ihrer Daten jederzeit uns gegenüber zu widerrufen. Der von Ihnen erklärte Widerruf ändert nichts an der Rechtmäßigkeit der bis zum Widerruf erfolgten Verarbeitung Ihrer personenbezogenen Daten.  
 
-*13. Widerspruchsrecht* 
+*14. Widerspruchsrecht* 
 
 Sie haben das Recht, aus Gründen, die sich aus Ihrer besonderen Situation ergeben, jederzeit gegen die Verarbeitung der Sie betreffenden personenbezogenen Daten, die aufgrund einer Interessenabwägung (Art. 6 Abs. 1 lit. f DSGVO) erfolgt, Widerspruch einzulegen. Dies ist insbesondere dann der Fall, wenn die Datenverarbeitung nicht zur Erfüllung eines Vertrages erforderlich ist.

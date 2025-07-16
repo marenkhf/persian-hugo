@@ -23,7 +23,8 @@ Maren Kammhoff
 
 *Autorité de surveillance:* <br>
 
-Office d'État pour la Santé et les Affaires Sociales (LAGeSo), Turmstr. 21, 10559 Berlin
+Landesgesundheitsamt Baden-Württemberg,
+Nordbahnhofstraße 135, 70191 Stuttgart
 
 *Ordre professionnel:*
 
@@ -175,23 +176,28 @@ Ce site utilise le chiffrement SSL ou TLS pour des raisons de sécurité et pour
 
 Ce site utilise Google Maps via une API. Le fournisseur est Google Inc., 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA. Pour utiliser les fonctions de Google Maps, votre adresse IP doit être enregistrée. Ces informations sont généralement transmises à un serveur de Google aux États-Unis et y sont stockées. Le fournisseur de ce site n'a aucune influence sur ce transfert de données. Le niveau de protection des données approprié est garanti par la certification de Google LLC dans le cadre du Privacy Shield (https://www.privacyshield.gov/participant?id=a2zt000000001L5AAI). L'utilisation de Google Maps se fait dans l'intérêt d'une présentation attractive de nos offres en ligne et pour faciliter la localisation des lieux indiqués sur le site. La base juridique du traitement des données est l'Art. 6 par. 1 lit. f du RGPD. La finalité mentionnée constitue l'intérêt légitime au sens de l'Art. 6 par. 1 lit. f du RGPD. Plus d'informations sur la gestion des données des utilisateurs sont disponibles dans la politique de confidentialité de Google : https://www.google.de/intl/de/policies/privacy/.
 
-*9. Opposition aux Emails Publicitaires*
+*9. YouTube-Videos*
+
+Ce site web intègre des vidéos provenant de YouTube. Pour protéger vos données personnelles, ces vidéos ne sont pas chargées automatiquement. Une connexion avec les serveurs de YouTube n’est établie qu’après votre consentement actif, en cliquant sur la vidéo. Des données personnelles (comme votre adresse IP) peuvent alors être transmises à YouTube. Pour en savoir plus, veuillez consulter la politique de confidentialité de Google :
+https://policies.google.com/privacy?hl=fr
+
+*10. Opposition aux Emails Publicitaires*
 
 L'utilisation des données de contact publiées dans le cadre de l'obligation de mentions légales pour l'envoi de publicités non sollicitées et de matériel d'information est interdite. Les exploitants de ces pages se réservent le droit de prendre des mesures juridiques en cas d'envoi non sollicité d'informations publicitaires, par exemple via des courriels de spam.
 
-*10. Contact par Téléphone ou E-mail*
+*11. Contact par Téléphone ou E-mail*
 
 Dans le cadre de la prise de contact avec moi (par exemple, par téléphone ou par e-mail), des données personnelles telles que votre nom, votre adresse e-mail, le texte de votre demande et, éventuellement, votre numéro de téléphone sont collectées. Ces données sont stockées ou utilisées dans le but de répondre à votre demande et pour l'administration technique associée. La base juridique du traitement des données est mon intérêt légitime à répondre à votre demande conformément à l'Art. 6 par. 1 lit. f du RGPD. Si votre demande vise à conclure un contrat, ou si vous êtes déjà membre de notre association, la base juridique du traitement des données est l'Art. 6 par. 1 lit. b du RGPD. Vos données seront supprimées après traitement final de votre demande, sauf s'il existe des obligations légales de conservation.
 
-*11. Délégué à la Protection des Données*
+*12. Délégué à la Protection des Données*
 
 Aucune obligation de nommer un délégué à la protection des données.
 
-*12. Droit de Révocation*
+*13. Droit de Révocation*
 
 Conformément à l'Art. 7 par. 3 du RGPD, vous avez le droit de révoquer votre consentement au traitement de vos données à tout moment. La révocation que vous déclarez n'affecte pas la légalité du traitement de vos données personnelles jusqu'à la révocation.
 
-*13. Droit d'Opposition*
+*14. Droit d'Opposition*
 
 Vous avez le droit, pour des raisons tenant à votre situation particulière, de vous opposer à tout moment au traitement de vos données personnelles, qui est basé sur une balance d'intérêts (Art. 6 par. 1 lit. f du RGPD). Cela est particulièrement le cas si le traitement des données n'est pas nécessaire à l'exécution d'un contrat.
 

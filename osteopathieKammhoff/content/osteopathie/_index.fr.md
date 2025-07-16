@@ -85,3 +85,11 @@ Chez les adolescents :
 <br>
 
 (La liste présente une mention non exhaustive et exemplaire des raisons possibles de visite.)
+
+<br>
+<br>
+<br>
+
+<div class="video-container">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/BU27TUPikaw?si=zftkKWllu3qVXpBOm" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>

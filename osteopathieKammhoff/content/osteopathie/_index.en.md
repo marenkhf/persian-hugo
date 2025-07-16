@@ -86,3 +86,10 @@ In adolescents:
 
 (The list represents an incomplete, exemplary mention of possible reasons for visits.)
  
+<br>
+<br>
+<br>
+
+<div class="video-container">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/BU27TUPikaw?si=zftkKWllu3qVXpBOm" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>

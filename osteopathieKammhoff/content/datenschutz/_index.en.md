@@ -23,7 +23,8 @@ Maren Kammhoff
 
 *Supervisory Authority:* <br>
 
-State Office for Health and Social Affairs (LAGeSo), Turmstr. 21, 10559 Berlin
+Landesgesundheitsamt Baden-Württemberg,
+Nordbahnhofstraße 135, 70191 Stuttgart
 
 *Professional Association:* <br>
 
@@ -175,23 +176,28 @@ This site uses SSL or TLS encryption for security reasons and to protect the tra
 
 This site uses the Google Maps map service via an API. Provider is Google Inc., 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA. To use Google Maps features, it is necessary to save your IP address. This information is usually transmitted to a Google server in the USA and stored there. The provider of this site has no influence on this data transfer. The appropriate data protection level is ensured by Google LLC’s certification under the Privacy Shield agreement (https://www.privacyshield.gov/participant?id=a2zt000000001L5AAI). The use of Google Maps is in the interest of an attractive presentation of our online offers and easy location of the places indicated by us on the website. The legal basis of data processing is Art. 6 para. 1 lit. f DSGVO. The aforementioned purpose also constitutes the legitimate interest within the meaning of Art. 6 para. 1 lit. f DSGVO. More information on handling user data can be found in Google’s Privacy Policy: https://www.google.de/intl/de/policies/privacy/.
 
-*9. Objection to Promotional Emails*
+*9. YouTube-Videos*
+
+This website includes embedded videos from YouTube. To protect your personal data, these videos are not loaded automatically. A connection to YouTube's servers is only established after you actively consent by clicking on the video. Personal data (such as your IP address) may then be transmitted to YouTube. For more information, please see Google's privacy policy:
+https://policies.google.com/privacy?hl=en
+
+*10. Objection to Promotional Emails*
 
 The use of the contact data published within the scope of the imprint obligation for sending unsolicited advertising and information materials is hereby objected to. The operators of the pages expressly reserve the right to take legal action in the event of the unsolicited sending of advertising information, such as spam emails.
 
-*#10. Contact by Phone or Email*
+*11. Contact by Phone or Email*
 
 In the course of contacting me (e.g., by phone or email), personal data such as name, email address, text of your request, and optionally, phone number are collected. These data are stored or used for the purpose of processing the request or for contacting and technical administration. The legal basis for data processing is my legitimate interest in responding to your request according to Art. 6 para. 1 para. 1 lit. f DSGVO. If your request aims at concluding a contract or you are already a member of our association, the legal basis for data processing is Art. 6 para. 1 lit. b DSGVO. Your data will be deleted after the final processing of your request, provided there are no legal retention periods.
 
-*11. Data Protection Officer*
+*12. Data Protection Officer*
 
 No obligation exists to appoint a data protection officer.
 
-*12. Right of Withdrawal*
+*13. Right of Withdrawal*
 
 According to Art. 7 para. 3 DSGVO, you have the right to revoke your consent to the processing of your data at any time. The withdrawal declared by you does not change the lawfulness of the processing of your personal data until the withdrawal.
 
-*13. Right to Object*
+*14. Right to Object*
 
 You have the right to object at any time, on grounds relating to your particular situation, to the processing of personal data concerning you, which is based on an interest assessment (Art. 6 para. 1 lit. f DSGVO). This is particularly the case if the data processing is not required for the performance of a contract.
 
