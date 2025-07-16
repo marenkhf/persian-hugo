@@ -112,12 +112,14 @@ AUTHOR WEBSITE: https://themefisher.com
 }
 
 .youtube-placeholder {
-  max-width: 560px;
+  width: 560px;
+  height: auto;
   margin: 2rem auto;
   text-align: center;
   font-size: 0.9rem;
   color: #333;
 }
+
 
 .youtube-placeholder .thumbnail {
   position: relative;
@@ -147,16 +149,6 @@ AUTHOR WEBSITE: https://themefisher.com
   transform: translate(-50%, -50%) scale(1.1);
   transition: all 0.2s ease-in-out;
 }
-
-.youtube-placeholder {
-  width: 560px;
-  height: auto;
-  margin: 2rem auto;
-  text-align: center;
-  font-size: 0.9rem;
-  color: #333;
-}
-
 
 @media (max-width: 768px) {
   .doctolib-button {
