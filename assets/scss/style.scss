@@ -148,6 +148,15 @@ AUTHOR WEBSITE: https://themefisher.com
   transition: all 0.2s ease-in-out;
 }
 
+.youtube-placeholder {
+  width: 560px;
+  height: auto;
+  margin: 2rem auto;
+  text-align: center;
+  font-size: 0.9rem;
+  color: #333;
+}
+
 
 @media (max-width: 768px) {
   .doctolib-button {
