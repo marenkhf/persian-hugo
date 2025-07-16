@@ -90,10 +90,11 @@ bei Jugendlichen
 <br>
 <br>
 
-<div class="youtube-placeholder" data-ytid="BU27TUPikaw">
+<div class="youtube-placeholder" data-ytid="qaxLBXQqyVQ">
   <div class="thumbnail" onclick="loadYoutube(this)">
-    <img src="https://img.youtube.com/vi/BU27TUPikaw/hqdefault.jpg" alt="YouTube Vorschau">
+    <img src="https://img.youtube.com/vi/qaxLBXQqyVQ/hqdefault.jpg" alt="YouTube Vorschau">
     <div class="play-button">▶</div>
   </div>
   <p>Mit Klick auf das Vorschaubild willigen Sie in die Datenübertragung an YouTube ein.</p>
 </div>
+

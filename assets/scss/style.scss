@@ -112,23 +112,30 @@ AUTHOR WEBSITE: https://themefisher.com
 }
 
 .youtube-placeholder {
-  width: 560px;
-  height: auto;
+  max-width: 560px;
   margin: 2rem auto;
   text-align: center;
   font-size: 0.9rem;
   color: #333;
 }
 
-
 .youtube-placeholder .thumbnail {
   position: relative;
+  width: 100%;
+  padding-bottom: 56.25%; // 16:9 Verhältnis
+  height: 0;
+  overflow: hidden;
   cursor: pointer;
 }
 
 .youtube-placeholder img {
+  position: absolute;
+  top: 0;
+  left: 0;
   width: 100%;
-  border-radius: 6px;
+  height: 100%;
+  object-fit: cover;
+  display: block;
 }
 
 .youtube-placeholder .play-button {
@@ -138,9 +145,10 @@ AUTHOR WEBSITE: https://themefisher.com
   transform: translate(-50%, -50%);
   font-size: 3rem;
   color: white;
-  background: rgba(0,0,0,0.6);
+  background: rgba(0, 0, 0, 0.6);
   border-radius: 50%;
   padding: 0.5rem 1rem;
+  z-index: 2;
 }
 
 .youtube-placeholder .thumbnail:hover .play-button {
@@ -148,6 +156,24 @@ AUTHOR WEBSITE: https://themefisher.com
   color: #cc0000;
   transform: translate(-50%, -50%) scale(1.1);
   transition: all 0.2s ease-in-out;
+}
+
+/* Responsive Video Wrapper */
+.responsive-video {
+  position: relative;
+  width: 100%;
+  padding-bottom: 56.25%; // 16:9
+  height: 0;
+  overflow: hidden;
+}
+
+.responsive-video iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  border: 0;
 }
 
 @media (max-width: 768px) {
