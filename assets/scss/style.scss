@@ -176,6 +176,22 @@ AUTHOR WEBSITE: https://themefisher.com
   border: 0;
 }
 
+@media (max-width: 480px) {
+  .youtube-placeholder {
+    margin: 1.5rem 1rem;
+  }
+
+  .youtube-placeholder .play-button {
+    font-size: 2rem;
+    padding: 0.4rem 0.8rem;
+  }
+
+  .youtube-placeholder p {
+    font-size: 0.8rem;
+  }
+}
+
+
 @media (max-width: 768px) {
   .doctolib-button {
     width: 80px !important; /* Erzwingt die Breite in der mobilen Ansicht */
