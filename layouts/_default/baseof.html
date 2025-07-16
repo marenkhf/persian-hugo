@@ -3,6 +3,27 @@
   {{ partial "head.html" . }}
 
   <body>
-    {{ partial "doctolib.html" . }} {{ partial "preloader.html" . }} {{ partial "header.html" . }} {{ block "main" . }}{{ end }} {{ partial "footer.html" . }}
+    {{ partial "doctolib.html" . }}
+    {{ partial "preloader.html" . }}
+    {{ partial "header.html" . }}
+    {{ block "main" . }}{{ end }}
+    {{ partial "footer.html" . }}
+
+    <!-- JavaScript für YouTube-Videos -->
+    <script>
+      function loadYoutube(element) {
+        const container = element.closest('.youtube-placeholder');
+        const videoId = container.getAttribute('data-ytid');
+        const iframe = document.createElement('iframe');
+        iframe.setAttribute('src', 'https://www.youtube.com/embed/' + videoId + '?autoplay=1');
+        iframe.setAttribute('frameborder', '0');
+        iframe.setAttribute('allowfullscreen', '');
+        iframe.setAttribute('allow', 'accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture');
+        iframe.style.width = '100%';
+        iframe.style.height = '315px';
+        container.innerHTML = '';
+        container.appendChild(iframe);
+      }
+    </script>
   </body>
 </html>
