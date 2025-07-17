@@ -1,7 +1,7 @@
 ---
 title: "Osteopathie Maren Kammhoff - Praxis für Babys, Kinder und Erwachsene in Stuttgart-Süd"
 image: "images/Uebermich1-min.jpg"
-description: "Osteopathie für Babys, Kinder & Erwachsene in Stuttgart-Heslach – Zertifizierte Kinderosteopathin Maren Kammhoff. Sanfte Hilfe ab dem ersten Tag."
+description: "Osteopathie für Babys, Kinder, Schwangere & Erwachsene in Stuttgart-Heslach – Kinderosteopathin Maren Kammhoff. Sanfte Hilfe ab dem ersten Tag."
 gallery:
     - images/Kinderosteopathie1.png
     - images/Osteopathie2-min.jpg
@@ -19,7 +19,7 @@ gallery:
 
 Die osteopathische Herangehensweise an gesundheitliche Beschwerden liegt mir sehr am Herzen. Die Osteopathie ist eine manuelle Therapieform, die das Gleichgewicht und die Funktion im Körper wiederherstellt, indem Blockaden und Verspannungen gelöst werden. 
 
-Durch meine umfassende Ausbildung in der klassischen Osteopathie und Kinderosteopathie betreue ich Patient*innen jeden Alters. Ich begleite Säuglinge, Kinder, Jugendliche, Schwangere und Erwachsene osteopathisch – bei Geburtserfahrungen, Entwicklungsfragen, Schmerzsymptomen oder funktionellen Beschwerden.
+Durch meine umfassende Ausbildung in der klassischen Osteopathie und Kinderosteopathie betreue ich Patient*innen jeden Alters. Als zertifizierte Osteopathin und Kinderosteopathin begleite ich Säuglinge, Kinder, Jugendliche, Schwangere und Erwachsene osteopathisch – bei Geburtserfahrungen, Entwicklungsfragen, Schmerzsymptomen oder funktionellen Beschwerden.
 
 Nach einer ausführlichen Anamnese und Untersuchung gebe ich Ihnen oder Ihrem Kind die geeigneten Behandlungsempfehlungen und erstelle einen individuellen Therapieplan für Sie und Ihre Familie, um die Symptome und Beschwerden zu lindern oder diesen entgegenzuwirken. Ich setze mich aktiv für das Prinzip der Selbstwirksamkeit des *r Patient *in in der Gesundheit jedes Einzelnen ein und kläre Sie demzufolge auch gerne über mögliche Krankheitsursachen, Symptomentwicklung und Funktionsweisen des menschlichen Körpers auf.
 
