@@ -7,9 +7,9 @@ gallery:
     - images/Osteopathie3-min.jpg
 ---
 
-### Localisation de Stuttgart
+### Localisation et accès
 <br>
 
-Le cabinet est situé Kelterstraße 50 à 70199 Stuttgart, Heslach. Un arrêt de bus est accessible à pied en 5 minutes. Il y a des places de stationnement payantes dans les rues environnantes.
-Le cabinet confortable est situé dans un bâtiment à flanc de colline et n'est pas accessible aux personnes à mobilité réduite. Dehors, quelques marches mènent au bâtiment. Les familles avec poussettes peuvent laisser la poussette sur la place de parking désignée au top du premier escalier. 
+Le cabinet se trouve dans la Kelterstraße 50 à 70199 Stuttgart, Heslach. L'arrêt de bus « Lerchenrainschule » avec la ligne de bus 41 est accessible à pied en 5 minutes. Des places de parking sont disponibles dans les rues environnantes, elles sont payantes.
+Le cabinet confortable est situé dans un bâtiment en pente, il n'est pas accessible aux personnes à mobilité réduite. À l'extérieur, il y a quelques marches qui mènent au bâtiment. Les familles avec des poussettes peuvent les laisser sur le parking pour poussettes indiqué à cet effet après le premier escalier en pierre.
 <br>
