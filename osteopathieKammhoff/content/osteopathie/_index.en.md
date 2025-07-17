@@ -46,6 +46,10 @@ Osteopathy is a holistic therapy that focuses on the manual treatment of the mus
 <br>
 
 Pediatric osteopathy is a special form of osteopathy that focuses on the treatment of infants, (small) children, and adolescents. It views the body as a unit and recognizes the interconnections between structure and function. Through gentle, manual techniques, tension and blockages in the body are relieved to promote children's natural health and well-being. This holistic approach supports physical and psychological development. Pediatric osteopathy can be applied to various conditions.
+
+As a certified infant and pediatric osteopath, I recommend having newborns examined and treated osteopathically within the first few weeks of life.
+
+This allows potential misalignments and tensions to be detected and treated early, before they may lead to painful complaints later in the child’s development. Early intervention can prevent many issues, contributing to healthier development and a happier start in life.
 <br>
 <br>
 

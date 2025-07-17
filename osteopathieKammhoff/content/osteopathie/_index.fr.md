@@ -46,6 +46,10 @@ L'ostéopathie est une thérapie holistique qui se concentre sur le traitement m
 <br>
 
 L'ostéopathie pédiatrique est une forme spéciale d'ostéopathie qui se concentre sur le traitement des nourrissons, des (jeunes) enfants et des adolescents. Elle considère le corps comme une unité et reconnaît les interactions entre structure et fonction. Grâce à des techniques manuelles douces, les tensions et blocages dans le corps sont soulagés pour favoriser la santé et le bien-être naturels des enfants. Cette approche holistique soutient le développement physique et psychologique. L'ostéopathie pédiatrique peut être utilisée pour diverses pathologies.
+
+En tant qu’ostéopathe certifiée pour nourrissons et enfants, je recommande de faire examiner et traiter les nouveau-nés en ostéopathie dès les premières semaines de vie.
+
+Cela permet de détecter et de traiter rapidement d’éventuels désalignements et tensions, avant qu’ils ne provoquent des troubles douloureux au cours du développement de l’enfant. Une intervention précoce permet d’éviter de nombreux problèmes et favorise un développement plus sain ainsi qu’un départ dans la vie plus serein.
 <br>
 <br>
 

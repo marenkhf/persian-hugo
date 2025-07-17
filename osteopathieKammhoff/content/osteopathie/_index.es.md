@@ -46,6 +46,10 @@ La osteopatía es una terapia holística que se centra en el tratamiento manual 
 <br>
 
 La osteopatía pediátrica es una forma especial de osteopatía que se centra en el tratamiento de bebés, niños (pequeños) y adolescentes. Considera el cuerpo como una unidad y reconoce las interacciones entre estructura y función. A través de técnicas manuales suaves, se alivian las tensiones y bloqueos en el cuerpo para promover la salud y el bienestar natural de los niños. Este enfoque holístico apoya el desarrollo físico y psicológico. La osteopatía pediátrica puede aplicarse a diversas afecciones.
+
+Como osteópata certificada en bebés y niños, recomiendo que los recién nacidos sean examinados y tratados osteopáticamente durante las primeras semanas de vida.
+
+Esto permite detectar y tratar a tiempo posibles desalineaciones y tensiones, antes de que puedan causar molestias dolorosas en el desarrollo posterior del niño. Las intervenciones tempranas pueden prevenir muchos problemas y contribuir a un desarrollo más saludable y un comienzo de vida más feliz.
 <br>
 <br>
 
