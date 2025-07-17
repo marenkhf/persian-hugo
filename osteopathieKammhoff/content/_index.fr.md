@@ -25,4 +25,14 @@ Sur mon site web, vous trouverez plus d’informations sur le fonctionnement de 
 
 Cordialement,
 Maren Kammhoff (M.Sc. Ostéopathie, HP)
+<br>
+<br>
+<br>
 
+<div class="youtube-placeholder" data-ytid="qaxLBXQqyVQ" onclick="loadYoutube(this)">
+  <div class="thumbnail">
+    <img src="https://img.youtube.com/vi/qaxLBXQqyVQ/hqdefault.jpg" alt="YouTube Vorschau">
+    <div class="play-button">▶</div>
+  </div>
+  <p>En cliquant sur la vidéo, vous consentez à la transmission de données à YouTube.</p>
+</div>

@@ -25,3 +25,14 @@ En mi sitio web encontrará más información sobre el funcionamiento de la oste
 
 Atentamente,
 Maren Kammhoff (M.Sc. Osteopatía, HP)
+<br>
+<br>
+<br>
+
+<div class="youtube-placeholder" data-ytid="qaxLBXQqyVQ" onclick="loadYoutube(this)">
+  <div class="thumbnail">
+    <img src="https://img.youtube.com/vi/qaxLBXQqyVQ/hqdefault.jpg" alt="YouTube Vorschau">
+    <div class="play-button">▶</div>
+  </div>
+  <p>Al hacer clic en el vídeo, usted acepta la transmisión de datos a YouTube.</p>
+</div>

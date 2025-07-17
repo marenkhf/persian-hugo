@@ -24,3 +24,16 @@ On my website, you will find more information about the practice of osteopathy, 
 
 Yours sincerely,
 Maren Kammhoff (Osteoapthin MSc, Kinderosteopathin, HP)
+<br>
+<br>
+<br>
+
+<div class="youtube-placeholder" data-ytid="qaxLBXQqyVQ" onclick="loadYoutube(this)">
+  <div class="thumbnail">
+    <img src="https://img.youtube.com/vi/qaxLBXQqyVQ/hqdefault.jpg" alt="YouTube Vorschau">
+    <div class="play-button">▶</div>
+  </div>
+  <p>By clicking on the video, you consent to the transfer of data to YouTube.</p>
+</div>
+
+
