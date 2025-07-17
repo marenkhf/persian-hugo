@@ -37,9 +37,9 @@ Gesundheitsamt Lichtenberg, Berlin <br>
 2021
 
 #### Praktische Erfahrung <br>
-2019 - 2021 praktische Erfahrung in osteopathischer Lehrklinik
-2021 - 2024 Mitarbeit in verschiedenen Osteopathie-Praxen in Berlin und Baden-Württemberg
-seit 2025 Tätigkeit in eigener Praxis für Osteopathie in Stuttgart
+praktische Erfahrung in osteopathischer Lehrklinik, 2019-2012 <br>
+Mitarbeit in verschiedenen Osteopathie-Praxen in Berlin und Baden-Württemberg, 2021-2024 <br>
+Tätigkeit in eigener Praxis für Osteopathie in Stuttgart, seit 2025 <br>
   
 #### Internationale und interdisziplinäre Osteopathie-Kongresse
 Trauma & Körper
