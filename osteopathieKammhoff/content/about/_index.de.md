@@ -8,7 +8,8 @@ gallery:
 ---
   
 #### Osteopathin
-5-jähriges Studium und Zusatzqualifikationen mit ca. 5000 Ausbildungseinheiten
+5-jähriges Studium und Zusatzqualifikationen<br>
+ca. 5000 Ausbildungseinheiten
 
 #### Kinderosteopathie <br>
 Kinderosteopathin, 2- jährige Ausbildung an der **[IfAO](https://www.ifaop.com/postgraduatkurse/kursuebersicht/ "kinderosteopathische Ausbildung")** <br>
