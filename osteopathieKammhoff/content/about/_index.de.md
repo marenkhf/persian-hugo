@@ -42,7 +42,7 @@ Mitarbeit in verschiedenen Osteopathie-Praxen in Berlin und Baden-Württemberg, 
 Tätigkeit in eigener Praxis für Osteopathie in Stuttgart, seit 2025 <br>
   
 #### Internationale und interdisziplinäre Osteopathie-Kongresse
-Trauma & Körper
+Trauma & Körper<br>
 Psychologische Aspekte der Osteopathie<br>
 Fasziale Ansätze <br>
 Osteopathische Philosophie und Modelle 
