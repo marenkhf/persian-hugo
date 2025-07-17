@@ -37,10 +37,13 @@ Departamento de Salud de Lichtenberg, Berlin  <br>
 2021
 
 #### Experiencia práctica <br>
-2019 - 2021 experiencia práctica en una clínica de enseñanza osteopática y desde 2021 en su propia práctica osteopática  
+Apertura de la consulta de osteopatía en Stuttgart, 2025<br>
+trabajando en diferentes clínicas de osteopatía en Berlin y Baden-Württemberg, 2021-2024 <br>
+experiencia práctica en una clínica de enseñanza osteopática, 2019-2021 <br>
+
 
 #### Congresos internacionales e interdisciplinarios de Osteopatía 
-Trauma & cuerpo
+Trauma & cuerpo <br>
 Aspectos psicológicos de la osteopatía<br>
 Enfoques fasciales <br>
 Filosofía y modelos osteopáticosy <br>
