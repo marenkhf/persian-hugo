@@ -8,7 +8,8 @@ gallery:
 ---
 
 #### Osteopath
-5-year degree programme with approx. 5000 training units
+5-year degree programme and additional qualifications<br>
+approx. 5000 training units
 
 #### Pediatric Osteopathy <br>
 Pediatric Osteopath, 2-year training at the **[IfAO](https://www.ifaop.com/postgraduatkurse/kursuebersicht/ "kinderosteopathische Ausbildung")** <br>
@@ -37,10 +38,12 @@ Health Department Lichtenberg, Berlin <br>
 2021  
 
 #### Practical Experience <br>
-2019 - 2021 practical experience in osteopathic teaching clinic and since 2021 working in private osteopathic practice
-  
+working in own osteopathic practice in Stuttgart, since 2025<br>
+working in several osteopathic practices in Berlin and Baden-Württemberg, 2021-2024<br>
+practical experience in osteopathic teaching clinic, 2019-2021<br> 
+
 #### International and Interdisciplinary Osteopathy Congresses 
-Trauma & Body
+Trauma & Bodyy <br>
 Psychological Aspects of Osteopathy<br>
 Fascial Approaches <br> 
 Osteopathic Philosophy and Models <br>
