@@ -40,6 +40,7 @@ Service de santé de Lichtenberg, Berlin <br>
 2019 - 2021 expérience pratique en clinique d'enseignement ostéopathique et depuis de 2021 cabinet d'ostéopathie privé
   
 #### Congrès internationeaux et interdisciplinaires d'ostéopathie 
+Traumatisme & corps
 Aspects psychologiques de l'ostéopathie <br>
 Approches fasciales <br>
 Philosophie et modèles ostéopathiques <br>

@@ -8,7 +8,7 @@ gallery:
 ---
   
 #### Osteopathin
-5-jähriges Studium mit ca. 5000 Ausbildungseinheiten
+5-jähriges Studium und Zusatzqualifikationen mit ca. 5000 Ausbildungseinheiten
 
 #### Kinderosteopathie <br>
 Kinderosteopathin, 2- jährige Ausbildung an der **[IfAO](https://www.ifaop.com/postgraduatkurse/kursuebersicht/ "kinderosteopathische Ausbildung")** <br>
@@ -37,9 +37,12 @@ Gesundheitsamt Lichtenberg, Berlin <br>
 2021
 
 #### Praktische Erfahrung <br>
-2019 - 2021 praktische Erfahrung in osteopathischer Lehrklinik und seit 2021 in eigener osteopathischer Praxis tätig
+2019 - 2021 praktische Erfahrung in osteopathischer Lehrklinik
+2021 - 2024 Mitarbeit in verschiedenen Osteopathie-Praxen in Berlin und Baden-Württemberg
+seit 2025 Tätigkeit in eigener Praxis für Osteopathie in Stuttgart
   
 #### Internationale und interdisziplinäre Osteopathie-Kongresse
+Trauma & Körper
 Psychologische Aspekte der Osteopathie<br>
 Fasziale Ansätze <br>
 Osteopathische Philosophie und Modelle 

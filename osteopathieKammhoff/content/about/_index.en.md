@@ -40,6 +40,7 @@ Health Department Lichtenberg, Berlin <br>
 2019 - 2021 practical experience in osteopathic teaching clinic and since 2021 working in private osteopathic practice
   
 #### International and Interdisciplinary Osteopathy Congresses 
+Trauma & Body
 Psychological Aspects of Osteopathy<br>
 Fascial Approaches <br> 
 Osteopathic Philosophy and Models <br>

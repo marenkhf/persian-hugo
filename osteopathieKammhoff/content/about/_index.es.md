@@ -40,6 +40,7 @@ Departamento de Salud de Lichtenberg, Berlin  <br>
 2019 - 2021 experiencia práctica en una clínica de enseñanza osteopática y desde 2021 en su propia práctica osteopática  
 
 #### Congresos internacionales e interdisciplinarios de Osteopatía 
+Trauma & cuerpo
 Aspectos psicológicos de la osteopatía<br>
 Enfoques fasciales <br>
 Filosofía y modelos osteopáticosy <br>
