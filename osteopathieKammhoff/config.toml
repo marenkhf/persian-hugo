@@ -197,8 +197,9 @@ weight = 6
 [params]
 # logo = "images/logo.png"
 # Meta data
-description = "Willkommen in Ihrer Osteopathie-Praxis für die gesamte Familie. Spezialisiert auf Säuglinge, Kinder und Schwangere sowie Frauen nach der Geburt. Erwachsene jeden Alters sind auch herzlich willkommen. Welcome to your osteopathy practice for the entire family. Specializing in infants, children, and pregnant women, as well as women after childbirth. Adults of all ages are also warmly welcome."
+description = "Osteopathie für Babys, Kinder, Schwangere & Erwachsene in Stuttgart-Heslach – Zertifizierte Kinderosteopathin Maren Kammhoff. Sanfte Hilfe ab dem ersten Tag."
 author = "Maren Kammhoff"
+keywords = "Osteopathie Stuttgart, Kinderosteopathin, Osteopathie Babys, Osteopathie Schwangere, Osteopathie Heslach"
 # search  
 search = true
 # contact form action
