@@ -41,7 +41,6 @@ Apertura de la consulta de osteopatía en Stuttgart, 2025<br>
 trabajando en diferentes clínicas de osteopatía en Berlin y Baden-Württemberg, 2021-2024 <br>
 experiencia práctica en una clínica de enseñanza osteopática, 2019-2021 <br>
 
-
 #### Congresos internacionales e interdisciplinarios de Osteopatía 
 Trauma & cuerpo <br>
 Aspectos psicológicos de la osteopatía<br>

@@ -8,7 +8,8 @@ gallery:
 ---
   
 #### Ostéopathe
-5 ans d'études avec environ 5000 unités de formation
+5 ans d'études et de formations complémentaires <br>
+environ 5000 unités de formation
 
 #### Ostéopathie pédiatrique <br>
 Ostéopathe pédiatrique, 2 ans de formation à l'**[IfAO](https://www.ifaop.com/postgraduatkurse/kursuebersicht/ "kinderosteopathische Ausbildung")** <br>
@@ -37,10 +38,12 @@ Service de santé de Lichtenberg, Berlin <br>
 2021
 
 #### Expérience pratique <br>
-2019 - 2021 expérience pratique en clinique d'enseignement ostéopathique et depuis de 2021 cabinet d'ostéopathie privé
+propre cabinet d'ostéopathie à Stuttgart, depuis 2025 <br>
+travail dans des cabinets d'ostéopathie à Berlin et dans les Baden-Württemberg, 2021-2024 <br>
+expérience pratique en clinique d'enseignement ostéopathique, 2019-2021<br>
   
 #### Congrès internationeaux et interdisciplinaires d'ostéopathie 
-Traumatisme & corps
+Traumatisme & corps <br>
 Aspects psychologiques de l'ostéopathie <br>
 Approches fasciales <br>
 Philosophie et modèles ostéopathiques <br>
