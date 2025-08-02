@@ -11,7 +11,7 @@ gallery:
 >Hippokrates  
 <br>  
 
-### Ihre Osteopathie-Praxis für Babys, Kinder & Erwachsene – in Stuttgart-Heslach! 
+### Ihre Osteopathie-Praxis für Babys, Kinder & Erwachsene in Stuttgart-Süd! 
 <br>
 
 #### Einfühlsame osteopathische Begleitung – vom Säugling bis ins Erwachsenenalter.
