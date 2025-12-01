@@ -42,6 +42,7 @@ trabajando en diferentes clínicas de osteopatía en Berlin y Baden-Württemberg
 experiencia práctica en una clínica de enseñanza osteopática, 2019-2021 <br>
 
 #### Congresos internacionales e interdisciplinarios de Osteopatía 
+Osteopathy in Pediatrics <br>
 Trauma & cuerpo <br>
 Aspectos psicológicos de la osteopatía<br>
 Enfoques fasciales <br>

@@ -43,6 +43,7 @@ travail dans des cabinets d'ostéopathie à Berlin et dans les Baden-Württember
 expérience pratique en clinique d'enseignement ostéopathique, 2019-2021<br>
   
 #### Congrès internationeaux et interdisciplinaires d'ostéopathie 
+Osteopathy in Pediatrics <br>
 Traumatisme & corps <br>
 Aspects psychologiques de l'ostéopathie <br>
 Approches fasciales <br>

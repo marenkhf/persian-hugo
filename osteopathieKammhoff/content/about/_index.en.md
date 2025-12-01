@@ -43,6 +43,7 @@ working in several osteopathic practices in Berlin and Baden-Württemberg, 2021-
 practical experience in osteopathic teaching clinic, 2019-2021<br> 
 
 #### International and Interdisciplinary Osteopathy Congresses 
+Osteopathy in Pediatrics <br>
 Trauma & Bodyy <br>
 Psychological Aspects of Osteopathy<br>
 Fascial Approaches <br> 

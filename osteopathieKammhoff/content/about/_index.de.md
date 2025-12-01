@@ -43,6 +43,7 @@ Mitarbeit in verschiedenen Osteopathie-Praxen in Berlin und Baden-Württemberg, 
 praktische Erfahrung in osteopathischer Lehrklinik, 2019-2021 <br>
   
 #### Internationale und interdisziplinäre Osteopathie-Kongresse
+Osteopathy in Pediatrics (Osteopathie in der Kinderheilkunde)<br>
 Trauma & Körper<br>
 Psychologische Aspekte der Osteopathie<br>
 Fasziale Ansätze <br>
